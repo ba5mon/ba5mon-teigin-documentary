@@ -12,11 +12,10 @@ const IMGS = ['hirasawa_1951', 'hirasawa_c1920', 'hirasawa_trial_1948', 'horisak
 const load = src => new Promise(r => { const i = new Image(); i.onload = () => r(i); i.onerror = () => { console.warn('optional file missing: ' + src); r(null); }; i.src = src; });
 
 // the act clock carried by each chapter slate
-const SLATE = { 1: 'MON 26 JAN 1948 · 15:00', 2: 'TOKYO · 1945 → 1948', 3: '26 JAN 1948 · ≈15:20', 4: '26 JAN 1948 · ≈15:20 → 15:50', 5: '26 → 27 JAN 1948', 6: '26 → 27 JAN 1948',
-  7: 'JAN → AUG 1948', 8: 'OCT 1947 → 26 JAN 1948', 9: 'SPRING → SUMMER 1948', 10: '1892 → 1947', 11: 'AUGUST 1948', 12: '1947 · 1948 · 1949', 13: 'AUG → SEP 1948',
-  14: 'DEC 1948 → 1950', 15: '1945 → 1948', 16: '1945 → 1980s', 17: '1950 · 1955', 18: '1955 → 1987', 19: '1960s → 1985', 20: '1948 → 10 MAY 1987', 21: '1948 → TODAY', 22: 'UNRESOLVED' };
-const SLATE_IMG = { 1: 'ams_toshima', 2: 'awm_daiichi_b', 3: 'ams_toshima', 4: 'reenact', 5: 'horisaki', 7: 'kanda_extra', 8: 'matsui', 10: 'hirasawa_c1920', 11: 'interrogation', 12: 'interrogation',
-  13: 'kanda_extra', 14: 'hirasawa_trial_1948', 17: 'hirasawa_trial_1948', 19: 'hirasawa_c1920', 20: 'hirasawa_1951', 22: 'hirasawa_1951' };
+const SLATE = { 1: 'MON 26 JAN 1948 · 15:00', 2: 'TOKYO · 1945 → 1948', 3: '26 JAN 1948 · ≈15:20', 4: '26 JAN 1948 · ≈15:20 → 27 JAN', 5: '26 → 27 JAN 1948',
+  6: 'OCT 1947 → SUMMER 1948', 7: '1892 → AUGUST 1948', 8: 'AUG → DEC 1948', 9: '1945 → 1980s', 10: '1950 → 1987', 11: '1987 → TODAY' };
+const SLATE_IMG = { 1: 'ams_toshima', 2: 'awm_daiichi_b', 3: 'ams_toshima', 4: 'reenact', 6: 'matsui', 7: 'hirasawa_c1920', 8: 'kanda_extra',
+  10: 'hirasawa_trial_1948', 11: 'hirasawa_1951' };
 
 export async function boot() {
   TL = await (await fetch('timeline.json')).json(); SEGS = TL.segs; SUBS = TL.subs; DUR = TL.dur;
@@ -47,7 +46,7 @@ function slate(s, l) {
   flashRect(l, 0, 0, 0, W, H, .1);
   const k = seg(l, .05, .1), X0 = 120, im = S.IM[SLATE_IMG[s.ch]];
   if (im) alpha(.32 * k, () => cover(im, 1180, 140, 620, 700, { k: seg(l, 0, 4), z: 1.04, noborder: false }));
-  txt(`CHAPTER ${String(s.ch).padStart(2, '0')} / 22`, X0, 360, { s: 22, w: 600, f: F.mono, c: C.acc, ls: 5, a: k, id: 'sl' + s.ch });
+  txt(`CHAPTER ${String(s.ch).padStart(2, '0')} / ${s.of}`, X0, 360, { s: 22, w: 600, f: F.mono, c: C.acc, ls: 5, a: k, id: 'sl' + s.ch });
   const maxW = im ? 940 : 1640, big = Math.min(96, Math.floor(96 * maxW / tw(s.title, { s: 96, w: 700 })));   // never runs into the photo
   txt(s.title, X0, 470, { s: big, w: 700, a: k, id: 'slt' + s.ch });
   readout(SLATE[s.ch], X0 + 2, 560, { s: 38, c: C.dim, a: seg(l, .15, .2), id: 'slr' + s.ch });

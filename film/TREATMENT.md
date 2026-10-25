@@ -1,5 +1,10 @@
 # The Teigin Incident — Treatment (Visual Investigation)
 
+> **Structure update:** the film has **11 chapters** (the user's titles). The 22 narration parts below keep their layouts; they are grouped as
+> 1 Cold open [1] · 2 Japan in 1948 [2] · 3 The visitor [3] · 4 The medicine [4–5] · 5 The money left behind [6] · 6 The earlier attempts [7–9] ·
+> 7 The suspect [10–11] · 8 The confession [12–14] · 9 The Unit 731 theory [15–16] · 10 The verdict [17–19] · 11 The ending [20–22].
+> A chapter card (4 s) opens each of the 11 chapters; parts inside a chapter follow each other with a hard cut. Runtime 19:01.
+
 Style: **Visual Investigation** (`styles/visual-investigation/STYLE.md`), all invariants kept: cold desk ground `#0B0C0E`, panels `#141619`, greyscale sources, one red `#FF4A2E` that only points, hard cuts with a 3–4-frame white flash, few words per frame, uncertainty drawn (`≈`, *inferred*, *schematic*, dashed boxes). 1920×1080, 30 fps. English narration (locked script, Kokoro `am_michael`), English subtitles one line per cue at the foot of the frame, plus `.srt`.
 
 Material (all public domain, `SOURCES.md`): 11 photographs from 1919–1951 (Asahi Graph and others, `PD-Japan-oldphoto`), 5 occupation photographs from the Australian War Memorial (1945–46), the US Army Map Service 1:12,500 Tokyo sheet “Koishikawa” (1945–46), the text of the 1947 Constitution (Art. 38). No film footage (the brief forbids clips from other films), so the “moving image” role is taken by the police re-enactment stills (a strip from a 1948 police film) and by drawn evidence. Photographs of the victims exist and are deliberately excluded.

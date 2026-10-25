@@ -12,6 +12,11 @@ FILM = Path(__file__).resolve().parent.parent
 CARD, MAIN, CREDITS = 4.0, 4.6, 28.0
 MAXC = 78            # characters per subtitle cue: one line ≤ 1,500 px at 34 px (checked in the page by SUBCHECK)
 ROMAN = "I II III IV V VI VII VIII IX X XI XII XIII XIV XV XVI XVII XVIII XIX XX XXI XXII".split()
+# The film's 11 chapters (the user's titles); each holds one or more narration parts (the recorded sections, numbered 1–22)
+CHAPTERS = [("Cold open", [1]), ("Japan in 1948", [2]), ("The visitor", [3]), ("The medicine", [4, 5]), ("The money left behind", [6]),
+            ("The earlier attempts", [7, 8, 9]), ("The suspect", [10, 11]), ("The confession", [12, 13, 14]), ("The Unit 731 theory", [15, 16]),
+            ("The verdict", [17, 18, 19]), ("The ending", [20, 21, 22])]
+FIRST = {parts[0]: (k + 1, title, parts) for k, (title, parts) in enumerate(CHAPTERS)}
 
 
 def chunks(s):
@@ -42,7 +47,9 @@ def main():
     t = 0.0
     for c in T["chapters"]:
         n = c["n"]
-        segs.append({"kind": "card", "ch": n, "num": ROMAN[n - 1], "title": c["title"], "t0": round(t, 3), "t1": round(t + CARD, 3)}); t += CARD
+        if n in FIRST:   # a chapter card before the first narration part of each of the 11 chapters
+            k, title, parts = FIRST[n]
+            segs.append({"kind": "card", "ch": k, "of": len(CHAPTERS), "first": n, "parts": parts, "title": title, "t0": round(t, 3), "t1": round(t + CARD, 3)}); t += CARD
         t0 = t
         segs.append({"kind": "ch", "ch": n, "title": c["title"], "t0": round(t0, 3), "t1": round(t0 + c["duration"], 3), "audio": f"audio/ch{n:02d}.wav"})
         cues = []

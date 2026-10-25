@@ -66,11 +66,11 @@ PH_FIX = [("mˈænɪdʒd", "mˈænɪdʒd,"), ("lˈʊkt", "lˈʊkt,"), ("ænd hɪ
 
 
 def chapters():
+    """the recorded narration parts (1–22), in order; script.md groups them into the film's 11 chapters"""
     src = (FILM / "script.md").read_text()
-    for c in re.split(r"^### ", src, flags=re.M)[1:]:
-        head, body = c.split("\n", 1)
-        body = re.sub(r"\s*\[VERIFY[^\]]*\]", "", body)
-        yield head.strip(), [" ".join(p.split()) for p in body.split("\n\n") if p.strip()]
+    for m in re.finditer(r"^\*\(part (\d+): ([^)]*)\)\*\n(.*?)(?=^\*\(part |^## |\Z)", src, re.M | re.S):
+        body = re.sub(r"\s*\[VERIFY[^\]]*\]", "", m.group(3))
+        yield m.group(2).strip(), [" ".join(p.split()) for p in body.split("\n\n") if p.strip()]
 
 
 def sentences(p):

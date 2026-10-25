@@ -24,7 +24,7 @@ node tools/subcheck.mjs
 "$PY" mix.py                                                      # out/mix.wav
 python3 - <<'PY'
 import json; T = json.load(open('timeline.json')); c = {s['ch']: s['t0'] for s in T['segs'] if s['kind'] == 'card'}
-b = [round(x * 30) / 30 for x in [0, c[7], c[12], c[17], T['dur']]]
+b = [round(x * 30) / 30 for x in [0, c[5], c[8], c[10], T['dur']]]
 open('out/ranges.txt', 'w').write(' '.join(f"{a:.4f},{z:.4f}" for a, z in zip(b, b[1:])))
 PY
 sh tools/render_parts.sh                                          # out/video.mp4 (30 fps)
