@@ -54,7 +54,7 @@ const ch1 = [
     const k = cut(l, 2.9); txt(k > 0 ? '12' : '16', 1150, 560, { s: 260, w: 700, c: C.text, id: 'd12' });
     txt(k > 0 ? 'DIED' : 'PEOPLE', 1160, 620, { s: 22, f: F.mono, w: 600, c: k > 0 ? C.acc : C.dim, ls: 4 });
     readout('≈ 30 MIN', 1160, 720, { s: 40, c: C.dim, a: cut(l, .4) });
-    txt('● survived   ○ died', 150, 560, { s: 18, f: F.mono, c: C.dim, a: cut(l, 3.2), id: 'leg1' });
+    txt('solid: survived · red outline: died', 150, 560, { s: 18, f: F.mono, c: C.dim, a: cut(l, 3.2), id: 'leg1' });
   } },
   { at: 4, draw(l) {   // the case file
     flashRect(l, 0, 0, 0, W, H, .08);
@@ -166,9 +166,9 @@ const ch4 = [
     txt(big, 1160, 520, { s: 260, w: 700, id: 'cnt' });
     txt(l < q[10] + .3 ? 'DRANK' : l < q[11] + .3 ? 'DIED AT THE BANK' : 'DEAD', 1170, 580, { s: 22, f: F.mono, w: 600, c: l < q[10] + .3 ? C.dim : C.acc, ls: 4 });
     if (l > q[11] + .3) txt('10 at the bank · 2 later in hospital', 1170, 640, { s: 24, w: 600, c: C.dim, id: 'cnt2' });
-    if (l > q[12] + .5) { txt('4 survived', 1170, 700, { s: 40, w: 700, id: 'cnt3' }); for (let i = 12; i < 16; i++) { const x = S.x; x.save(); x.strokeStyle = C.text; x.lineWidth = 1.5; x.beginPath(); x.arc(150 + (i % 8) * 100, 250 + 100, 40, 0, 7); x.stroke(); x.restore(); } }
+    if (l > q[12] + .5) { txt('4 survived', 1170, 700, { s: 40, w: 700, id: 'cnt3' }); for (let i = 12; i < 16; i++) { const x = S.x; x.save(); x.strokeStyle = C.text; x.lineWidth = 1.5; x.beginPath(); x.arc(150 + (i % 8) * 100, 250 + 100, 52, 0, 7); x.stroke(); x.restore(); } }
     if (l > q[9]) { tag('laboratory · cyanide compound', 150, 560, { id: 'cyan' }); }
-    txt('● survived   ○ died', 150, 500, { s: 18, f: F.mono, c: C.dim, a: cut(l, q[10] + .3), id: 'leg2' });
+    txt('solid: survived · red outline: died', 150, 500, { s: 18, f: F.mono, c: C.dim, a: cut(l, q[10] + .3), id: 'leg2' });
   }, ev: (d, q) => evs([q[6], 'thump']) },
 ];
 

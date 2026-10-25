@@ -93,13 +93,21 @@ export function highlight(X, Y, w, h, k, onPaper = true) { if (k <= 0) return; c
 // a check mark or a dashed box (known / unresolved)
 export function tick(X, Y, c = C.text) { const x = S.x; x.save(); x.strokeStyle = c; x.lineWidth = 2.5; x.beginPath(); x.moveTo(X, Y); x.lineTo(X + 8, Y + 9); x.lineTo(X + 22, Y - 10); x.stroke(); x.restore(); }
 export function dashBox(X, Y, s = 24, c = C.acc) { rect(X, Y - s / 2, s, s, c, 2, [4, 3]); }
-// one dot per person; died: a red open ring after k
+// one person figure per person (head + shoulders, about 2.6 R tall, centred on X, Y); died: a red outline figure after k
+function personPath(x, X, Y, R) {
+  const hy = Y - .62 * R, hr = .36 * R, top = Y - .12 * R, bot = Y + 1.0 * R, w = .78 * R;
+  x.beginPath(); x.arc(X, hy, hr, 0, Math.PI * 2); x.closePath();
+  x.moveTo(X - w, bot); x.lineTo(X - w, top + .38 * R); x.quadraticCurveTo(X - w, top, X - w + .38 * R, top);
+  x.lineTo(X + w - .38 * R, top); x.quadraticCurveTo(X + w, top, X + w, top + .38 * R); x.lineTo(X + w, bot); x.closePath();
+}
 export function dot(X, Y, R, died, k) {
+  R *= 1.3;
   const x = S.x; x.save();
-  if (!died || k <= 0) { x.fillStyle = C.text; x.beginPath(); x.arc(X, Y, R, 0, 7); x.fill(); }
-  else { x.fillStyle = `rgba(236,234,228,${1 - k})`; x.beginPath(); x.arc(X, Y, R, 0, 7); x.fill(); x.strokeStyle = C.acc; x.lineWidth = 2.2; x.globalAlpha *= k; x.beginPath(); x.arc(X, Y, R, 0, 7); x.stroke(); }
+  if (!died || k <= 0) { x.fillStyle = C.text; personPath(x, X, Y, R); x.fill(); }
+  else { x.fillStyle = `rgba(236,234,228,${1 - k})`; personPath(x, X, Y, R); x.fill(); x.strokeStyle = C.acc; x.lineWidth = Math.max(1.8, R * .08); x.lineJoin = 'round'; x.globalAlpha *= k; personPath(x, X, Y, R); x.stroke(); }
   x.restore();
 }
+export const person = dot;
 // paper card (typeset transcription / schematic form)
 export function paperCard(X, Y, w, h, l, at = 0) { const k = cut(l, at); if (k <= 0) return false; alpha(k, () => { fill(X, Y, w, h, C.paper); }); const x = S.x;
   if (S.GRAIN.length) { x.save(); x.globalAlpha = .1 * k; x.globalCompositeOperation = 'multiply'; x.drawImage(S.GRAIN[S.FR % 6], X, Y, w, h); x.restore(); }

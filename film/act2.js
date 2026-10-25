@@ -12,7 +12,7 @@ function face(X, Y, s, c = C.faint) { const x = S.x; x.save(); x.strokeStyle = c
 const ch7 = [
   { at: 0, draw(l) {
     flashRect(l, 0, 0, 0, W, H, .06);
-    for (let i = 0; i < 16; i++) { const X = 150 + (i % 8) * 100, Y = 260 + Math.floor(i / 8) * 100; if (i < 12) alpha(.35, () => dot(X, Y, 30, true, 1)); else { dot(X, Y, 30, false, 0); if (l > .6) { const x = S.x; x.save(); x.strokeStyle = C.acc; x.lineWidth = 2.5; x.beginPath(); x.arc(X, Y, 44, -Math.PI / 2, -Math.PI / 2 + 2 * Math.PI * eo(seg(l, .6 + (i - 12) * .2, 1.0 + (i - 12) * .2))); x.stroke(); x.restore(); } } }
+    for (let i = 0; i < 16; i++) { const X = 150 + (i % 8) * 100, Y = 260 + Math.floor(i / 8) * 100; if (i < 12) alpha(.35, () => dot(X, Y, 30, true, 1)); else { dot(X, Y, 30, false, 0); if (l > .6) { const x = S.x; x.save(); x.strokeStyle = C.acc; x.lineWidth = 2.5; x.beginPath(); x.arc(X, Y, 56, -Math.PI / 2, -Math.PI / 2 + 2 * Math.PI * eo(seg(l, .6 + (i - 12) * .2, 1.0 + (i - 12) * .2))); x.stroke(); x.restore(); } } }
     txt('4', 1180, 520, { s: 260, w: 700, a: cut(l, .2), id: 'w4' }); txt('WITNESSES', 1190, 580, { s: 22, f: F.mono, w: 600, c: C.dim, ls: 4, a: cut(l, .2) });
     ['at close range', 'in daylight', 'for several minutes'].forEach((s, i) => txt(s, 150, 600 + i * 56, { s: 36, w: 700, c: i ? C.dim : C.text, a: cut(l, 1.5 + i * .8), id: 'cr' + i }));
   } },
