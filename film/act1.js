@@ -215,7 +215,7 @@ const ch6 = [
     if (paperCard(120, 210, 820, 420, l, .4)) { txt('CASH', 160, 280, { s: 26, w: 700, f: F.mono, c: '#55524a' }); txt('≈ ¥164,000', 160, 460, { s: 104, w: 700, f: F.mono, c: C.ink, id: 'cash' }); }
     if (paperCard(980, 210, 820, 420, l, 4.0)) { txt('CHEQUE', 1020, 280, { s: 26, w: 700, f: F.mono, c: '#55524a' }); txt('≈ ¥17,000', 1020, 460, { s: 104, w: 700, f: F.mono, c: C.ink, id: 'chq' }); }
     const k = cut(l, q[2] + .3); if (k > 0) { const x = S.x; x.save(); x.globalAlpha = k; x.translate(1390, 570); x.rotate(-.06); x.strokeStyle = C.acc; x.lineWidth = 4; x.strokeRect(-330, -44, 660, 88); x.restore();
-      txt('CASHED · 27 JAN 1948', 1390, 584, { s: 36, w: 700, f: F.mono, c: C.acc, al: 'center', a: k, id: 'cashed' }); txt('at another bank, the following day', 980, 700, { s: 28, w: 600, c: C.dim, a: cut(l, q[2] + .8), id: 'cashed2' }); }
+      txt('CASHED · 27 JAN 1948', 1390, 584, { s: 36, w: 700, f: F.mono, c: C.acc, al: 'center', a: k, id: 'cashed' }); txt('at another bank, the following day', 980, 700, { s: 28, w: 600, c: C.dim, a: cut(l, q[2] + .35), id: 'cashed2' }); }
   }, ev: (d, q) => evs([.4, 'paper'], [4.0, 'paper'], [q[2] + .3, 'stamp']) },
   { at: 3, draw(l, d, q) {   // what he did not take
     flashRect(l, 0, 0, 0, W, H, .06);

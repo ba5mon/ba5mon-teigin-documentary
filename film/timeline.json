@@ -1043,15 +1043,8 @@
   {
    "ch": 1,
    "t0": 11.494,
-   "speech_end": 13.624,
-   "text": "the Shiinamachi branch of the Imperial",
-   "t1": 13.554
-  },
-  {
-   "ch": 1,
-   "t0": 13.574,
    "speech_end": 16.204,
-   "text": "Bank has closed its doors for the day.",
+   "text": "the Shiinamachi branch of the Imperial Bank has closed its doors for the day.",
    "t1": 16.804
   },
   {
@@ -1071,30 +1064,23 @@
   {
    "ch": 1,
    "t0": 24.673,
-   "speech_end": 26.863,
-   "text": "and the man responsible will walk out",
-   "t1": 26.793
-  },
-  {
-   "ch": 1,
-   "t0": 26.813,
    "speech_end": 28.783,
-   "text": "the front door with the bank's cash.",
+   "text": "and the man responsible will walk out the front door with the bank's cash.",
    "t1": 29.383
   },
   {
    "ch": 1,
    "t0": 30.069,
-   "speech_end": 31.839,
-   "text": "This is the Teigin Incident,",
-   "t1": 32.439
+   "speech_end": 34.039,
+   "text": "This is the Teigin Incident, one of the strangest",
+   "t1": 33.969
   },
   {
    "ch": 1,
-   "t0": 32.629,
+   "t0": 33.989,
    "speech_end": 37.159,
-   "text": "one of the strangest and most disputed crimes in Japanese history.",
-   "t1": 37.559
+   "text": "and most disputed crimes in Japanese history.",
+   "t1": 37.759
   },
   {
    "ch": 2,
@@ -1197,15 +1183,8 @@
   {
    "ch": 2,
    "t0": 102.704,
-   "speech_end": 104.434,
-   "text": "spraying disinfectant,",
-   "t1": 104.664
-  },
-  {
-   "ch": 2,
-   "t0": 104.684,
    "speech_end": 107.514,
-   "text": "giving inoculations and handing out instructions.",
+   "text": "spraying disinfectant, giving inoculations and handing out instructions.",
    "t1": 108.114
   },
   {
@@ -1234,7 +1213,7 @@
    "t0": 120.241,
    "speech_end": 122.551,
    "text": "is the key to everything that happened next.",
-   "t1": 122.983
+   "t1": 123.151
   },
   {
    "ch": 3,
@@ -1297,20 +1276,20 @@
    "t0": 161.986,
    "speech_end": 164.196,
    "text": "Nobody had reason to doubt him.",
-   "t1": 164.442
+   "t1": 164.796
   },
   {
    "ch": 4,
    "t0": 169.612,
-   "speech_end": 171.182,
-   "text": "The man gathered the staff,",
-   "t1": 171.652
+   "speech_end": 172.822,
+   "text": "The man gathered the staff, along with members",
+   "t1": 172.752
   },
   {
    "ch": 4,
-   "t0": 171.672,
+   "t0": 172.772,
    "speech_end": 175.622,
-   "text": "along with members of the caretaker's family, including children.",
+   "text": "of the caretaker's family, including children.",
    "t1": 176.222
   },
   {
@@ -1372,15 +1351,8 @@
   {
    "ch": 4,
    "t0": 204.32,
-   "speech_end": 205.93,
-   "text": "pushed to the back of the tongue,",
-   "t1": 206.53
-  },
-  {
-   "ch": 4,
-   "t0": 206.6,
    "speech_end": 208.57,
-   "text": "so that it would not harm their teeth.",
+   "text": "pushed to the back of the tongue, so that it would not harm their teeth.",
    "t1": 209.17
   },
   {
@@ -1400,15 +1372,8 @@
   {
    "ch": 4,
    "t0": 215.34,
-   "speech_end": 218.51,
-   "text": "Some managed to stagger outside for water",
-   "t1": 218.44
-  },
-  {
-   "ch": 4,
-   "t0": 218.46,
    "speech_end": 220.61,
-   "text": "or help before falling unconscious.",
+   "text": "Some managed to stagger outside for water or help before falling unconscious.",
    "t1": 221.21
   },
   {
@@ -1444,7 +1409,7 @@
    "t0": 234.305,
    "speech_end": 237.335,
    "text": "and their accounts became the core of the investigation.",
-   "t1": 237.833
+   "t1": 237.935
   },
   {
    "ch": 5,
@@ -1470,15 +1435,15 @@
   {
    "ch": 5,
    "t0": 254.275,
-   "speech_end": 258.365,
-   "text": "People went inside to help, and by the time detectives arrived,",
-   "t1": 258.965
+   "speech_end": 257.225,
+   "text": "People went inside to help, and by the time",
+   "t1": 257.155
   },
   {
    "ch": 5,
-   "t0": 258.995,
+   "t0": 257.175,
    "speech_end": 260.325,
-   "text": "the scene had been disturbed.",
+   "text": "detectives arrived, the scene had been disturbed.",
    "t1": 260.925
   },
   {
@@ -1512,16 +1477,16 @@
   {
    "ch": 5,
    "t0": 276.795,
-   "speech_end": 280.425,
-   "text": "and a name began to appear that would follow the case for decades:",
-   "t1": 281.025
+   "speech_end": 279.365,
+   "text": "and a name began to appear that would follow",
+   "t1": 279.295
   },
   {
    "ch": 5,
-   "t0": 281.615,
+   "t0": 279.315,
    "speech_end": 282.745,
-   "text": "the Teigin Incident.",
-   "t1": 283.415
+   "text": "the case for decades: the Teigin Incident.",
+   "t1": 283.345
   },
   {
    "ch": 5,
@@ -1542,7 +1507,7 @@
    "t0": 291.212,
    "speech_end": 292.222,
    "text": "Who was the doctor?",
-   "t1": 292.942
+   "t1": 293.012
   },
   {
    "ch": 6,
@@ -1561,29 +1526,15 @@
   {
    "ch": 6,
    "t0": 309.753,
-   "speech_end": 310.543,
-   "text": "Then he left.",
-   "t1": 311.391
-  },
-  {
-   "ch": 6,
-   "t0": 311.411,
    "speech_end": 314.401,
-   "text": "The cheque was cashed at another bank the following day.",
+   "text": "Then he left. The cheque was cashed at another bank the following day.",
    "t1": 315.001
   },
   {
    "ch": 6,
    "t0": 315.532,
-   "speech_end": 316.802,
-   "text": "It was a large sum,",
-   "t1": 317.402
-  },
-  {
-   "ch": 6,
-   "t0": 317.432,
    "speech_end": 320.402,
-   "text": "but investigators were struck by what he did not take.",
+   "text": "It was a large sum, but investigators were struck by what he did not take.",
    "t1": 321.002
   },
   {
@@ -1605,7 +1556,7 @@
    "t0": 328.483,
    "speech_end": 330.813,
    "text": "The question has never been fully answered.",
-   "t1": 331.258
+   "t1": 331.413
   },
   {
    "ch": 7,
@@ -1701,15 +1652,8 @@
   {
    "ch": 7,
    "t0": 383.059,
-   "speech_end": 384.609,
-   "text": "Over the months that followed,",
-   "t1": 385.039
-  },
-  {
-   "ch": 7,
-   "t0": 385.059,
    "speech_end": 387.849,
-   "text": "as they were shown photograph after photograph,",
+   "text": "Over the months that followed, as they were shown photograph after photograph,",
    "t1": 388.339
   },
   {
@@ -1717,7 +1661,7 @@
    "t0": 388.359,
    "speech_end": 391.149,
    "text": "their certainty would be tested again and again.",
-   "t1": 391.509
+   "t1": 391.749
   },
   {
    "ch": 8,
@@ -1794,7 +1738,7 @@
    "t0": 439.103,
    "speech_end": 441.253,
    "text": "Detectives began working through the list.",
-   "t1": 441.686
+   "t1": 441.853
   },
   {
    "ch": 9,
@@ -1855,15 +1799,8 @@
   {
    "ch": 9,
    "t0": 474.637,
-   "speech_end": 475.287,
-   "text": "Most could.",
-   "t1": 476.168
-  },
-  {
-   "ch": 9,
-   "t0": 476.188,
    "speech_end": 479.278,
-   "text": "Others had lost theirs but were cleared in other ways.",
+   "text": "Most could. Others had lost theirs but were cleared in other ways.",
    "t1": 479.878
   },
   {
@@ -1913,7 +1850,7 @@
    "t0": 502.504,
    "speech_end": 505.054,
    "text": "Their search led them north, to Hokkaido.",
-   "t1": 505.621
+   "t1": 505.654
   },
   {
    "ch": 10,
@@ -1967,15 +1904,8 @@
   {
    "ch": 10,
    "t0": 533.738,
-   "speech_end": 536.388,
-   "text": "and by the 1940s his name appeared",
-   "t1": 536.318
-  },
-  {
-   "ch": 10,
-   "t0": 536.338,
    "speech_end": 539.108,
-   "text": "regularly in catalogues and newspapers.",
+   "text": "and by the 1940s his name appeared regularly in catalogues and newspapers.",
    "t1": 539.708
   },
   {
@@ -2009,15 +1939,8 @@
   {
    "ch": 10,
    "t0": 558.004,
-   "speech_end": 562.054,
-   "text": "In 1947, he had met Doctor Matsui on a ferry,",
-   "t1": 562.654
-  },
-  {
-   "ch": 10,
-   "t0": 562.724,
    "speech_end": 564.674,
-   "text": "and the two men exchanged cards.",
+   "text": "In 1947, he had met Doctor Matsui on a ferry, and the two men exchanged cards.",
    "t1": 565.274
   },
   {
@@ -2032,7 +1955,7 @@
    "t0": 570.94,
    "speech_end": 572.79,
    "text": "He said his wallet had been stolen.",
-   "t1": 573.289
+   "t1": 573.39
   },
   {
    "ch": 11,
@@ -2095,7 +2018,7 @@
    "t0": 611.006,
    "speech_end": 614.296,
    "text": "and no direct physical evidence connected him to the poison.",
-   "t1": 614.848
+   "t1": 614.896
   },
   {
    "ch": 12,
@@ -2128,15 +2051,8 @@
   {
    "ch": 12,
    "t0": 638.245,
-   "speech_end": 640.215,
-   "text": "But a new Code of Criminal Procedure",
-   "t1": 640.145
-  },
-  {
-   "ch": 12,
-   "t0": 640.165,
    "speech_end": 644.095,
-   "text": "did not take effect until January 1949,",
+   "text": "But a new Code of Criminal Procedure did not take effect until January 1949,",
    "t1": 644.695
   },
   {
@@ -2172,7 +2088,7 @@
    "t0": 661.111,
    "speech_end": 665.201,
    "text": "with little access to a lawyer and no recording of what was said.",
-   "t1": 665.557
+   "t1": 665.801
   },
   {
    "ch": 13,
@@ -2205,15 +2121,8 @@
   {
    "ch": 13,
    "t0": 683.83,
-   "speech_end": 685.66,
-   "text": "saying the confession had been forced",
-   "t1": 685.59
-  },
-  {
-   "ch": 13,
-   "t0": 685.61,
    "speech_end": 687.64,
-   "text": "out of him under intense pressure.",
+   "text": "saying the confession had been forced out of him under intense pressure.",
    "t1": 688.24
   },
   {
@@ -2249,7 +2158,7 @@
    "t0": 706.886,
    "speech_end": 709.116,
    "text": "could be led to confess to almost anything.",
-   "t1": 709.676
+   "t1": 709.716
   },
   {
    "ch": 14,
@@ -2326,20 +2235,20 @@
    "t0": 750.055,
    "speech_end": 752.885,
    "text": "pointed in a direction the court did not follow.",
-   "t1": 753.281
+   "t1": 753.485
   },
   {
    "ch": 15,
    "t0": 758.451,
-   "speech_end": 762.161,
-   "text": "Many people believed the police had the wrong man from the start,",
-   "t1": 762.551
+   "speech_end": 760.921,
+   "text": "Many people believed the police had the wrong",
+   "t1": 760.851
   },
   {
    "ch": 15,
-   "t0": 762.571,
+   "t0": 760.871,
    "speech_end": 764.221,
-   "text": "and there was a reason why.",
+   "text": "man from the start, and there was a reason why.",
    "t1": 764.821
   },
   {
@@ -2366,15 +2275,15 @@
   {
    "ch": 15,
    "t0": 776.49,
-   "speech_end": 778.18,
-   "text": "Early in the investigation,",
-   "t1": 778.77
+   "speech_end": 779.88,
+   "text": "Early in the investigation, detectives suspected",
+   "t1": 779.81
   },
   {
    "ch": 15,
-   "t0": 778.79,
+   "t0": 779.83,
    "speech_end": 782.44,
-   "text": "detectives suspected someone with military training in poisons.",
+   "text": "someone with military training in poisons.",
    "t1": 783.04
   },
   {
@@ -2443,16 +2352,16 @@
   {
    "ch": 15,
    "t0": 821.672,
-   "speech_end": 822.922,
-   "text": "This has never been proven,",
-   "t1": 823.522
+   "speech_end": 824.582,
+   "text": "This has never been proven, but it remains",
+   "t1": 824.512
   },
   {
    "ch": 15,
-   "t0": 823.552,
+   "t0": 824.532,
    "speech_end": 827.142,
-   "text": "but it remains the most persistent theory about the case.",
-   "t1": 827.626
+   "text": "the most persistent theory about the case.",
+   "t1": 827.742
   },
   {
    "ch": 16,
@@ -2492,15 +2401,8 @@
   {
    "ch": 16,
    "t0": 850.223,
-   "speech_end": 851.593,
-   "text": "After the surrender,",
-   "t1": 851.523
-  },
-  {
-   "ch": 16,
-   "t0": 851.543,
    "speech_end": 855.222,
-   "text": "American officials questioned Ishii and his colleagues.",
+   "text": "After the surrender, American officials questioned Ishii and his colleagues.",
    "t1": 855.572
   },
   {
@@ -2569,15 +2471,8 @@
   {
    "ch": 16,
    "t0": 891.245,
-   "speech_end": 893.195,
-   "text": "No document has been found showing",
-   "t1": 893.125
-  },
-  {
-   "ch": 16,
-   "t0": 893.145,
    "speech_end": 896.135,
-   "text": "that GHQ ordered the inquiry stopped.",
+   "text": "No document has been found showing that GHQ ordered the inquiry stopped.",
    "t1": 896.735
   },
   {
@@ -2585,7 +2480,7 @@
    "t0": 896.828,
    "speech_end": 898.578,
    "text": "The connection remains a theory.",
-   "t1": 899.134
+   "t1": 899.178
   },
   {
    "ch": 17,
@@ -2634,20 +2529,20 @@
    "t0": 930.863,
    "speech_end": 932.253,
    "text": "All of them were rejected.",
-   "t1": 932.785
+   "t1": 932.853
   },
   {
    "ch": 18,
    "t0": 937.955,
-   "speech_end": 939.685,
-   "text": "Governments rose and fell,",
-   "t1": 940.285
+   "speech_end": 941.125,
+   "text": "Governments rose and fell, and with each new",
+   "t1": 941.055
   },
   {
    "ch": 18,
-   "t0": 940.335,
+   "t0": 941.075,
    "speech_end": 944.445,
-   "text": "and with each new cabinet a new justice minister was handed the file.",
+   "text": "cabinet a new justice minister was handed the file.",
    "t1": 945.045
   },
   {
@@ -2660,15 +2555,8 @@
   {
    "ch": 18,
    "t0": 946.944,
-   "speech_end": 949.194,
-   "text": "They rarely explained why in public,",
-   "t1": 949.764
-  },
-  {
-   "ch": 18,
-   "t0": 949.784,
    "speech_end": 951.674,
-   "text": "but the hesitation spoke for itself.",
+   "text": "They rarely explained why in public, but the hesitation spoke for itself.",
    "t1": 952.274
   },
   {
@@ -2681,15 +2569,8 @@
   {
    "ch": 18,
    "t0": 956.186,
-   "speech_end": 958.336,
-   "text": "and doubts about the poison and the",
-   "t1": 958.266
-  },
-  {
-   "ch": 18,
-   "t0": 958.286,
    "speech_end": 960.716,
-   "text": "identification had never gone away.",
+   "text": "and doubts about the poison and the identification had never gone away.",
    "t1": 961.316
   },
   {
@@ -2737,22 +2618,15 @@
   {
    "ch": 19,
    "t0": 988.595,
-   "speech_end": 990.305,
-   "text": "In the early 1960s,",
-   "t1": 990.615
+   "speech_end": 992.425,
+   "text": "In the early 1960s, the writer Tetsurō Morikawa",
+   "t1": 992.355
   },
   {
    "ch": 19,
-   "t0": 990.635,
-   "speech_end": 993.605,
-   "text": "the writer Tetsurō Morikawa founded an",
-   "t1": 993.535
-  },
-  {
-   "ch": 19,
-   "t0": 993.555,
+   "t0": 992.375,
    "speech_end": 996.285,
-   "text": "association to win Hirasawa's release.",
+   "text": "founded an association to win Hirasawa's release.",
    "t1": 996.885
   },
   {
@@ -2779,15 +2653,8 @@
   {
    "ch": 19,
    "t0": 1009.937,
-   "speech_end": 1013.065,
-   "text": "In English, William Triplett published",
-   "t1": 1012.995
-  },
-  {
-   "ch": 19,
-   "t0": 1013.015,
    "speech_end": 1015.981,
-   "text": "a book-length investigation in 1985.",
+   "text": "In English, William Triplett published a book-length investigation in 1985.",
    "t1": 1016.581
   },
   {
@@ -2807,16 +2674,16 @@
   {
    "ch": 19,
    "t0": 1023.971,
-   "speech_end": 1026.381,
-   "text": "To them, it was proof that the man was still present,",
-   "t1": 1026.981
+   "speech_end": 1026.121,
+   "text": "To them, it was proof that the man was still",
+   "t1": 1026.051
   },
   {
    "ch": 19,
-   "t0": 1027.051,
+   "t0": 1026.071,
    "speech_end": 1028.761,
-   "text": "still working, still waiting.",
-   "t1": 1029.243
+   "text": "present, still working, still waiting.",
+   "t1": 1029.361
   },
   {
    "ch": 20,
@@ -2842,15 +2709,8 @@
   {
    "ch": 20,
    "t0": 1044.981,
-   "speech_end": 1049.451,
-   "text": "On May 10, 1987, he died of pneumonia",
-   "t1": 1049.381
-  },
-  {
-   "ch": 20,
-   "t0": 1049.401,
    "speech_end": 1052.551,
-   "text": "in a prison hospital at the age of 95,",
+   "text": "On May 10, 1987, he died of pneumonia in a prison hospital at the age of 95,",
    "t1": 1053.151
   },
   {
@@ -2858,7 +2718,7 @@
    "t0": 1053.501,
    "speech_end": 1055.411,
    "text": "still insisting he was innocent.",
-   "t1": 1055.927
+   "t1": 1056.011
   },
   {
    "ch": 21,
@@ -2898,29 +2758,22 @@
   {
    "ch": 21,
    "t0": 1080.522,
-   "speech_end": 1084.583,
+   "speech_end": 1084.56,
    "text": "In the 1980s, several Japanese death-row prisoners",
-   "t1": 1084.513
+   "t1": 1084.49
   },
   {
    "ch": 21,
-   "t0": 1084.533,
-   "speech_end": 1088.834,
+   "t0": 1084.51,
+   "speech_end": 1088.787,
    "text": "were exonerated at retrial after decades behind bars,",
-   "t1": 1088.764
+   "t1": 1088.717
   },
   {
    "ch": 21,
-   "t0": 1088.784,
-   "speech_end": 1091.562,
-   "text": "their convictions found to rest on",
-   "t1": 1091.492
-  },
-  {
-   "ch": 21,
-   "t0": 1091.512,
+   "t0": 1088.737,
    "speech_end": 1094.61,
-   "text": "confessions that could not be trusted.",
+   "text": "their convictions found to rest on confessions that could not be trusted.",
    "t1": 1094.96
   },
   {
@@ -2947,15 +2800,8 @@
   {
    "ch": 21,
    "t0": 1108.381,
-   "speech_end": 1110.371,
-   "text": "And at the centre of it all are the",
-   "t1": 1110.301
-  },
-  {
-   "ch": 21,
-   "t0": 1110.321,
    "speech_end": 1112.971,
-   "text": "twelve people who died in Shiinamachi:",
+   "text": "And at the centre of it all are the twelve people who died in Shiinamachi:",
    "t1": 1113.561
   },
   {
@@ -2977,7 +2823,7 @@
    "t0": 1119.321,
    "speech_end": 1123.531,
    "text": "who did what they were told by a man they had every reason to believe.",
-   "t1": 1124.02
+   "t1": 1124.131
   },
   {
    "ch": 22,
@@ -2989,15 +2835,8 @@
   {
    "ch": 22,
    "t0": 1132.83,
-   "speech_end": 1135.7,
-   "text": "and supporters have kept pressing for a",
-   "t1": 1135.63
-  },
-  {
-   "ch": 22,
-   "t0": 1135.65,
    "speech_end": 1138.54,
-   "text": "retrial even after both men's deaths.",
+   "text": "and supporters have kept pressing for a retrial even after both men's deaths.",
    "t1": 1139.14
   },
   {
@@ -3010,15 +2849,8 @@
   {
    "ch": 22,
    "t0": 1141.977,
-   "speech_end": 1143.187,
-   "text": "But the questions remain.",
-   "t1": 1143.787
-  },
-  {
-   "ch": 22,
-   "t0": 1144.146,
    "speech_end": 1146.056,
-   "text": "Who was the man at the bank door,",
+   "text": "But the questions remain. Who was the man at the bank door,",
    "t1": 1146.656
   },
   {
@@ -3040,7 +2872,7 @@
    "t0": 1152.686,
    "speech_end": 1155.096,
    "text": "the people best equipped to commit the crime?",
-   "t1": 1155.668
+   "t1": 1155.696
   }
  ],
  "sentences": [

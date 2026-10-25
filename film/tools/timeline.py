@@ -10,7 +10,7 @@ from pathlib import Path
 
 FILM = Path(__file__).resolve().parent.parent
 CARD, MAIN, CREDITS = 4.0, 4.6, 28.0
-MAXC = 70            # characters per subtitle cue: one line ≤ 1,500 px at 34 px (checked in the page by SUBCHECK)
+MAXC = 78            # characters per subtitle cue: one line ≤ 1,500 px at 34 px (checked in the page by SUBCHECK)
 ROMAN = "I II III IV V VI VII VIII IX X XI XII XIII XIV XV XVI XVII XVIII XIX XX XXI XXII".split()
 
 
@@ -21,7 +21,7 @@ def chunks(s):
     best = None
     for m in re.finditer(r"[,:;] ", s):
         k = m.end()
-        if 20 <= k <= len(s) - 20:
+        if 30 <= k <= len(s) - 30:
             d = abs(k - len(s) / 2)
             if best is None or d < best[0]:
                 best = (d, k)
@@ -70,10 +70,18 @@ def main():
         if n == 1:
             segs.append({"kind": "main", "t0": round(t, 3), "t1": round(t + MAIN, 3)}); t += MAIN
     segs.append({"kind": "credits", "t0": round(t, 3), "t1": round(t + CREDITS, 3)}); t += CREDITS
+    # merge a cue that would be too short with the next one when both fit on one line
+    merged = []
+    for s in subs:
+        if merged and merged[-1]["ch"] == s["ch"] and merged[-1]["speech_end"] - merged[-1]["t0"] < 1.25 and len(merged[-1]["text"]) + len(s["text"]) + 1 <= 80:
+            merged[-1]["text"] += " " + s["text"]; merged[-1]["speech_end"] = s["speech_end"]
+        else:
+            merged.append(dict(s))
+    subs = merged
     # subtitle ends: speech + 0.6 s, at least 1.8 s, never past the next subtitle or the end of its chapter
     chap_end = {s["ch"]: s["t1"] for s in segs if s["kind"] == "ch"}
     for i, s in enumerate(subs):
-        nxt = subs[i + 1]["t0"] if i + 1 < len(subs) and subs[i + 1]["ch"] == s["ch"] else chap_end[s["ch"]] - .9
+        nxt = subs[i + 1]["t0"] if i + 1 < len(subs) and subs[i + 1]["ch"] == s["ch"] else chap_end[s["ch"]] - .1
         s["t1"] = round(min(max(s["speech_end"] + .6, s["t0"] + 1.8), nxt - .02), 3)
     out = {"dur": round(t, 3), "card": CARD, "segs": segs, "subs": subs, "sentences": sent}
     (FILM / "timeline.json").write_text(json.dumps(out, indent=1, ensure_ascii=False))

@@ -1,0 +1,1055 @@
+1
+00:00:04,250 --> 00:00:08,554
+Tokyo, January 26, 1948.
+
+2
+00:00:08,574 --> 00:00:11,244
+Just after three in the afternoon,
+
+3
+00:00:11,494 --> 00:00:16,804
+the Shiinamachi branch of the Imperial Bank has closed its doors for the day.
+
+4
+00:00:16,845 --> 00:00:20,515
+Inside, sixteen people are finishing their work.
+
+5
+00:00:20,593 --> 00:00:24,503
+Within half an hour, twelve of them will be dead,
+
+6
+00:00:24,673 --> 00:00:29,383
+and the man responsible will walk out the front door with the bank's cash.
+
+7
+00:00:30,069 --> 00:00:33,969
+This is the Teigin Incident, one of the strangest
+
+8
+00:00:33,989 --> 00:00:37,759
+and most disputed crimes in Japanese history.
+
+9
+00:00:47,329 --> 00:00:52,179
+To understand how it happened, you have to picture Tokyo at the time.
+
+10
+00:00:52,272 --> 00:00:55,862
+The war had ended less than three years earlier.
+
+11
+00:00:55,934 --> 00:01:00,064
+The city was still scarred by bombing, food was scarce,
+
+12
+00:01:00,374 --> 00:01:03,224
+and the country was under American occupation.
+
+13
+00:01:03,522 --> 00:01:06,902
+Outbreaks of infectious disease were common,
+
+14
+00:01:06,922 --> 00:01:09,202
+and health officials carrying orders from the
+
+15
+00:01:09,222 --> 00:01:13,032
+occupation authorities were a familiar sight.
+
+16
+00:01:13,052 --> 00:01:16,322
+People were used to following them without question.
+
+17
+00:01:17,130 --> 00:01:22,152
+General MacArthur's headquarters, known to everyone simply as GHQ,
+
+18
+00:01:22,172 --> 00:01:27,920
+issued directives that reached into almost every corner of daily life.
+
+19
+00:01:27,940 --> 00:01:30,490
+Public health was one of its priorities.
+
+20
+00:01:30,984 --> 00:01:34,224
+Crowded housing, damaged water systems and
+
+21
+00:01:34,244 --> 00:01:37,344
+poor nutrition made epidemics a constant fear,
+
+22
+00:01:37,364 --> 00:01:42,684
+and teams of Japanese health workers moved from district to district,
+
+23
+00:01:42,704 --> 00:01:48,114
+spraying disinfectant, giving inoculations and handing out instructions.
+
+24
+00:01:48,513 --> 00:01:52,198
+A man with an official armband who said that GHQ
+
+25
+00:01:52,218 --> 00:01:56,651
+required something was not a man you argued with.
+
+26
+00:01:56,901 --> 00:02:00,221
+That habit of trust, sensible in its time,
+
+27
+00:02:00,241 --> 00:02:03,151
+is the key to everything that happened next.
+
+28
+00:02:08,153 --> 00:02:14,398
+Around 3:20 pm, a middle-aged man knocked at the bank's side entrance.
+
+29
+00:02:14,418 --> 00:02:18,898
+He wore an armband that marked him as a public health official
+
+30
+00:02:18,918 --> 00:02:23,922
+and handed over a business card identifying him as a doctor.
+
+31
+00:02:24,172 --> 00:02:28,482
+He explained that there had been an outbreak of dysentery nearby.
+
+32
+00:02:28,688 --> 00:02:32,468
+The American occupation authorities, he said,
+
+33
+00:02:32,488 --> 00:02:35,188
+had ordered that everyone at the bank take a preventive
+
+34
+00:02:35,208 --> 00:02:38,878
+medicine before anyone was allowed to leave.
+
+35
+00:02:39,028 --> 00:02:41,778
+He was calm, polite, and confident.
+
+36
+00:02:41,986 --> 00:02:44,796
+Nobody had reason to doubt him.
+
+37
+00:02:49,612 --> 00:02:52,752
+The man gathered the staff, along with members
+
+38
+00:02:52,772 --> 00:02:56,222
+of the caretaker's family, including children.
+
+39
+00:02:56,389 --> 00:02:58,379
+Sixteen people in all.
+
+40
+00:02:58,644 --> 00:03:03,234
+He set out cups and showed them exactly how to take the medicine:
+
+41
+00:03:03,404 --> 00:03:07,734
+two doses, one after the other, about a minute apart.
+
+42
+00:03:07,853 --> 00:03:11,083
+He even drank first to show them it was safe.
+
+43
+00:03:11,953 --> 00:03:15,563
+Survivors later recalled how practised he seemed.
+
+44
+00:03:15,680 --> 00:03:19,140
+He measured the liquid into each cup with a dropper,
+
+45
+00:03:19,160 --> 00:03:21,200
+and explained that the first dose was
+
+46
+00:03:21,220 --> 00:03:24,300
+strong and should be swallowed in one go,
+
+47
+00:03:24,320 --> 00:03:29,170
+pushed to the back of the tongue, so that it would not harm their teeth.
+
+48
+00:03:29,849 --> 00:03:31,779
+They did as he said.
+
+49
+00:03:31,891 --> 00:03:34,981
+Within minutes, people began collapsing.
+
+50
+00:03:35,340 --> 00:03:41,210
+Some managed to stagger outside for water or help before falling unconscious.
+
+51
+00:03:41,541 --> 00:03:44,271
+The liquid was a cyanide compound.
+
+52
+00:03:45,129 --> 00:03:47,419
+Ten people died at the bank.
+
+53
+00:03:47,640 --> 00:03:50,170
+Two more died later in hospital.
+
+54
+00:03:50,705 --> 00:03:54,015
+Of the sixteen, only four survived,
+
+55
+00:03:54,305 --> 00:03:57,935
+and their accounts became the core of the investigation.
+
+56
+00:04:03,003 --> 00:04:06,648
+When neighbours and passers-by first reached the building,
+
+57
+00:04:06,668 --> 00:04:09,974
+they did not understand what they were seeing.
+
+58
+00:04:09,994 --> 00:04:14,084
+Some early reports spoke of gas or food poisoning.
+
+59
+00:04:14,275 --> 00:04:17,155
+People went inside to help, and by the time
+
+60
+00:04:17,175 --> 00:04:20,925
+detectives arrived, the scene had been disturbed.
+
+61
+00:04:21,703 --> 00:04:26,003
+Within hours, the Metropolitan Police had begun one
+
+62
+00:04:26,023 --> 00:04:29,813
+of the largest investigations in their history.
+
+63
+00:04:29,867 --> 00:04:32,955
+Laboratory tests confirmed cyanide.
+
+64
+00:04:32,975 --> 00:04:36,485
+The next morning the story filled the front pages,
+
+65
+00:04:36,795 --> 00:04:39,295
+and a name began to appear that would follow
+
+66
+00:04:39,315 --> 00:04:43,345
+the case for decades: the Teigin Incident.
+
+67
+00:04:44,072 --> 00:04:47,192
+The question facing investigators was simple
+
+68
+00:04:47,212 --> 00:04:51,082
+to state and almost impossible to answer.
+
+69
+00:04:51,212 --> 00:04:53,012
+Who was the doctor?
+
+70
+00:04:58,112 --> 00:05:04,438
+While his victims lay dying, the man collected the cash within reach:
+
+71
+00:05:04,458 --> 00:05:09,733
+about 164,000 yen and a cheque for around 17,000 yen.
+
+72
+00:05:09,753 --> 00:05:15,001
+Then he left. The cheque was cashed at another bank the following day.
+
+73
+00:05:15,532 --> 00:05:21,002
+It was a large sum, but investigators were struck by what he did not take.
+
+74
+00:05:21,115 --> 00:05:23,425
+Far more money was in the bank.
+
+75
+00:05:23,625 --> 00:05:28,463
+Why go to such lengths, and kill twelve people, for only part of it?
+
+76
+00:05:28,483 --> 00:05:31,413
+The question has never been fully answered.
+
+77
+00:05:36,428 --> 00:05:39,608
+The four survivors had each seen the man at close range,
+
+78
+00:05:39,628 --> 00:05:42,951
+in daylight, for several minutes.
+
+79
+00:05:42,971 --> 00:05:46,461
+They described someone composed and authoritative,
+
+80
+00:05:46,571 --> 00:05:49,291
+perhaps in his forties or fifties,
+
+81
+00:05:49,311 --> 00:05:53,281
+who spoke politely and handled his bottles with ease.
+
+82
+00:05:54,004 --> 00:05:58,754
+From their accounts, police produced a composite image of the suspect.
+
+83
+00:05:58,989 --> 00:06:03,254
+It was printed in newspapers and posted across the country,
+
+84
+00:06:03,274 --> 00:06:08,541
+and it became one of the most recognisable faces of post-war Japan.
+
+85
+00:06:08,561 --> 00:06:10,771
+Thousands of tips poured in.
+
+86
+00:06:11,424 --> 00:06:13,854
+But memory under shock is fragile.
+
+87
+00:06:14,297 --> 00:06:16,717
+The survivors had just watched colleagues
+
+88
+00:06:16,737 --> 00:06:19,697
+and family members collapse around them,
+
+89
+00:06:19,717 --> 00:06:22,907
+and their recollections did not always agree.
+
+90
+00:06:23,059 --> 00:06:28,339
+Over the months that followed, as they were shown photograph after photograph,
+
+91
+00:06:28,359 --> 00:06:31,749
+their certainty would be tested again and again.
+
+92
+00:06:36,679 --> 00:06:41,009
+Police soon discovered that Teigin was not the first attempt.
+
+93
+00:06:41,174 --> 00:06:45,394
+In October 1947, a man had tried the same
+
+94
+00:06:45,414 --> 00:06:48,684
+story at a branch of the Yasuda Bank,
+
+95
+00:06:48,854 --> 00:06:54,234
+and on January 19, 1948, just a week before,
+
+96
+00:06:54,254 --> 00:06:56,984
+at a branch of the Mitsubishi Bank.
+
+97
+00:06:57,060 --> 00:07:02,170
+In both cases the staff drank harmless liquid and nobody was hurt.
+
+98
+00:07:02,718 --> 00:07:06,348
+At those banks, the visitor had left business cards.
+
+99
+00:07:06,530 --> 00:07:11,160
+One of them bore the name of a real doctor, Shigeru Matsui.
+
+100
+00:07:11,259 --> 00:07:14,109
+Matsui had nothing to do with the crime,
+
+101
+00:07:14,299 --> 00:07:19,083
+but he kept careful records of everyone he had exchanged cards with.
+
+102
+00:07:19,103 --> 00:07:21,853
+Detectives began working through the list.
+
+103
+00:07:26,856 --> 00:07:30,766
+In Japan, business cards were exchanged constantly,
+
+104
+00:07:30,956 --> 00:07:33,486
+and they carried real social weight.
+
+105
+00:07:33,527 --> 00:07:38,279
+Matsui's record turned an impossible search into a finite one.
+
+106
+00:07:38,299 --> 00:07:41,909
+If the killer had used a genuine Matsui card,
+
+107
+00:07:42,019 --> 00:07:44,909
+he must have received it from Matsui himself.
+
+108
+00:07:45,268 --> 00:07:48,048
+So detectives set out to find every person
+
+109
+00:07:48,068 --> 00:07:51,298
+on the list and ask a single question:
+
+110
+00:07:51,588 --> 00:07:54,018
+can you show us the card you were given?
+
+111
+00:07:54,637 --> 00:07:59,878
+Most could. Others had lost theirs but were cleared in other ways.
+
+112
+00:08:00,043 --> 00:08:02,843
+The recipients were scattered across the country,
+
+113
+00:08:02,863 --> 00:08:06,383
+and through the spring and summer of 1948 a
+
+114
+00:08:06,403 --> 00:08:09,783
+small team of detectives travelled by slow,
+
+115
+00:08:09,803 --> 00:08:14,333
+crowded trains, crossing names off one at a time.
+
+116
+00:08:14,767 --> 00:08:17,307
+They believed that patient police work,
+
+117
+00:08:17,327 --> 00:08:22,357
+not theories about secret wartime programmes, would solve the case.
+
+118
+00:08:22,504 --> 00:08:25,654
+Their search led them north, to Hokkaido.
+
+119
+00:08:30,791 --> 00:08:35,231
+Sadamichi Hirasawa was born in 1892 and
+
+120
+00:08:35,251 --> 00:08:38,594
+grew up partly in the port city of Otaru.
+
+121
+00:08:38,614 --> 00:08:41,454
+He became a painter, and a respected one,
+
+122
+00:08:41,474 --> 00:08:44,394
+known especially for his work in tempera,
+
+123
+00:08:44,414 --> 00:08:47,564
+a technique using pigment bound with egg.
+
+124
+00:08:47,738 --> 00:08:50,258
+His quiet landscapes and flower studies
+
+125
+00:08:50,278 --> 00:08:53,428
+were shown at major official exhibitions,
+
+126
+00:08:53,738 --> 00:08:59,708
+and by the 1940s his name appeared regularly in catalogues and newspapers.
+
+127
+00:09:00,286 --> 00:09:02,876
+His private life was more troubled.
+
+128
+00:09:03,202 --> 00:09:08,352
+In 1925 he received a course of rabies vaccinations,
+
+129
+00:09:08,882 --> 00:09:12,992
+and his family later said his personality changed afterwards.
+
+130
+00:09:13,328 --> 00:09:17,458
+He had money problems, and a record of minor fraud.
+
+131
+00:09:18,004 --> 00:09:25,274
+In 1947, he had met Doctor Matsui on a ferry, and the two men exchanged cards.
+
+132
+00:09:25,550 --> 00:09:30,900
+When detectives asked to see that card, Hirasawa could not produce it.
+
+133
+00:09:30,940 --> 00:09:33,390
+He said his wallet had been stolen.
+
+134
+00:09:38,459 --> 00:09:42,083
+One name on that list was Sadamichi Hirasawa,
+
+135
+00:09:42,103 --> 00:09:47,200
+a 56-year-old painter who was well known in the art world.
+
+136
+00:09:47,220 --> 00:09:53,890
+In August 1948, police arrested him at his home in Otaru, Hokkaido.
+
+137
+00:09:54,414 --> 00:09:57,504
+The case against him looked strong on paper.
+
+138
+00:09:57,692 --> 00:10:00,362
+He could not produce Matsui's card.
+
+139
+00:10:00,587 --> 00:10:04,397
+He had come into a sum of money he could not explain.
+
+140
+00:10:04,676 --> 00:10:07,046
+And he had a past record of fraud.
+
+141
+00:10:07,486 --> 00:10:10,986
+But survivors could not firmly identify him,
+
+142
+00:10:11,006 --> 00:10:14,896
+and no direct physical evidence connected him to the poison.
+
+143
+00:10:20,018 --> 00:10:24,828
+What happened next has to be understood in the context of the time.
+
+144
+00:10:24,918 --> 00:10:29,728
+Japan's new Constitution, in force since May 1947,
+
+145
+00:10:29,938 --> 00:10:34,208
+said that forced confessions could not be used as evidence,
+
+146
+00:10:34,258 --> 00:10:38,128
+and that no one could be convicted on a confession alone.
+
+147
+00:10:38,245 --> 00:10:44,695
+But a new Code of Criminal Procedure did not take effect until January 1949,
+
+148
+00:10:45,305 --> 00:10:49,585
+and Hirasawa's case was handled under the older system,
+
+149
+00:10:49,605 --> 00:10:54,075
+in which a confession was treated as the strongest evidence of all.
+
+150
+00:10:54,611 --> 00:10:58,491
+Suspects could be held for long periods in police cells,
+
+151
+00:10:58,511 --> 00:11:01,001
+questioned for hours at a stretch,
+
+152
+00:11:01,111 --> 00:11:05,801
+with little access to a lawyer and no recording of what was said.
+
+153
+00:11:10,727 --> 00:11:14,077
+Hirasawa was interrogated for weeks.
+
+154
+00:11:14,283 --> 00:11:16,593
+At first he denied everything.
+
+155
+00:11:16,964 --> 00:11:20,734
+Then, after more than a month in custody, he confessed.
+
+156
+00:11:20,990 --> 00:11:23,810
+Soon afterwards, he took it back,
+
+157
+00:11:23,830 --> 00:11:28,240
+saying the confession had been forced out of him under intense pressure.
+
+158
+00:11:28,759 --> 00:11:31,909
+His supporters also pointed to his health.
+
+159
+00:11:32,038 --> 00:11:36,458
+Years earlier, a rabies vaccination had reportedly left him with a
+
+160
+00:11:36,478 --> 00:11:41,988
+neurological condition that could cause confusion and false memories.
+
+161
+00:11:42,186 --> 00:11:46,866
+They argued that a man in that state, under relentless questioning,
+
+162
+00:11:46,886 --> 00:11:49,716
+could be led to confess to almost anything.
+
+163
+00:11:54,846 --> 00:11:57,936
+At his trial in the Tokyo District Court,
+
+164
+00:11:57,986 --> 00:12:01,016
+Hirasawa denied the crime completely.
+
+165
+00:12:01,303 --> 00:12:05,825
+His lawyers argued that the confession was coerced and unreliable,
+
+166
+00:12:05,845 --> 00:12:08,716
+that the identification evidence was weak,
+
+167
+00:12:08,736 --> 00:12:12,157
+and that the prosecution had never explained how a
+
+168
+00:12:12,177 --> 00:12:15,530
+painter could have obtained a fast-acting poison,
+
+169
+00:12:15,550 --> 00:12:19,297
+or learned to handle it with such confidence.
+
+170
+00:12:19,547 --> 00:12:22,357
+The prosecution relied on the confession,
+
+171
+00:12:22,447 --> 00:12:26,597
+the missing card, the unexplained money and his past.
+
+172
+00:12:26,815 --> 00:12:30,035
+The gap at the centre of the case, the poison,
+
+173
+00:12:30,055 --> 00:12:33,485
+pointed in a direction the court did not follow.
+
+174
+00:12:38,451 --> 00:12:40,851
+Many people believed the police had the wrong
+
+175
+00:12:40,871 --> 00:12:44,821
+man from the start, and there was a reason why.
+
+176
+00:12:45,346 --> 00:12:48,216
+The killer had handled the poison with skill.
+
+177
+00:12:48,347 --> 00:12:52,117
+He measured doses precisely, used a two-stage method,
+
+178
+00:12:52,137 --> 00:12:56,470
+and knew how to make the poison act with a short delay.
+
+179
+00:12:56,490 --> 00:12:59,810
+Early in the investigation, detectives suspected
+
+180
+00:12:59,830 --> 00:13:03,040
+someone with military training in poisons.
+
+181
+00:13:03,438 --> 00:13:06,820
+They questioned former members of the Imperial
+
+182
+00:13:06,840 --> 00:13:10,592
+Army's Noborito research institute and of Unit 731,
+
+183
+00:13:10,612 --> 00:13:14,660
+the secret unit that had carried out biological-warfare
+
+184
+00:13:14,680 --> 00:13:19,768
+research and lethal experiments on prisoners during the war.
+
+185
+00:13:20,018 --> 00:13:22,768
+That line of inquiry was then dropped.
+
+186
+00:13:22,955 --> 00:13:28,355
+At the time, the United States had quietly granted Unit 731's leaders
+
+187
+00:13:28,375 --> 00:13:33,766
+immunity from prosecution in exchange for their research data.
+
+188
+00:13:33,786 --> 00:13:36,566
+Many researchers believe the occupation authorities
+
+189
+00:13:36,586 --> 00:13:41,636
+did not want the investigation to expose those men.
+
+190
+00:13:41,672 --> 00:13:44,512
+This has never been proven, but it remains
+
+191
+00:13:44,532 --> 00:13:47,742
+the most persistent theory about the case.
+
+192
+00:13:52,796 --> 00:13:58,516
+Unit 731 was based near Harbin, in occupied north-east China,
+
+193
+00:13:58,536 --> 00:14:01,386
+under the command of Shirō Ishii.
+
+194
+00:14:01,408 --> 00:14:04,018
+Its prisoners, most of them Chinese,
+
+195
+00:14:04,188 --> 00:14:06,608
+were used in experiments that are remembered
+
+196
+00:14:06,628 --> 00:14:09,678
+among the gravest crimes of the war.
+
+197
+00:14:10,223 --> 00:14:15,572
+After the surrender, American officials questioned Ishii and his colleagues.
+
+198
+00:14:15,592 --> 00:14:19,112
+The outcome was that the unit's leaders were never put on trial,
+
+199
+00:14:19,132 --> 00:14:22,822
+and their research passed to the United States.
+
+200
+00:14:22,945 --> 00:14:26,615
+For decades the arrangement stayed largely hidden.
+
+201
+00:14:26,715 --> 00:14:29,035
+It came to public attention through journalists
+
+202
+00:14:29,055 --> 00:14:33,895
+and historians in the 1970s and 1980s,
+
+203
+00:14:33,915 --> 00:14:36,985
+long after Hirasawa had been convicted.
+
+204
+00:14:37,577 --> 00:14:41,997
+Notes kept by one of the Teigin detectives, published years later,
+
+205
+00:14:42,017 --> 00:14:47,107
+show that former members of these units were interviewed in 1948,
+
+206
+00:14:47,277 --> 00:14:51,047
+and that some described methods resembling the crime.
+
+207
+00:14:51,245 --> 00:14:56,735
+No document has been found showing that GHQ ordered the inquiry stopped.
+
+208
+00:14:56,828 --> 00:14:59,178
+The connection remains a theory.
+
+209
+00:15:04,304 --> 00:15:08,474
+In 1950, Hirasawa was sentenced to death.
+
+210
+00:15:08,628 --> 00:15:13,658
+Japan's Supreme Court upheld the sentence in 1955.
+
+211
+00:15:14,307 --> 00:15:17,097
+But the sentence was never carried out.
+
+212
+00:15:17,223 --> 00:15:22,053
+In Japan, an execution needs the justice minister's signature,
+
+213
+00:15:22,343 --> 00:15:25,473
+and minister after minister refused to sign.
+
+214
+00:15:25,728 --> 00:15:30,818
+Hirasawa's lawyers filed request after request for a retrial.
+
+215
+00:15:30,863 --> 00:15:32,853
+All of them were rejected.
+
+216
+00:15:37,955 --> 00:15:41,055
+Governments rose and fell, and with each new
+
+217
+00:15:41,075 --> 00:15:45,045
+cabinet a new justice minister was handed the file.
+
+218
+00:15:45,074 --> 00:15:46,874
+None of them signed.
+
+219
+00:15:46,944 --> 00:15:52,274
+They rarely explained why in public, but the hesitation spoke for itself.
+
+220
+00:15:52,506 --> 00:15:56,076
+The conviction rested on a retracted confession,
+
+221
+00:15:56,186 --> 00:16:01,316
+and doubts about the poison and the identification had never gone away.
+
+222
+00:16:01,896 --> 00:16:04,266
+The result was a strange limbo.
+
+223
+00:16:04,471 --> 00:16:08,241
+Hirasawa was neither freed nor executed.
+
+224
+00:16:08,496 --> 00:16:11,196
+In an era when condemned prisoners were usually
+
+225
+00:16:11,216 --> 00:16:14,706
+given little or no warning of their execution,
+
+226
+00:16:15,036 --> 00:16:19,546
+he lived with that uncertainty not for months, but for decades.
+
+227
+00:16:24,826 --> 00:16:28,436
+Outside the prison, the case never went quiet.
+
+228
+00:16:28,595 --> 00:16:32,355
+In the early 1960s, the writer Tetsurō Morikawa
+
+229
+00:16:32,375 --> 00:16:36,885
+founded an association to win Hirasawa's release.
+
+230
+00:16:37,037 --> 00:16:40,826
+The crime novelist Seichō Matsumoto wrote about
+
+231
+00:16:40,846 --> 00:16:44,311
+the case and the possibility of a cover-up,
+
+232
+00:16:44,331 --> 00:16:49,917
+and in 1964 the director Kei Kumai made a feature film about it.
+
+233
+00:16:49,937 --> 00:16:56,581
+In English, William Triplett published a book-length investigation in 1985.
+
+234
+00:16:56,831 --> 00:17:00,661
+Through it all, Hirasawa kept painting in his cell,
+
+235
+00:17:00,731 --> 00:17:03,581
+and his supporters exhibited the work outside.
+
+236
+00:17:03,971 --> 00:17:06,051
+To them, it was proof that the man was still
+
+237
+00:17:06,071 --> 00:17:09,361
+present, still working, still waiting.
+
+238
+00:17:14,413 --> 00:17:19,443
+Sadamichi Hirasawa spent almost 39 years in prison,
+
+239
+00:17:19,753 --> 00:17:22,683
+more than 32 of them on death row.
+
+240
+00:17:22,769 --> 00:17:24,619
+He kept painting throughout.
+
+241
+00:17:24,981 --> 00:17:33,151
+On May 10, 1987, he died of pneumonia in a prison hospital at the age of 95,
+
+242
+00:17:33,501 --> 00:17:36,011
+still insisting he was innocent.
+
+243
+00:17:41,097 --> 00:17:44,087
+The Teigin Incident left a long shadow.
+
+244
+00:17:44,290 --> 00:17:48,430
+It was one of the deadliest robberies in Japanese history,
+
+245
+00:17:48,450 --> 00:17:51,990
+carried out not with weapons but with an armband,
+
+246
+00:17:52,010 --> 00:17:56,100
+a story and the trust of ordinary people.
+
+247
+00:17:56,582 --> 00:18:00,392
+It also became a case about justice itself.
+
+248
+00:18:00,522 --> 00:18:04,490
+In the 1980s, several Japanese death-row prisoners
+
+249
+00:18:04,510 --> 00:18:08,717
+were exonerated at retrial after decades behind bars,
+
+250
+00:18:08,737 --> 00:18:14,960
+their convictions found to rest on confessions that could not be trusted.
+
+251
+00:18:14,980 --> 00:18:19,830
+Each of those cases revived the questions about Hirasawa,
+
+252
+00:18:20,240 --> 00:18:23,420
+and the debate over long interrogations and the
+
+253
+00:18:23,440 --> 00:18:27,810
+weight given to confessions continues in Japan today.
+
+254
+00:18:28,381 --> 00:18:33,561
+And at the centre of it all are the twelve people who died in Shiinamachi:
+
+255
+00:18:33,581 --> 00:18:36,411
+clerks and a caretaker's family,
+
+256
+00:18:36,481 --> 00:18:39,301
+at the end of an ordinary working day,
+
+257
+00:18:39,321 --> 00:18:44,131
+who did what they were told by a man they had every reason to believe.
+
+258
+00:18:49,190 --> 00:18:52,810
+His adopted son continued the fight to clear his name,
+
+259
+00:18:52,830 --> 00:18:59,140
+and supporters have kept pressing for a retrial even after both men's deaths.
+
+260
+00:18:59,558 --> 00:19:01,568
+Officially, the case is closed.
+
+261
+00:19:01,977 --> 00:19:06,656
+But the questions remain. Who was the man at the bank door,
+
+262
+00:19:06,886 --> 00:19:09,836
+where did he learn to handle poison like that,
+
+263
+00:19:09,946 --> 00:19:12,666
+and why did the investigation turn away from
+
+264
+00:19:12,686 --> 00:19:15,696
+the people best equipped to commit the crime?

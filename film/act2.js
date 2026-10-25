@@ -14,7 +14,7 @@ const ch7 = [
     flashRect(l, 0, 0, 0, W, H, .06);
     for (let i = 0; i < 16; i++) { const X = 150 + (i % 8) * 100, Y = 260 + Math.floor(i / 8) * 100; if (i < 12) alpha(.35, () => dot(X, Y, 30, true, 1)); else { dot(X, Y, 30, false, 0); if (l > .6) { const x = S.x; x.save(); x.strokeStyle = C.acc; x.lineWidth = 2.5; x.beginPath(); x.arc(X, Y, 44, -Math.PI / 2, -Math.PI / 2 + 2 * Math.PI * eo(seg(l, .6 + (i - 12) * .2, 1.0 + (i - 12) * .2))); x.stroke(); x.restore(); } } }
     txt('4', 1180, 520, { s: 260, w: 700, a: cut(l, .2), id: 'w4' }); txt('WITNESSES', 1190, 580, { s: 22, f: F.mono, w: 600, c: C.dim, ls: 4, a: cut(l, .2) });
-    ['at close range', 'in daylight', 'for several minutes'].forEach((s, i) => txt(s, 150, 600 + i * 56, { s: 36, w: 700, c: i ? C.dim : C.text, a: cut(l, 2.5 + i * 1.2), id: 'cr' + i }));
+    ['at close range', 'in daylight', 'for several minutes'].forEach((s, i) => txt(s, 150, 600 + i * 56, { s: 36, w: 700, c: i ? C.dim : C.text, a: cut(l, 1.5 + i * .8), id: 'cr' + i }));
   } },
   { at: 1, draw(l) {
     if (!panel(60, 60, 1800, 840, l, 0)) return;
@@ -40,7 +40,7 @@ const ch7 = [
     txt('Photograph after photograph', 120, 160, { s: 56, w: 700, a: cut(l, 0), id: 'ph' });
     for (let i = 0; i < 30; i++) { const at = .3 + i * .22; if (l < at) break; const X = 140 + (i % 10) * 168, Y = 260 + Math.floor(i / 10) * 200; panel(X, Y, 140, 170, l, at); face(X + 70, Y + 90, 110); txt('?', X + 120, Y + 36, { s: 26, w: 700, c: C.acc, al: 'center', a: cut(l, at + .1) }); }
     txt('schematic', 1840, 880, { s: 15, f: F.mono, c: C.faint, al: 'right' });
-  }, ev: () => Array.from({ length: 30 }, (_, i) => ({ t: .3 + i * .22, type: 'card' })) },
+  }, ev: () => Array.from({ length: 30 }, (_, i) => ({ t: .3 + i * .22, type: 'flip' })) },
 ];
 
 // ═════════ 8 · The Earlier Attempts ═════════
@@ -83,7 +83,7 @@ const ch9 = [
   { at: 0, draw(l, d, q) {   // the logic of the search
     flashRect(l, 0, 0, 0, W, H, .06);
     txt('Business cards carried real social weight', 120, 170, { s: 44, w: 700, a: cut(l, 0), id: 'bc' });
-    const B = [['A GENUINE MATSUI CARD', q[2] + .2], ['RECEIVED FROM MATSUI HIMSELF', q[2] + 2.6], ['A NAME ON HIS RECORD', q[2] + 4.6]];
+    const B = [['A GENUINE MATSUI CARD', q[2] + .2], ['RECEIVED FROM MATSUI HIMSELF', q[2] + 1.8], ['A NAME ON HIS RECORD', q[2] + 3.4]];
     B.forEach(([s, at], i) => { const X = 120 + i * 600; if (!panel(X, 380, 540, 200, l, at)) return; txt(s, X + 30, 492, { s: 28, w: 700, f: F.mono, a: cut(l, at), id: 'lg' + i }); if (i) { const k = eo(seg(l, at - .3, at)); hair(X - 50, 480, X - 50 + 40 * k, 480, C.acc, 3); } });
     const k = cut(l, q[1] + .2); if (k > 0) { txt('an impossible search → a finite one', 120, 740, { s: 40, w: 700, a: k, id: 'fin' }); }
   } },
@@ -130,8 +130,8 @@ const ch10 = [
     if (paperCard(lerp(100, 520, u), Y, 420, 240, l, .5)) { txt('MATSUI', lerp(100, 520, u) + 30, Y + 70, { s: 24, f: F.mono, w: 600, c: '#55524a' }); txt('Dr. Shigeru Matsui', lerp(100, 520, u) + 30, Y + 150, { s: 34, w: 700, c: C.ink }); }
     if (paperCard(lerp(1400, 980, u), Y, 420, 240, l, .5)) { txt('HIRASAWA', lerp(1400, 980, u) + 30, Y + 70, { s: 24, f: F.mono, w: 600, c: '#55524a' }); txt('Sadamichi Hirasawa', lerp(1400, 980, u) + 30, Y + 150, { s: 34, w: 700, c: C.ink }); }
     if (u >= 1) { hair(560, 760, 1360, 760, C.dim, 1.5); txt('cards exchanged', 960, 800, { s: 22, f: F.mono, c: C.dim, al: 'center' }); }
-    const k = cut(l, q[7]); if (k > 0) { fill(510, Y - 10, 440, 260, C.bg); rect(520, Y, 420, 240, C.acc, 2.5, [8, 6]); txt('Matsui’s card', 550, Y + 110, { s: 34, w: 700, c: C.acc, a: k, id: 'nc' }); txt('NOT PRODUCED', 550, Y + 160, { s: 22, w: 600, f: F.mono, c: C.acc, ls: 3, a: k, id: 'nc2' }); }
-    const k2 = cut(l, q[8]); if (k2 > 0) { txt('his explanation: his wallet had been stolen', 120, 860, { s: 32, w: 600, a: k2, id: 'wal' }); }
+    const k = cut(l, q[7]); if (k > 0) { fill(510, Y - 10, 440, 260, C.bg); rect(520, Y, 420, 240, C.acc, 2.5, [8, 6]); txt('Matsui’s card', 550, Y + 110, { s: 34, w: 700, c: C.acc, a: k, id: 'nc' }); txt('COULD NOT SHOW IT', 550, Y + 160, { s: 22, w: 600, f: F.mono, c: C.acc, ls: 3, a: k, id: 'nc2' }); }
+    const k2 = cut(l, q[8] - .2); if (k2 > 0) { txt('his answer: wallet stolen', 120, 860, { s: 32, w: 600, a: k2, id: 'wal' }); }
   }, ev: (d, q) => evs([.8, 'paper'], [q[7], 'pencil']) },
 ];
 
@@ -152,7 +152,7 @@ const ch11 = [
     txt('Strong on paper', 120, 170, { s: 56, w: 700, a: cut(l, 0), id: 'sop' });
     txt('AGAINST HIM', 120, 290, { s: 30, w: 700, a: cut(l, .3), id: 'ag' }); hair(120, 310, 960, 310, C.text, 1.5);
     txt('MISSING', 1020, 290, { s: 30, w: 700, c: C.acc, a: cut(l, q[6] - .2), id: 'ms' }); if (l > q[6] - .2) hair(1020, 310, 1860, 310, C.acc, 1.5);
-    row(120, 390, 840, 'could not produce the card', true, l, q[3] + .2, { i: 0, s: 30 }); row(120, 500, 840, 'money he could not explain', true, l, q[4] + .2, { i: 1, s: 30 }); row(120, 610, 840, 'a record of fraud', true, l, q[5] + .2, { i: 0, s: 30 });
+    row(120, 390, 840, 'could not show Matsui’s card', true, l, q[3] + .2, { i: 0, s: 30 }); row(120, 500, 840, 'money he could not explain', true, l, q[4] + .2, { i: 1, s: 30 }); row(120, 610, 840, 'a record of fraud', true, l, q[5] + .2, { i: 0, s: 30 });
     row(1020, 390, 840, 'firm identification by survivors', false, l, q[6] + .6, { i: 0, s: 30 }); row(1020, 500, 840, 'physical evidence: the poison', false, l, q[6] + 3.8, { i: 1, s: 30 });
   } },
 ];

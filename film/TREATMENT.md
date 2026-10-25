@@ -94,10 +94,10 @@ A man with a health official’s armband poisons sixteen people at a Tokyo bank;
 | 10 | [1] | fact column lighting up: TEMPERA (pigment + egg) · OFFICIAL EXHIBITIONS | — | a respected painter |
 | 10 | [3] | readout `1925` · claim card “rabies vaccinations; family: personality changed” (*family account*) | — | troubled |
 | 10 | [6] | readout `1947` · two cards meet (schematic): MATSUI ⇄ HIRASAWA, *ferry* | — | the exchange |
-| 10 | [7] | the card slot left as a **red dashed box** “card not produced”, quote “wallet stolen” | — | the gap |
+| 10 | [7] | the card slot left as a **red dashed box** “could not show it”, quote “wallet stolen” | — | the gap |
 | 11 | [0] | photo: Hirasawa 1951 portrait + lower third “56 · painter” | PD | the suspect |
 | 11 | [1] | photo: under questioning, Aug 1948, circle left figure; lower third “Arrested · Otaru · August 1948” | Asahi Graph | the arrest |
-| 11 | [2] | evidence board: CARD NOT PRODUCED ✓ · UNEXPLAINED MONEY ✓ · FRAUD RECORD ✓ (left) vs SURVIVOR ID: not firm · PHYSICAL EVIDENCE: none (right, dashed) | — | strong on paper |
+| 11 | [2] | evidence board: COULD NOT SHOW MATSUI’S CARD ✓ · UNEXPLAINED MONEY ✓ · FRAUD RECORD ✓ (left) vs SURVIVOR ID: not firm · PHYSICAL EVIDENCE: none (right, dashed) | — | strong on paper |
 
 ### Act III · months and years
 | Ch | Cut | Layout | Sources | Finding |

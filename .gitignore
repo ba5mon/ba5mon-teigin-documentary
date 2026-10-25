@@ -5,3 +5,4 @@ __pycache__/
 *.zip
 film/out/
 film/voice/lines/
+film/final/*.mp4
