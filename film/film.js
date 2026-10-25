@@ -48,7 +48,7 @@ function slate(s, l) {
   const k = seg(l, .05, .1), X0 = 120, im = S.IM[SLATE_IMG[s.ch]];
   if (im) alpha(.32 * k, () => cover(im, 1180, 140, 620, 700, { k: seg(l, 0, 4), z: 1.04, noborder: false }));
   txt(`CHAPTER ${String(s.ch).padStart(2, '0')} / 22`, X0, 360, { s: 22, w: 600, f: F.mono, c: C.acc, ls: 5, a: k, id: 'sl' + s.ch });
-  const big = tw(s.title, { s: 96, w: 700 }) > 1000 ? 76 : 96;
+  const maxW = im ? 940 : 1640, big = Math.min(96, Math.floor(96 * maxW / tw(s.title, { s: 96, w: 700 })));   // never runs into the photo
   txt(s.title, X0, 470, { s: big, w: 700, a: k, id: 'slt' + s.ch });
   readout(SLATE[s.ch], X0 + 2, 560, { s: 38, c: C.dim, a: seg(l, .15, .2), id: 'slr' + s.ch });
   hair(X0, 610, lerp(X0, 1000, eo(seg(l, .1, .8))), 610, C.acc, 2);
