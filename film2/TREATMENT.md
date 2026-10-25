@@ -79,4 +79,4 @@ Setup (1–4) → turn (5–8: the trail, the painter, the confession) → doubt
 | 11 | prison corridor echo | slow footsteps fading | zither + piano, one chord at the end |
 
 ## 8. Subtitles and titles
-Subtitles: Cormorant Garamond 500, ~38 px, warm off-white with a soft shadow, one line under the box (~74 px from the bottom), split at the comma nearest the middle (~42 characters); words that appear as paper are not subtitled twice (the narration always is). Title and chapter cards: Cormorant Garamond 600, white on black. Typewriter line in scene 1: an OFL typewriter face (Special Elite).
+Subtitles: Cormorant Garamond 500, ~38 px, warm off-white with a soft shadow, one line under the box (~74 px from the bottom), split at the comma nearest the middle (~42 characters); words that appear as paper are not subtitled twice (the narration always is). Title and chapter cards: Cormorant Garamond 600, white on black. Typewriter line in scene 1: Courier Prime (OFL).
