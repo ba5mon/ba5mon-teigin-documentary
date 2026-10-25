@@ -1,0 +1,929 @@
+{
+ "voice": "am_michael",
+ "chapters": [
+  {
+   "n": 1,
+   "title": "Cold Open",
+   "duration": 35.852,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 4.930666666666666,
+     "text": "Tokyo, January 26, 1948."
+    },
+    {
+     "start": 5.3806666666666665,
+     "end": 13.252666666666666,
+     "text": "Just after three in the afternoon, the Shiinamachi branch of the Imperial Bank has closed its doors for the day."
+    },
+    {
+     "start": 13.702666666666666,
+     "end": 17.030666666666665,
+     "text": "Inside, sixteen people are finishing their work."
+    },
+    {
+     "start": 17.480666666666664,
+     "end": 26.056666666666665,
+     "text": "Within half an hour, twelve of them will be dead, and the man responsible will walk out the front door with the bank's cash."
+    },
+    {
+     "start": 27.006666666666664,
+     "end": 34.452,
+     "text": "This is the Teigin Incident, one of the strangest and most disputed crimes in Japanese history."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Japan in 1948",
+   "duration": 77.06600000000002,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 5.037333333333333,
+     "text": "To understand how it happened, you have to picture Tokyo at the time."
+    },
+    {
+     "start": 5.487333333333333,
+     "end": 8.644666666666666,
+     "text": "The war had ended less than three years earlier."
+    },
+    {
+     "start": 9.094666666666665,
+     "end": 16.17733333333333,
+     "text": "The city was still scarred by bombing, food was scarce, and the country was under American occupation."
+    },
+    {
+     "start": 16.62733333333333,
+     "end": 25.715333333333326,
+     "text": "Outbreaks of infectious disease were common, and health officials carrying orders from the occupation authorities were a familiar sight."
+    },
+    {
+     "start": 26.165333333333326,
+     "end": 29.25866666666666,
+     "text": "People were used to following them without question."
+    },
+    {
+     "start": 30.20866666666666,
+     "end": 40.49133333333333,
+     "text": "General MacArthur's headquarters, known to everyone simply as GHQ, issued directives that reached into almost every corner of daily life."
+    },
+    {
+     "start": 40.94133333333333,
+     "end": 43.565333333333335,
+     "text": "Public health was one of its priorities."
+    },
+    {
+     "start": 44.01533333333334,
+     "end": 60.95400000000001,
+     "text": "Crowded housing, damaged water systems and poor nutrition made epidemics a constant fear, and teams of Japanese health workers moved from district to district, spraying disinfectant, giving inoculations and handing out instructions."
+    },
+    {
+     "start": 61.40400000000001,
+     "end": 68.80666666666667,
+     "text": "A man with an official armband who said that GHQ required something was not a man you argued with."
+    },
+    {
+     "start": 69.75666666666667,
+     "end": 75.66600000000001,
+     "text": "That habit of trust, sensible in its time, is the key to everything that happened next."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The Visitor",
+   "duration": 38.05133333333333,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 6.402666666666667,
+     "text": "Around 3:20 pm, a middle-aged man knocked at the bank's side entrance."
+    },
+    {
+     "start": 6.852666666666667,
+     "end": 15.706,
+     "text": "He wore an armband that marked him as a public health official and handed over a business card identifying him as a doctor."
+    },
+    {
+     "start": 16.656,
+     "end": 20.752,
+     "text": "He explained that there had been an outbreak of dysentery nearby."
+    },
+    {
+     "start": 21.201999999999998,
+     "end": 30.88733333333333,
+     "text": "The American occupation authorities, he said, had ordered that everyone at the bank take a preventive medicine before anyone was allowed to leave."
+    },
+    {
+     "start": 31.33733333333333,
+     "end": 33.876,
+     "text": "He was calm, polite, and confident."
+    },
+    {
+     "start": 34.326,
+     "end": 36.65133333333333,
+     "text": "Nobody had reason to doubt him."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The Medicine",
+   "duration": 70.48933333333335,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 6.957333333333333,
+     "text": "The man gathered the staff, along with members of the caretaker's family, including children."
+    },
+    {
+     "start": 7.407333333333333,
+     "end": 9.241999999999999,
+     "text": "Sixteen people in all."
+    },
+    {
+     "start": 9.691999999999998,
+     "end": 18.481333333333332,
+     "text": "He set out cups and showed them exactly how to take the medicine: two doses, one after the other, about a minute apart."
+    },
+    {
+     "start": 18.93133333333333,
+     "end": 22.13133333333333,
+     "text": "He even drank first to show them it was safe."
+    },
+    {
+     "start": 23.08133333333333,
+     "end": 26.387999999999998,
+     "text": "Survivors later recalled how practised he seemed."
+    },
+    {
+     "start": 26.837999999999997,
+     "end": 40.10733333333333,
+     "text": "He measured the liquid into each cup with a dropper, and explained that the first dose was strong and should be swallowed in one go, pushed to the back of the tongue, so that it would not harm their teeth."
+    },
+    {
+     "start": 41.05733333333333,
+     "end": 42.678666666666665,
+     "text": "They did as he said."
+    },
+    {
+     "start": 43.12866666666667,
+     "end": 46.158,
+     "text": "Within minutes, people began collapsing."
+    },
+    {
+     "start": 46.608000000000004,
+     "end": 52.368,
+     "text": "Some managed to stagger outside for water or help before falling unconscious."
+    },
+    {
+     "start": 52.818000000000005,
+     "end": 55.50600000000001,
+     "text": "The liquid was a cyanide compound."
+    },
+    {
+     "start": 56.45600000000001,
+     "end": 58.546666666666674,
+     "text": "Ten people died at the bank."
+    },
+    {
+     "start": 58.99666666666668,
+     "end": 61.64200000000001,
+     "text": "Two more died later in hospital."
+    },
+    {
+     "start": 62.09200000000001,
+     "end": 69.08933333333334,
+     "text": "Of the sixteen, only four survived, and their accounts became the core of the investigation."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "After the Alarm",
+   "duration": 52.208666666666666,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 7.1706666666666665,
+     "text": "When neighbours and passers-by first reached the building, they did not understand what they were seeing."
+    },
+    {
+     "start": 7.620666666666667,
+     "end": 11.482,
+     "text": "Some early reports spoke of gas or food poisoning."
+    },
+    {
+     "start": 11.931999999999999,
+     "end": 18.459999999999997,
+     "text": "People went inside to help, and by the time detectives arrived, the scene had been disturbed."
+    },
+    {
+     "start": 19.409999999999997,
+     "end": 27.153999999999996,
+     "text": "Within hours, the Metropolitan Police had begun one of the largest investigations in their history."
+    },
+    {
+     "start": 27.603999999999996,
+     "end": 30.291999999999994,
+     "text": "Laboratory tests confirmed cyanide."
+    },
+    {
+     "start": 30.741999999999994,
+     "end": 41.08866666666666,
+     "text": "The next morning the story filled the front pages, and a name began to appear that would follow the case for decades: the Teigin Incident."
+    },
+    {
+     "start": 42.038666666666664,
+     "end": 48.75866666666666,
+     "text": "The question facing investigators was simple to state and almost impossible to answer."
+    },
+    {
+     "start": 49.208666666666666,
+     "end": 50.80866666666667,
+     "text": "Who was the doctor?"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The Money Left Behind",
+   "duration": 34.959999999999994,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 11.799999999999999,
+     "text": "While his victims lay dying, the man collected the cash within reach: about 164,000 yen and a cheque for around 17,000 yen."
+    },
+    {
+     "start": 12.249999999999998,
+     "end": 13.444666666666665,
+     "text": "Then he left."
+    },
+    {
+     "start": 13.894666666666664,
+     "end": 17.07333333333333,
+     "text": "The cheque was cashed at another bank the following day."
+    },
+    {
+     "start": 18.02333333333333,
+     "end": 23.121999999999996,
+     "text": "It was a large sum, but investigators were struck by what he did not take."
+    },
+    {
+     "start": 23.571999999999996,
+     "end": 25.619999999999997,
+     "text": "Far more money was in the bank."
+    },
+    {
+     "start": 26.069999999999997,
+     "end": 30.485999999999997,
+     "text": "Why go to such lengths, and kill twelve people, for only part of it?"
+    },
+    {
+     "start": 30.935999999999996,
+     "end": 33.559999999999995,
+     "text": "The question has never been fully answered."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The Survivors and the Sketch",
+   "duration": 56.64600000000001,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 6.68,
+     "text": "The four survivors had each seen the man at close range, in daylight, for several minutes."
+    },
+    {
+     "start": 7.13,
+     "end": 17.13533333333333,
+     "text": "They described someone composed and authoritative, perhaps in his forties or fifties, who spoke politely and handled his bottles with ease."
+    },
+    {
+     "start": 18.08533333333333,
+     "end": 22.607999999999997,
+     "text": "From their accounts, police produced a composite image of the suspect."
+    },
+    {
+     "start": 23.057999999999996,
+     "end": 32.10333333333333,
+     "text": "It was printed in newspapers and posted across the country, and it became one of the most recognisable faces of post-war Japan."
+    },
+    {
+     "start": 32.553333333333335,
+     "end": 34.49466666666667,
+     "text": "Thousands of tips poured in."
+    },
+    {
+     "start": 35.44466666666667,
+     "end": 37.898,
+     "text": "But memory under shock is fragile."
+    },
+    {
+     "start": 38.348000000000006,
+     "end": 46.518666666666675,
+     "text": "The survivors had just watched colleagues and family members collapse around them, and their recollections did not always agree."
+    },
+    {
+     "start": 46.96866666666668,
+     "end": 55.24600000000001,
+     "text": "Over the months that followed, as they were shown photograph after photograph, their certainty would be tested again and again."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The Earlier Attempts",
+   "duration": 46.71466666666667,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 4.610666666666666,
+     "text": "Police soon discovered that Teigin was not the first attempt."
+    },
+    {
+     "start": 5.060666666666666,
+     "end": 20.612666666666666,
+     "text": "In October 1947, a man had tried the same story at a branch of the Yasuda Bank, and on January 19, 1948, just a week before, at a branch of the Mitsubishi Bank."
+    },
+    {
+     "start": 21.062666666666665,
+     "end": 25.82,
+     "text": "In both cases the staff drank harmless liquid and nobody was hurt."
+    },
+    {
+     "start": 26.77,
+     "end": 30.119333333333334,
+     "text": "At those banks, the visitor had left business cards."
+    },
+    {
+     "start": 30.569333333333333,
+     "end": 34.75066666666667,
+     "text": "One of them bore the name of a real doctor, Shigeru Matsui."
+    },
+    {
+     "start": 35.20066666666667,
+     "end": 42.43266666666667,
+     "text": "Matsui had nothing to do with the crime, but he kept careful records of everyone he had exchanged cards with."
+    },
+    {
+     "start": 42.88266666666667,
+     "end": 45.314666666666675,
+     "text": "Detectives began working through the list."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The Card Trail",
+   "duration": 60.40266666666667,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 6.722666666666666,
+     "text": "In Japan, business cards were exchanged constantly, and they carried real social weight."
+    },
+    {
+     "start": 7.172666666666666,
+     "end": 11.418,
+     "text": "Matsui's record turned an impossible search into a finite one."
+    },
+    {
+     "start": 11.867999999999999,
+     "end": 18.204,
+     "text": "If the killer had used a genuine Matsui card, he must have received it from Matsui himself."
+    },
+    {
+     "start": 18.654,
+     "end": 27.102,
+     "text": "So detectives set out to find every person on the list and ask a single question: can you show us the card you were given?"
+    },
+    {
+     "start": 28.052,
+     "end": 29.182666666666666,
+     "text": "Most could."
+    },
+    {
+     "start": 29.632666666666665,
+     "end": 33.02466666666667,
+     "text": "Others had lost theirs but were cleared in other ways."
+    },
+    {
+     "start": 33.47466666666667,
+     "end": 47.49066666666667,
+     "text": "The recipients were scattered across the country, and through the spring and summer of 1948 a small team of detectives travelled by slow, crowded trains, crossing names off one at a time."
+    },
+    {
+     "start": 48.44066666666667,
+     "end": 55.758,
+     "text": "They believed that patient police work, not theories about secret wartime programmes, would solve the case."
+    },
+    {
+     "start": 56.208000000000006,
+     "end": 59.00266666666667,
+     "text": "Their search led them north, to Hokkaido."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "The Painter",
+   "duration": 66.52533333333336,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 8.898666666666667,
+     "text": "Sadamichi Hirasawa was born in 1892 and grew up partly in the port city of Otaru."
+    },
+    {
+     "start": 9.348666666666666,
+     "end": 18.052666666666667,
+     "text": "He became a painter, and a respected one, known especially for his work in tempera, a technique using pigment bound with egg."
+    },
+    {
+     "start": 18.502666666666666,
+     "end": 31.195999999999998,
+     "text": "His quiet landscapes and flower studies were shown at major official exhibitions, and by the 1940s his name appeared regularly in catalogues and newspapers."
+    },
+    {
+     "start": 32.146,
+     "end": 34.642,
+     "text": "His private life was more troubled."
+    },
+    {
+     "start": 35.092000000000006,
+     "end": 45.03333333333334,
+     "text": "In 1925 he received a course of rabies vaccinations, and his family later said his personality changed afterwards."
+    },
+    {
+     "start": 45.48333333333334,
+     "end": 49.259333333333345,
+     "text": "He had money problems, and a record of minor fraud."
+    },
+    {
+     "start": 50.20933333333335,
+     "end": 57.420000000000016,
+     "text": "In 1947, he had met Doctor Matsui on a ferry, and the two men exchanged cards."
+    },
+    {
+     "start": 57.87000000000002,
+     "end": 62.542000000000016,
+     "text": "When detectives asked to see that card, Hirasawa could not produce it."
+    },
+    {
+     "start": 62.99200000000002,
+     "end": 65.12533333333336,
+     "text": "He said his wallet had been stolen."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "title": "The Suspect",
+   "duration": 38.05333333333333,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 8.728,
+     "text": "One name on that list was Sadamichi Hirasawa, a 56-year-old painter who was well known in the art world."
+    },
+    {
+     "start": 9.177999999999999,
+     "end": 15.599333333333332,
+     "text": "In August 1948, police arrested him at his home in Otaru, Hokkaido."
+    },
+    {
+     "start": 16.549333333333333,
+     "end": 19.301333333333332,
+     "text": "The case against him looked strong on paper."
+    },
+    {
+     "start": 19.75133333333333,
+     "end": 22.162,
+     "text": "He could not produce Matsui's card."
+    },
+    {
+     "start": 22.612,
+     "end": 26.238666666666663,
+     "text": "He had come into a sum of money he could not explain."
+    },
+    {
+     "start": 26.688666666666663,
+     "end": 29.077999999999996,
+     "text": "And he had a past record of fraud."
+    },
+    {
+     "start": 29.527999999999995,
+     "end": 36.65333333333333,
+     "text": "But survivors could not firmly identify him, and no direct physical evidence connected him to the poison."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "title": "Inside the Interrogation Room",
+   "duration": 47.498,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 4.973333333333333,
+     "text": "What happened next has to be understood in the context of the time."
+    },
+    {
+     "start": 5.423333333333333,
+     "end": 18.586,
+     "text": "Japan's new Constitution, in force since May 1947, said that forced confessions could not be used as evidence, and that no one could be convicted on a confession alone."
+    },
+    {
+     "start": 19.035999999999998,
+     "end": 34.35333333333333,
+     "text": "But a new Code of Criminal Procedure did not take effect until January 1949, and Hirasawa's case was handled under the older system, in which a confession was treated as the strongest evidence of all."
+    },
+    {
+     "start": 35.303333333333335,
+     "end": 46.098,
+     "text": "Suspects could be held for long periods in police cells, questioned for hours at a stretch, with little access to a lawyer and no recording of what was said."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "title": "The Confession",
+   "duration": 40.57066666666666,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 3.48,
+     "text": "Hirasawa was interrogated for weeks."
+    },
+    {
+     "start": 3.93,
+     "end": 6.17,
+     "text": "At first he denied everything."
+    },
+    {
+     "start": 6.62,
+     "end": 10.225333333333333,
+     "text": "Then, after more than a month in custody, he confessed."
+    },
+    {
+     "start": 10.675333333333333,
+     "end": 17.523333333333333,
+     "text": "Soon afterwards, he took it back, saying the confession had been forced out of him under intense pressure."
+    },
+    {
+     "start": 18.473333333333333,
+     "end": 21.310666666666666,
+     "text": "His supporters also pointed to his health."
+    },
+    {
+     "start": 21.760666666666665,
+     "end": 31.445999999999998,
+     "text": "Years earlier, a rabies vaccination had reportedly left him with a neurological condition that could cause confusion and false memories."
+    },
+    {
+     "start": 31.895999999999997,
+     "end": 39.17066666666666,
+     "text": "They argued that a man in that state, under relentless questioning, could be led to confess to almost anything."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "title": "In Court",
+   "duration": 39.79666666666667,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 6.4239999999999995,
+     "text": "At his trial in the Tokyo District Court, Hirasawa denied the crime completely."
+    },
+    {
+     "start": 6.874,
+     "end": 24.026,
+     "text": "His lawyers argued that the confession was coerced and unreliable, that the identification evidence was weak, and that the prosecution had never explained how a painter could have obtained a fast-acting poison, or learned to handle it with such confidence."
+    },
+    {
+     "start": 24.976,
+     "end": 31.695999999999998,
+     "text": "The prosecution relied on the confession, the missing card, the unexplained money and his past."
+    },
+    {
+     "start": 32.146,
+     "end": 38.39666666666667,
+     "text": "The gap at the centre of the case, the poison, pointed in a direction the court did not follow."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "title": "The Unit 731 Theory",
+   "duration": 71.24000000000001,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 6.509333333333333,
+     "text": "Many people believed the police had the wrong man from the start, and there was a reason why."
+    },
+    {
+     "start": 7.459333333333333,
+     "end": 9.976666666666667,
+     "text": "The killer had handled the poison with skill."
+    },
+    {
+     "start": 10.426666666666666,
+     "end": 18.042666666666666,
+     "text": "He measured doses precisely, used a two-stage method, and knew how to make the poison act with a short delay."
+    },
+    {
+     "start": 18.492666666666665,
+     "end": 24.935333333333332,
+     "text": "Early in the investigation, detectives suspected someone with military training in poisons."
+    },
+    {
+     "start": 25.38533333333333,
+     "end": 41.534666666666666,
+     "text": "They questioned former members of the Imperial Army's Noborito research institute and of Unit 731, the secret unit that had carried out biological-warfare research and lethal experiments on prisoners during the war."
+    },
+    {
+     "start": 42.48466666666667,
+     "end": 45.002,
+     "text": "That line of inquiry was then dropped."
+    },
+    {
+     "start": 45.452000000000005,
+     "end": 55.86266666666667,
+     "text": "At the time, the United States had quietly granted Unit 731's leaders immunity from prosecution in exchange for their research data."
+    },
+    {
+     "start": 56.31266666666667,
+     "end": 63.63,
+     "text": "Many researchers believe the occupation authorities did not want the investigation to expose those men."
+    },
+    {
+     "start": 64.08,
+     "end": 69.84,
+     "text": "This has never been proven, but it remains the most persistent theory about the case."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "title": "The Immunity Deal",
+   "duration": 70.70666666666668,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 9.410666666666666,
+     "text": "Unit 731 was based near Harbin, in occupied north-east China, under the command of Shir\u014d Ishii."
+    },
+    {
+     "start": 9.860666666666665,
+     "end": 17.732666666666667,
+     "text": "Its prisoners, most of them Chinese, were used in experiments that are remembered among the gravest crimes of the war."
+    },
+    {
+     "start": 18.682666666666666,
+     "end": 23.695999999999998,
+     "text": "After the surrender, American officials questioned Ishii and his colleagues."
+    },
+    {
+     "start": 24.145999999999997,
+     "end": 31.07933333333333,
+     "text": "The outcome was that the unit's leaders were never put on trial, and their research passed to the United States."
+    },
+    {
+     "start": 31.52933333333333,
+     "end": 34.81466666666666,
+     "text": "For decades the arrangement stayed largely hidden."
+    },
+    {
+     "start": 35.26466666666666,
+     "end": 46.44333333333333,
+     "text": "It came to public attention through journalists and historians in the 1970s and 1980s, long after Hirasawa had been convicted."
+    },
+    {
+     "start": 47.39333333333333,
+     "end": 61.11066666666666,
+     "text": "Notes kept by one of the Teigin detectives, published years later, show that former members of these units were interviewed in 1948, and that some described methods resembling the crime."
+    },
+    {
+     "start": 61.56066666666666,
+     "end": 66.72333333333333,
+     "text": "No document has been found showing that GHQ ordered the inquiry stopped."
+    },
+    {
+     "start": 67.17333333333333,
+     "end": 69.30666666666667,
+     "text": "The connection remains a theory."
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "title": "The Verdict",
+   "duration": 30.39266666666666,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 4.568,
+     "text": "In 1950, Hirasawa was sentenced to death."
+    },
+    {
+     "start": 5.018,
+     "end": 10.116666666666667,
+     "text": "Japan's Supreme Court upheld the sentence in 1955."
+    },
+    {
+     "start": 11.066666666666666,
+     "end": 13.434666666666667,
+     "text": "But the sentence was never carried out."
+    },
+    {
+     "start": 13.884666666666666,
+     "end": 21.842,
+     "text": "In Japan, an execution needs the justice minister's signature, and minister after minister refused to sign."
+    },
+    {
+     "start": 22.291999999999998,
+     "end": 26.79333333333333,
+     "text": "Hirasawa's lawyers filed request after request for a retrial."
+    },
+    {
+     "start": 27.24333333333333,
+     "end": 28.99266666666666,
+     "text": "All of them were rejected."
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "title": "The Ministers Who Would Not Sign",
+   "duration": 43.13066666666666,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 7.213333333333333,
+     "text": "Governments rose and fell, and with each new cabinet a new justice minister was handed the file."
+    },
+    {
+     "start": 7.663333333333333,
+     "end": 9.114,
+     "text": "None of them signed."
+    },
+    {
+     "start": 9.564,
+     "end": 14.620000000000001,
+     "text": "They rarely explained why in public, but the hesitation spoke for itself."
+    },
+    {
+     "start": 15.07,
+     "end": 23.432666666666666,
+     "text": "The conviction rested on a retracted confession, and doubts about the poison and the identification had never gone away."
+    },
+    {
+     "start": 24.382666666666665,
+     "end": 26.537333333333333,
+     "text": "The result was a strange limbo."
+    },
+    {
+     "start": 26.987333333333332,
+     "end": 30.357999999999997,
+     "text": "Hirasawa was neither freed nor executed."
+    },
+    {
+     "start": 30.807999999999996,
+     "end": 41.730666666666664,
+     "text": "In an era when condemned prisoners were usually given little or no warning of their execution, he lived with that uncertainty not for months, but for decades."
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "title": "The Retrial Campaigns",
+   "duration": 47.374,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 3.928,
+     "text": "Outside the prison, the case never went quiet."
+    },
+    {
+     "start": 4.378,
+     "end": 13.231333333333334,
+     "text": "In the early 1960s, the writer Tetsur\u014d Morikawa founded an association to win Hirasawa's release."
+    },
+    {
+     "start": 13.681333333333333,
+     "end": 26.076,
+     "text": "The crime novelist Seich\u014d Matsumoto wrote about the case and the possibility of a cover-up, and in 1964 the director Kei Kumai made a feature film about it."
+    },
+    {
+     "start": 26.526,
+     "end": 32.840666666666664,
+     "text": "In English, William Triplett published a book-length investigation in 1985."
+    },
+    {
+     "start": 33.79066666666667,
+     "end": 40.382666666666665,
+     "text": "Through it all, Hirasawa kept painting in his cell, and his supporters exhibited the work outside."
+    },
+    {
+     "start": 40.83266666666667,
+     "end": 45.974000000000004,
+     "text": "To them, it was proof that the man was still present, still working, still waiting."
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "title": "Thirty-Nine Years",
+   "duration": 23.33733333333333,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 8.237333333333334,
+     "text": "Sadamichi Hirasawa spent almost 39 years in prison, more than 32 of them on death row."
+    },
+    {
+     "start": 8.687333333333333,
+     "end": 10.479333333333333,
+     "text": "He kept painting throughout."
+    },
+    {
+     "start": 10.929333333333332,
+     "end": 21.93733333333333,
+     "text": "On May 10, 1987, he died of pneumonia in a prison hospital at the age of 95, still insisting he was innocent."
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "title": "Legacy",
+   "duration": 65.79400000000001,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 3.608,
+     "text": "The Teigin Incident left a long shadow."
+    },
+    {
+     "start": 4.058,
+     "end": 15.45,
+     "text": "It was one of the deadliest robberies in Japanese history, carried out not with weapons but with an armband, a story and the trust of ordinary people."
+    },
+    {
+     "start": 16.4,
+     "end": 19.919999999999998,
+     "text": "It also became a case about justice itself."
+    },
+    {
+     "start": 20.369999999999997,
+     "end": 35.025999999999996,
+     "text": "In the 1980s, several Japanese death-row prisoners were exonerated at retrial after decades behind bars, their convictions found to rest on confessions that could not be trusted."
+    },
+    {
+     "start": 35.476,
+     "end": 47.828,
+     "text": "Each of those cases revived the questions about Hirasawa, and the debate over long interrogations and the weight given to confessions continues in Japan today."
+    },
+    {
+     "start": 48.778000000000006,
+     "end": 64.394,
+     "text": "And at the centre of it all are the twelve people who died in Shiinamachi: clerks and a caretaker's family, at the end of an ordinary working day, who did what they were told by a man they had every reason to believe."
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "title": "The Questions Remain",
+   "duration": 28.437999999999995,
+   "cues": [
+    {
+     "start": 0.6,
+     "end": 10.328,
+     "text": "His adopted son continued the fight to clear his name, and supporters have kept pressing for a retrial even after both men's deaths."
+    },
+    {
+     "start": 10.777999999999999,
+     "end": 12.996666666666666,
+     "text": "Officially, the case is closed."
+    },
+    {
+     "start": 13.446666666666665,
+     "end": 15.195999999999998,
+     "text": "But the questions remain."
+    },
+    {
+     "start": 15.645999999999997,
+     "end": 27.037999999999997,
+     "text": "Who was the man at the bank door, where did he learn to handle poison like that, and why did the investigation turn away from the people best equipped to commit the crime?"
+    }
+   ]
+  }
+ ]
+}
