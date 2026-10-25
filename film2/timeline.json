@@ -1,0 +1,1884 @@
+{
+ "dur": 497.733,
+ "segs": [
+  {
+   "kind": "scene",
+   "scene": 1,
+   "title": "Cold open",
+   "t0": 0.0,
+   "t1": 34.479,
+   "audio": "audio/s01.wav",
+   "cues": [
+    [
+     0.3,
+     4.204
+    ],
+    [
+     4.624,
+     12.475
+    ],
+    [
+     12.895,
+     16.223
+    ],
+    [
+     16.643,
+     25.219
+    ],
+    [
+     26.119,
+     33.479
+    ]
+   ],
+   "follows": false
+  },
+  {
+   "kind": "main",
+   "t0": 34.479,
+   "t1": 39.479,
+   "text": [
+    "THE TEIGIN INCIDENT",
+    "The Imperial Bank Poisoning, 1948"
+   ]
+  },
+  {
+   "kind": "card",
+   "scene": 2,
+   "title": "Chapter 1: A City in Ruins",
+   "t0": 39.479,
+   "t1": 42.479
+  },
+  {
+   "kind": "scene",
+   "scene": 2,
+   "title": "Japan in 1948",
+   "t0": 42.479,
+   "t1": 72.68,
+   "audio": "audio/s02.wav",
+   "cues": [
+    [
+     42.779,
+     47.302
+    ],
+    [
+     47.722,
+     50.964
+    ],
+    [
+     51.384,
+     58.552
+    ],
+    [
+     58.972,
+     68.082
+    ],
+    [
+     68.502,
+     71.68
+    ]
+   ],
+   "follows": false
+  },
+  {
+   "kind": "card",
+   "scene": 3,
+   "title": "Chapter 2: The Visitor",
+   "t0": 72.68,
+   "t1": 75.68
+  },
+  {
+   "kind": "scene",
+   "scene": 3,
+   "title": "The visitor",
+   "t0": 75.68,
+   "t1": 113.139,
+   "audio": "audio/s03.wav",
+   "cues": [
+    [
+     75.98,
+     81.825
+    ],
+    [
+     82.245,
+     91.099
+    ],
+    [
+     91.999,
+     96.095
+    ],
+    [
+     96.515,
+     106.435
+    ],
+    [
+     106.855,
+     109.393
+    ],
+    [
+     109.813,
+     112.139
+    ]
+   ],
+   "follows": false
+  },
+  {
+   "kind": "scene",
+   "scene": 4,
+   "title": "The medicine",
+   "t0": 113.139,
+   "t1": 164.634,
+   "audio": "audio/s04.wav",
+   "cues": [
+    [
+     113.439,
+     119.796
+    ],
+    [
+     120.216,
+     122.051
+    ],
+    [
+     122.471,
+     131.26
+    ],
+    [
+     131.68,
+     134.88
+    ],
+    [
+     135.78,
+     137.402
+    ],
+    [
+     137.822,
+     140.851
+    ],
+    [
+     141.271,
+     147.052
+    ],
+    [
+     147.472,
+     150.16
+    ],
+    [
+     151.06,
+     153.151
+    ],
+    [
+     153.571,
+     156.216
+    ],
+    [
+     156.636,
+     163.634
+    ]
+   ],
+   "follows": true
+  },
+  {
+   "kind": "card",
+   "scene": 5,
+   "title": "Chapter 3: The Money Left Behind",
+   "t0": 164.634,
+   "t1": 167.634
+  },
+  {
+   "kind": "scene",
+   "scene": 5,
+   "title": "The money left behind",
+   "t0": 167.634,
+   "t1": 201.95,
+   "audio": "audio/s05.wav",
+   "cues": [
+    [
+     167.934,
+     179.155
+    ],
+    [
+     179.575,
+     180.813
+    ],
+    [
+     181.233,
+     184.454
+    ],
+    [
+     185.354,
+     190.517
+    ],
+    [
+     190.937,
+     193.027
+    ],
+    [
+     193.447,
+     197.885
+    ],
+    [
+     198.305,
+     200.95
+    ]
+   ],
+   "follows": false
+  },
+  {
+   "kind": "card",
+   "scene": 6,
+   "title": "Chapter 4: Two Rehearsals",
+   "t0": 201.95,
+   "t1": 204.95
+  },
+  {
+   "kind": "scene",
+   "scene": 6,
+   "title": "The earlier attempts",
+   "t0": 204.95,
+   "t1": 251.127,
+   "audio": "audio/s06.wav",
+   "cues": [
+    [
+     205.25,
+     209.325
+    ],
+    [
+     209.745,
+     225.211
+    ],
+    [
+     225.631,
+     230.389
+    ],
+    [
+     231.289,
+     234.681
+    ],
+    [
+     235.101,
+     239.41
+    ],
+    [
+     239.83,
+     247.254
+    ],
+    [
+     247.674,
+     250.127
+    ]
+   ],
+   "follows": false
+  },
+  {
+   "kind": "card",
+   "scene": 7,
+   "title": "Chapter 5: The Painter",
+   "t0": 251.127,
+   "t1": 254.127
+  },
+  {
+   "kind": "scene",
+   "scene": 7,
+   "title": "The suspect",
+   "t0": 254.127,
+   "t1": 291.686,
+   "audio": "audio/s07.wav",
+   "cues": [
+    [
+     254.427,
+     262.768
+    ],
+    [
+     263.188,
+     269.482
+    ],
+    [
+     270.382,
+     273.24
+    ],
+    [
+     273.66,
+     276.135
+    ],
+    [
+     276.555,
+     280.224
+    ],
+    [
+     280.644,
+     283.034
+    ],
+    [
+     283.454,
+     290.686
+    ]
+   ],
+   "follows": false
+  },
+  {
+   "kind": "scene",
+   "scene": 8,
+   "title": "The confession",
+   "t0": 291.686,
+   "t1": 331.805,
+   "audio": "audio/s08.wav",
+   "cues": [
+    [
+     291.986,
+     295.122
+    ],
+    [
+     295.542,
+     297.803
+    ],
+    [
+     298.223,
+     301.829
+    ],
+    [
+     302.249,
+     309.118
+    ],
+    [
+     310.018,
+     312.877
+    ],
+    [
+     313.297,
+     323.025
+    ],
+    [
+     323.445,
+     330.805
+    ]
+   ],
+   "follows": true
+  },
+  {
+   "kind": "card",
+   "scene": 9,
+   "title": "Chapter 6: The Shadow of Unit 731",
+   "t0": 331.805,
+   "t1": 334.805
+  },
+  {
+   "kind": "scene",
+   "scene": 9,
+   "title": "The Unit 731 theory",
+   "t0": 334.805,
+   "t1": 405.15,
+   "audio": "audio/s09.wav",
+   "cues": [
+    [
+     335.105,
+     341.1
+    ],
+    [
+     342.0,
+     344.581
+    ],
+    [
+     345.001,
+     352.724
+    ],
+    [
+     353.144,
+     359.672
+    ],
+    [
+     360.092,
+     375.772
+    ],
+    [
+     376.672,
+     379.189
+    ],
+    [
+     379.609,
+     390.02
+    ],
+    [
+     390.44,
+     397.906
+    ],
+    [
+     398.326,
+     404.15
+    ]
+   ],
+   "follows": false
+  },
+  {
+   "kind": "card",
+   "scene": 10,
+   "title": "Chapter 7: The Verdict",
+   "t0": 405.15,
+   "t1": 408.15
+  },
+  {
+   "kind": "scene",
+   "scene": 10,
+   "title": "The verdict",
+   "t0": 408.15,
+   "t1": 437.801,
+   "audio": "audio/s10.wav",
+   "cues": [
+    [
+     408.45,
+     412.354
+    ],
+    [
+     412.774,
+     417.553
+    ],
+    [
+     418.453,
+     420.949
+    ],
+    [
+     421.369,
+     429.454
+    ],
+    [
+     429.874,
+     434.589
+    ],
+    [
+     435.009,
+     436.801
+    ]
+   ],
+   "follows": false
+  },
+  {
+   "kind": "card",
+   "scene": 11,
+   "title": "Chapter 8: Thirty-Two Years",
+   "t0": 437.801,
+   "t1": 440.801
+  },
+  {
+   "kind": "scene",
+   "scene": 11,
+   "title": "The ending",
+   "t0": 440.801,
+   "t1": 490.733,
+   "audio": "audio/s11.wav",
+   "cues": [
+    [
+     441.101,
+     449.037
+    ],
+    [
+     449.457,
+     451.249
+    ],
+    [
+     451.669,
+     462.485
+    ],
+    [
+     463.385,
+     473.113
+    ],
+    [
+     473.533,
+     475.752
+    ],
+    [
+     476.172,
+     477.921
+    ],
+    [
+     478.341,
+     489.733
+    ]
+   ],
+   "follows": false
+  },
+  {
+   "kind": "final",
+   "t0": 490.733,
+   "t1": 497.733,
+   "text": [
+    "The case remains officially closed.",
+    "The questions remain open."
+   ]
+  }
+ ],
+ "subs": [
+  {
+   "scene": 1,
+   "t0": 0.25,
+   "speech_end": 4.08,
+   "text": "Tokyo, January 26, 1948.",
+   "t1": 4.554
+  },
+  {
+   "scene": 1,
+   "t0": 4.574,
+   "speech_end": 6.644,
+   "text": "Just after three in the afternoon,",
+   "t1": 7.244
+  },
+  {
+   "scene": 1,
+   "t0": 7.494,
+   "speech_end": 9.624,
+   "text": "the Shiinamachi branch of the Imperial",
+   "t1": 9.554
+  },
+  {
+   "scene": 1,
+   "t0": 9.574,
+   "speech_end": 12.204,
+   "text": "Bank has closed its doors for the day.",
+   "t1": 12.804
+  },
+  {
+   "scene": 1,
+   "t0": 12.845,
+   "speech_end": 15.915,
+   "text": "Inside, sixteen people are finishing their work.",
+   "t1": 16.515
+  },
+  {
+   "scene": 1,
+   "t0": 16.593,
+   "speech_end": 19.903,
+   "text": "Within half an hour, twelve of them will be dead,",
+   "t1": 20.503
+  },
+  {
+   "scene": 1,
+   "t0": 20.673,
+   "speech_end": 22.863,
+   "text": "and the man responsible will walk out",
+   "t1": 22.793
+  },
+  {
+   "scene": 1,
+   "t0": 22.813,
+   "speech_end": 24.783,
+   "text": "the front door with the bank's cash.",
+   "t1": 25.383
+  },
+  {
+   "scene": 1,
+   "t0": 26.069,
+   "speech_end": 27.839,
+   "text": "This is the Teigin Incident,",
+   "t1": 28.439
+  },
+  {
+   "scene": 1,
+   "t0": 28.629,
+   "speech_end": 33.159,
+   "text": "one of the strangest and most disputed crimes in Japanese history.",
+   "t1": 33.759
+  },
+  {
+   "scene": 2,
+   "t0": 42.729,
+   "speech_end": 46.979,
+   "text": "To understand how it happened, you have to picture Tokyo at the time.",
+   "t1": 47.579
+  },
+  {
+   "scene": 2,
+   "t0": 47.672,
+   "speech_end": 50.662,
+   "text": "The war had ended less than three years earlier.",
+   "t1": 51.262
+  },
+  {
+   "scene": 2,
+   "t0": 51.334,
+   "speech_end": 54.864,
+   "text": "The city was still scarred by bombing, food was scarce,",
+   "t1": 55.464
+  },
+  {
+   "scene": 2,
+   "t0": 55.774,
+   "speech_end": 58.024,
+   "text": "and the country was under American occupation.",
+   "t1": 58.624
+  },
+  {
+   "scene": 2,
+   "t0": 58.922,
+   "speech_end": 61.752,
+   "text": "Outbreaks of infectious disease were common,",
+   "t1": 62.302
+  },
+  {
+   "scene": 2,
+   "t0": 62.322,
+   "speech_end": 64.672,
+   "text": "and health officials carrying orders from the",
+   "t1": 64.602
+  },
+  {
+   "scene": 2,
+   "t0": 64.622,
+   "speech_end": 67.832,
+   "text": "occupation authorities were a familiar sight.",
+   "t1": 68.432
+  },
+  {
+   "scene": 2,
+   "t0": 68.452,
+   "speech_end": 71.122,
+   "text": "People were used to following them without question.",
+   "t1": 71.722
+  },
+  {
+   "scene": 3,
+   "t0": 75.93,
+   "speech_end": 81.825,
+   "text": "Around 3:20 pm, a middle-aged man knocked at the bank's side entrance.",
+   "t1": 82.175
+  },
+  {
+   "scene": 3,
+   "t0": 82.195,
+   "speech_end": 86.745,
+   "text": "He wore an armband that marked him as a public health official",
+   "t1": 86.675
+  },
+  {
+   "scene": 3,
+   "t0": 86.695,
+   "speech_end": 91.099,
+   "text": "and handed over a business card identifying him as a doctor.",
+   "t1": 91.699
+  },
+  {
+   "scene": 3,
+   "t0": 91.949,
+   "speech_end": 95.659,
+   "text": "He explained that there had been an outbreak of dysentery nearby.",
+   "t1": 96.259
+  },
+  {
+   "scene": 3,
+   "t0": 96.465,
+   "speech_end": 99.655,
+   "text": "The American occupation authorities, he said,",
+   "t1": 100.245
+  },
+  {
+   "scene": 3,
+   "t0": 100.265,
+   "speech_end": 103.035,
+   "text": "had ordered that everyone at the bank take a preventive",
+   "t1": 102.965
+  },
+  {
+   "scene": 3,
+   "t0": 102.985,
+   "speech_end": 106.055,
+   "text": "medicine before anyone was allowed to leave.",
+   "t1": 106.655
+  },
+  {
+   "scene": 3,
+   "t0": 106.805,
+   "speech_end": 108.955,
+   "text": "He was calm, polite, and confident.",
+   "t1": 109.555
+  },
+  {
+   "scene": 3,
+   "t0": 109.763,
+   "speech_end": 111.973,
+   "text": "Nobody had reason to doubt him.",
+   "t1": 112.573
+  },
+  {
+   "scene": 4,
+   "t0": 113.389,
+   "speech_end": 114.959,
+   "text": "The man gathered the staff,",
+   "t1": 115.429
+  },
+  {
+   "scene": 4,
+   "t0": 115.449,
+   "speech_end": 119.399,
+   "text": "along with members of the caretaker's family, including children.",
+   "t1": 119.999
+  },
+  {
+   "scene": 4,
+   "t0": 120.166,
+   "speech_end": 121.556,
+   "text": "Sixteen people in all.",
+   "t1": 122.156
+  },
+  {
+   "scene": 4,
+   "t0": 122.421,
+   "speech_end": 126.411,
+   "text": "He set out cups and showed them exactly how to take the medicine:",
+   "t1": 127.011
+  },
+  {
+   "scene": 4,
+   "t0": 127.181,
+   "speech_end": 130.911,
+   "text": "two doses, one after the other, about a minute apart.",
+   "t1": 131.511
+  },
+  {
+   "scene": 4,
+   "t0": 131.63,
+   "speech_end": 134.26,
+   "text": "He even drank first to show them it was safe.",
+   "t1": 134.86
+  },
+  {
+   "scene": 4,
+   "t0": 135.73,
+   "speech_end": 137.06,
+   "text": "They did as he said.",
+   "t1": 137.66
+  },
+  {
+   "scene": 4,
+   "t0": 137.772,
+   "speech_end": 140.262,
+   "text": "Within minutes, people began collapsing.",
+   "t1": 140.862
+  },
+  {
+   "scene": 4,
+   "t0": 141.221,
+   "speech_end": 144.391,
+   "text": "Some managed to stagger outside for water",
+   "t1": 144.321
+  },
+  {
+   "scene": 4,
+   "t0": 144.341,
+   "speech_end": 146.491,
+   "text": "or help before falling unconscious.",
+   "t1": 147.091
+  },
+  {
+   "scene": 4,
+   "t0": 147.422,
+   "speech_end": 149.552,
+   "text": "The liquid was a cyanide compound.",
+   "t1": 150.152
+  },
+  {
+   "scene": 4,
+   "t0": 151.01,
+   "speech_end": 152.7,
+   "text": "Ten people died at the bank.",
+   "t1": 153.3
+  },
+  {
+   "scene": 4,
+   "t0": 153.521,
+   "speech_end": 155.451,
+   "text": "Two more died later in hospital.",
+   "t1": 156.051
+  },
+  {
+   "scene": 4,
+   "t0": 156.586,
+   "speech_end": 159.296,
+   "text": "Of the sixteen, only four survived,",
+   "t1": 159.896
+  },
+  {
+   "scene": 4,
+   "t0": 160.186,
+   "speech_end": 163.216,
+   "text": "and their accounts became the core of the investigation.",
+   "t1": 163.816
+  },
+  {
+   "scene": 5,
+   "t0": 167.884,
+   "speech_end": 174.28,
+   "text": "While his victims lay dying, the man collected the cash within reach:",
+   "t1": 174.21
+  },
+  {
+   "scene": 5,
+   "t0": 174.23,
+   "speech_end": 179.155,
+   "text": "about 164,000 yen and a cheque for around 17,000 yen.",
+   "t1": 179.505
+  },
+  {
+   "scene": 5,
+   "t0": 179.525,
+   "speech_end": 184.173,
+   "text": "Then he left. The cheque was cashed at another bank the following day.",
+   "t1": 184.773
+  },
+  {
+   "scene": 5,
+   "t0": 185.304,
+   "speech_end": 188.054,
+   "text": "It was a large sum, but investigators",
+   "t1": 187.984
+  },
+  {
+   "scene": 5,
+   "t0": 188.004,
+   "speech_end": 190.174,
+   "text": "were struck by what he did not take.",
+   "t1": 190.774
+  },
+  {
+   "scene": 5,
+   "t0": 190.887,
+   "speech_end": 192.597,
+   "text": "Far more money was in the bank.",
+   "t1": 193.197
+  },
+  {
+   "scene": 5,
+   "t0": 193.397,
+   "speech_end": 197.687,
+   "text": "Why go to such lengths, and kill twelve people, for only part of it?",
+   "t1": 198.235
+  },
+  {
+   "scene": 5,
+   "t0": 198.255,
+   "speech_end": 200.585,
+   "text": "The question has never been fully answered.",
+   "t1": 201.185
+  },
+  {
+   "scene": 6,
+   "t0": 205.2,
+   "speech_end": 208.93,
+   "text": "Police soon discovered that Teigin was not the first attempt.",
+   "t1": 209.53
+  },
+  {
+   "scene": 6,
+   "t0": 209.695,
+   "speech_end": 213.985,
+   "text": "In October 1947, a man had tried the same",
+   "t1": 213.915
+  },
+  {
+   "scene": 6,
+   "t0": 213.935,
+   "speech_end": 216.605,
+   "text": "story at a branch of the Yasuda Bank,",
+   "t1": 217.205
+  },
+  {
+   "scene": 6,
+   "t0": 217.375,
+   "speech_end": 222.245,
+   "text": "and on January 19, 1948, just a week before,",
+   "t1": 222.755
+  },
+  {
+   "scene": 6,
+   "t0": 222.775,
+   "speech_end": 224.905,
+   "text": "at a branch of the Mitsubishi Bank.",
+   "t1": 225.505
+  },
+  {
+   "scene": 6,
+   "t0": 225.581,
+   "speech_end": 230.091,
+   "text": "In both cases the staff drank harmless liquid and nobody was hurt.",
+   "t1": 230.691
+  },
+  {
+   "scene": 6,
+   "t0": 231.239,
+   "speech_end": 234.269,
+   "text": "At those banks, the visitor had left business cards.",
+   "t1": 234.869
+  },
+  {
+   "scene": 6,
+   "t0": 235.051,
+   "speech_end": 239.081,
+   "text": "One of them bore the name of a real doctor, Shigeru Matsui.",
+   "t1": 239.681
+  },
+  {
+   "scene": 6,
+   "t0": 239.78,
+   "speech_end": 242.03,
+   "text": "Matsui had nothing to do with the crime,",
+   "t1": 242.63
+  },
+  {
+   "scene": 6,
+   "t0": 242.82,
+   "speech_end": 247.05,
+   "text": "but he kept careful records of everyone he had exchanged cards with.",
+   "t1": 247.604
+  },
+  {
+   "scene": 6,
+   "t0": 247.624,
+   "speech_end": 249.774,
+   "text": "Detectives began working through the list.",
+   "t1": 250.374
+  },
+  {
+   "scene": 7,
+   "t0": 254.377,
+   "speech_end": 258.071,
+   "text": "One name on that list was Sadamichi Hirasawa,",
+   "t1": 258.001
+  },
+  {
+   "scene": 7,
+   "t0": 258.021,
+   "speech_end": 262.768,
+   "text": "a 56-year-old painter who was well known in the art world.",
+   "t1": 263.118
+  },
+  {
+   "scene": 7,
+   "t0": 263.138,
+   "speech_end": 269.208,
+   "text": "In August 1948, police arrested him at his home in Otaru, Hokkaido.",
+   "t1": 269.808
+  },
+  {
+   "scene": 7,
+   "t0": 270.332,
+   "speech_end": 272.822,
+   "text": "The case against him looked strong on paper.",
+   "t1": 273.422
+  },
+  {
+   "scene": 7,
+   "t0": 273.61,
+   "speech_end": 275.68,
+   "text": "He could not produce Matsui's card.",
+   "t1": 276.28
+  },
+  {
+   "scene": 7,
+   "t0": 276.505,
+   "speech_end": 279.715,
+   "text": "He had come into a sum of money he could not explain.",
+   "t1": 280.315
+  },
+  {
+   "scene": 7,
+   "t0": 280.594,
+   "speech_end": 282.364,
+   "text": "And he had a past record of fraud.",
+   "t1": 282.964
+  },
+  {
+   "scene": 7,
+   "t0": 283.404,
+   "speech_end": 286.474,
+   "text": "But survivors could not firmly identify him,",
+   "t1": 286.904
+  },
+  {
+   "scene": 7,
+   "t0": 286.924,
+   "speech_end": 290.214,
+   "text": "and no direct physical evidence connected him to the poison.",
+   "t1": 290.814
+  },
+  {
+   "scene": 8,
+   "t0": 291.936,
+   "speech_end": 294.686,
+   "text": "Hirasawa was interrogated for weeks.",
+   "t1": 295.286
+  },
+  {
+   "scene": 8,
+   "t0": 295.492,
+   "speech_end": 297.202,
+   "text": "At first he denied everything.",
+   "t1": 297.802
+  },
+  {
+   "scene": 8,
+   "t0": 298.173,
+   "speech_end": 301.343,
+   "text": "Then, after more than a month in custody, he confessed.",
+   "t1": 301.943
+  },
+  {
+   "scene": 8,
+   "t0": 302.199,
+   "speech_end": 304.449,
+   "text": "Soon afterwards, he took it back,",
+   "t1": 305.019
+  },
+  {
+   "scene": 8,
+   "t0": 305.039,
+   "speech_end": 308.849,
+   "text": "saying the confession had been forced out of him under intense pressure.",
+   "t1": 309.449
+  },
+  {
+   "scene": 8,
+   "t0": 309.968,
+   "speech_end": 312.518,
+   "text": "His supporters also pointed to his health.",
+   "t1": 313.118
+  },
+  {
+   "scene": 8,
+   "t0": 313.247,
+   "speech_end": 317.737,
+   "text": "Years earlier, a rabies vaccination had reportedly left him with a",
+   "t1": 317.667
+  },
+  {
+   "scene": 8,
+   "t0": 317.687,
+   "speech_end": 322.597,
+   "text": "neurological condition that could cause confusion and false memories.",
+   "t1": 323.197
+  },
+  {
+   "scene": 8,
+   "t0": 323.395,
+   "speech_end": 327.525,
+   "text": "They argued that a man in that state, under relentless questioning,",
+   "t1": 328.075
+  },
+  {
+   "scene": 8,
+   "t0": 328.095,
+   "speech_end": 330.325,
+   "text": "could be led to confess to almost anything.",
+   "t1": 330.925
+  },
+  {
+   "scene": 9,
+   "t0": 335.055,
+   "speech_end": 338.765,
+   "text": "Many people believed the police had the wrong man from the start,",
+   "t1": 339.155
+  },
+  {
+   "scene": 9,
+   "t0": 339.175,
+   "speech_end": 340.825,
+   "text": "and there was a reason why.",
+   "t1": 341.425
+  },
+  {
+   "scene": 9,
+   "t0": 341.95,
+   "speech_end": 344.22,
+   "text": "The killer had handled the poison with skill.",
+   "t1": 344.82
+  },
+  {
+   "scene": 9,
+   "t0": 344.951,
+   "speech_end": 348.791,
+   "text": "He measured doses precisely, used a two-stage method,",
+   "t1": 348.721
+  },
+  {
+   "scene": 9,
+   "t0": 348.741,
+   "speech_end": 352.724,
+   "text": "and knew how to make the poison act with a short delay.",
+   "t1": 353.074
+  },
+  {
+   "scene": 9,
+   "t0": 353.094,
+   "speech_end": 354.784,
+   "text": "Early in the investigation,",
+   "t1": 355.374
+  },
+  {
+   "scene": 9,
+   "t0": 355.394,
+   "speech_end": 359.044,
+   "text": "detectives suspected someone with military training in poisons.",
+   "t1": 359.644
+  },
+  {
+   "scene": 9,
+   "t0": 360.042,
+   "speech_end": 363.494,
+   "text": "They questioned former members of the Imperial",
+   "t1": 363.424
+  },
+  {
+   "scene": 9,
+   "t0": 363.444,
+   "speech_end": 367.266,
+   "text": "Army's Noborito research institute and of Unit 731,",
+   "t1": 367.196
+  },
+  {
+   "scene": 9,
+   "t0": 367.216,
+   "speech_end": 371.334,
+   "text": "the secret unit that had carried out biological-warfare",
+   "t1": 371.264
+  },
+  {
+   "scene": 9,
+   "t0": 371.284,
+   "speech_end": 375.772,
+   "text": "research and lethal experiments on prisoners during the war.",
+   "t1": 376.372
+  },
+  {
+   "scene": 9,
+   "t0": 376.622,
+   "speech_end": 378.772,
+   "text": "That line of inquiry was then dropped.",
+   "t1": 379.372
+  },
+  {
+   "scene": 9,
+   "t0": 379.559,
+   "speech_end": 385.029,
+   "text": "At the time, the United States had quietly granted Unit 731's leaders",
+   "t1": 384.959
+  },
+  {
+   "scene": 9,
+   "t0": 384.979,
+   "speech_end": 389.809,
+   "text": "immunity from prosecution in exchange for their research data.",
+   "t1": 390.37
+  },
+  {
+   "scene": 9,
+   "t0": 390.39,
+   "speech_end": 393.24,
+   "text": "Many researchers believe the occupation authorities",
+   "t1": 393.17
+  },
+  {
+   "scene": 9,
+   "t0": 393.19,
+   "speech_end": 397.64,
+   "text": "did not want the investigation to expose those men.",
+   "t1": 398.24
+  },
+  {
+   "scene": 9,
+   "t0": 398.276,
+   "speech_end": 399.526,
+   "text": "This has never been proven,",
+   "t1": 400.126
+  },
+  {
+   "scene": 9,
+   "t0": 400.156,
+   "speech_end": 403.746,
+   "text": "but it remains the most persistent theory about the case.",
+   "t1": 404.346
+  },
+  {
+   "scene": 10,
+   "t0": 408.4,
+   "speech_end": 411.97,
+   "text": "In 1950, Hirasawa was sentenced to death.",
+   "t1": 412.57
+  },
+  {
+   "scene": 10,
+   "t0": 412.724,
+   "speech_end": 417.154,
+   "text": "Japan's Supreme Court upheld the sentence in 1955.",
+   "t1": 417.754
+  },
+  {
+   "scene": 10,
+   "t0": 418.403,
+   "speech_end": 420.593,
+   "text": "But the sentence was never carried out.",
+   "t1": 421.193
+  },
+  {
+   "scene": 10,
+   "t0": 421.319,
+   "speech_end": 425.549,
+   "text": "In Japan, an execution needs the justice minister's signature,",
+   "t1": 426.149
+  },
+  {
+   "scene": 10,
+   "t0": 426.439,
+   "speech_end": 428.969,
+   "text": "and minister after minister refused to sign.",
+   "t1": 429.569
+  },
+  {
+   "scene": 10,
+   "t0": 429.824,
+   "speech_end": 434.314,
+   "text": "Hirasawa's lawyers filed request after request for a retrial.",
+   "t1": 434.914
+  },
+  {
+   "scene": 10,
+   "t0": 434.959,
+   "speech_end": 436.349,
+   "text": "All of them were rejected.",
+   "t1": 436.949
+  },
+  {
+   "scene": 11,
+   "t0": 441.051,
+   "speech_end": 445.481,
+   "text": "Sadamichi Hirasawa spent almost 39 years in prison,",
+   "t1": 446.081
+  },
+  {
+   "scene": 11,
+   "t0": 446.391,
+   "speech_end": 448.721,
+   "text": "more than 32 of them on death row.",
+   "t1": 449.321
+  },
+  {
+   "scene": 11,
+   "t0": 449.407,
+   "speech_end": 450.657,
+   "text": "He kept painting throughout.",
+   "t1": 451.257
+  },
+  {
+   "scene": 11,
+   "t0": 451.619,
+   "speech_end": 456.089,
+   "text": "On May 10, 1987, he died of pneumonia",
+   "t1": 456.019
+  },
+  {
+   "scene": 11,
+   "t0": 456.039,
+   "speech_end": 459.189,
+   "text": "in a prison hospital at the age of 95,",
+   "t1": 459.789
+  },
+  {
+   "scene": 11,
+   "t0": 460.139,
+   "speech_end": 462.049,
+   "text": "still insisting he was innocent.",
+   "t1": 462.649
+  },
+  {
+   "scene": 11,
+   "t0": 463.335,
+   "speech_end": 467.025,
+   "text": "His adopted son continued the fight to clear his name,",
+   "t1": 466.955
+  },
+  {
+   "scene": 11,
+   "t0": 466.975,
+   "speech_end": 469.845,
+   "text": "and supporters have kept pressing for a",
+   "t1": 469.775
+  },
+  {
+   "scene": 11,
+   "t0": 469.795,
+   "speech_end": 472.685,
+   "text": "retrial even after both men's deaths.",
+   "t1": 473.285
+  },
+  {
+   "scene": 11,
+   "t0": 473.703,
+   "speech_end": 475.113,
+   "text": "Officially, the case is closed.",
+   "t1": 475.713
+  },
+  {
+   "scene": 11,
+   "t0": 476.122,
+   "speech_end": 480.201,
+   "text": "But the questions remain. Who was the man at the bank door,",
+   "t1": 480.801
+  },
+  {
+   "scene": 11,
+   "t0": 481.031,
+   "speech_end": 483.381,
+   "text": "where did he learn to handle poison like that,",
+   "t1": 483.981
+  },
+  {
+   "scene": 11,
+   "t0": 484.091,
+   "speech_end": 486.881,
+   "text": "and why did the investigation turn away from",
+   "t1": 486.811
+  },
+  {
+   "scene": 11,
+   "t0": 486.831,
+   "speech_end": 489.241,
+   "text": "the people best equipped to commit the crime?",
+   "t1": 489.841
+  }
+ ],
+ "sentences": [
+  {
+   "scene": 1,
+   "i": 1,
+   "t0": 0.3,
+   "t1": 4.204,
+   "text": "Tokyo, January 26, 1948."
+  },
+  {
+   "scene": 1,
+   "i": 2,
+   "t0": 4.624,
+   "t1": 12.475,
+   "text": "Just after three in the afternoon, the Shiinamachi branch of the Imperial Bank has closed its doors for the day."
+  },
+  {
+   "scene": 1,
+   "i": 3,
+   "t0": 12.895,
+   "t1": 16.223,
+   "text": "Inside, sixteen people are finishing their work."
+  },
+  {
+   "scene": 1,
+   "i": 4,
+   "t0": 16.643,
+   "t1": 25.219,
+   "text": "Within half an hour, twelve of them will be dead, and the man responsible will walk out the front door with the bank's cash."
+  },
+  {
+   "scene": 1,
+   "i": 5,
+   "t0": 26.119,
+   "t1": 33.479,
+   "text": "This is the Teigin Incident, one of the strangest and most disputed crimes in Japanese history."
+  },
+  {
+   "scene": 2,
+   "i": 1,
+   "t0": 42.779,
+   "t1": 47.302,
+   "text": "To understand how it happened, you have to picture Tokyo at the time."
+  },
+  {
+   "scene": 2,
+   "i": 2,
+   "t0": 47.722,
+   "t1": 50.964,
+   "text": "The war had ended less than three years earlier."
+  },
+  {
+   "scene": 2,
+   "i": 3,
+   "t0": 51.384,
+   "t1": 58.552,
+   "text": "The city was still scarred by bombing, food was scarce, and the country was under American occupation."
+  },
+  {
+   "scene": 2,
+   "i": 4,
+   "t0": 58.972,
+   "t1": 68.082,
+   "text": "Outbreaks of infectious disease were common, and health officials carrying orders from the occupation authorities were a familiar sight."
+  },
+  {
+   "scene": 2,
+   "i": 5,
+   "t0": 68.502,
+   "t1": 71.68,
+   "text": "People were used to following them without question."
+  },
+  {
+   "scene": 3,
+   "i": 1,
+   "t0": 75.98,
+   "t1": 81.825,
+   "text": "Around 3:20 pm, a middle-aged man knocked at the bank's side entrance."
+  },
+  {
+   "scene": 3,
+   "i": 2,
+   "t0": 82.245,
+   "t1": 91.099,
+   "text": "He wore an armband that marked him as a public health official and handed over a business card identifying him as a doctor."
+  },
+  {
+   "scene": 3,
+   "i": 3,
+   "t0": 91.999,
+   "t1": 96.095,
+   "text": "He explained that there had been an outbreak of dysentery nearby."
+  },
+  {
+   "scene": 3,
+   "i": 4,
+   "t0": 96.515,
+   "t1": 106.435,
+   "text": "The American occupation authorities, he said, had ordered that everyone at the bank take a preventive medicine before anyone was allowed to leave."
+  },
+  {
+   "scene": 3,
+   "i": 5,
+   "t0": 106.855,
+   "t1": 109.393,
+   "text": "He was calm, polite, and confident."
+  },
+  {
+   "scene": 3,
+   "i": 6,
+   "t0": 109.813,
+   "t1": 112.139,
+   "text": "Nobody had reason to doubt him."
+  },
+  {
+   "scene": 4,
+   "i": 1,
+   "t0": 113.439,
+   "t1": 119.796,
+   "text": "The man gathered the staff, along with members of the caretaker's family, including children."
+  },
+  {
+   "scene": 4,
+   "i": 2,
+   "t0": 120.216,
+   "t1": 122.051,
+   "text": "Sixteen people in all."
+  },
+  {
+   "scene": 4,
+   "i": 3,
+   "t0": 122.471,
+   "t1": 131.26,
+   "text": "He set out cups and showed them exactly how to take the medicine: two doses, one after the other, about a minute apart."
+  },
+  {
+   "scene": 4,
+   "i": 4,
+   "t0": 131.68,
+   "t1": 134.88,
+   "text": "He even drank first to show them it was safe."
+  },
+  {
+   "scene": 4,
+   "i": 5,
+   "t0": 135.78,
+   "t1": 137.402,
+   "text": "They did as he said."
+  },
+  {
+   "scene": 4,
+   "i": 6,
+   "t0": 137.822,
+   "t1": 140.851,
+   "text": "Within minutes, people began collapsing."
+  },
+  {
+   "scene": 4,
+   "i": 7,
+   "t0": 141.271,
+   "t1": 147.052,
+   "text": "Some managed to stagger outside for water or help before falling unconscious."
+  },
+  {
+   "scene": 4,
+   "i": 8,
+   "t0": 147.472,
+   "t1": 150.16,
+   "text": "The liquid was a cyanide compound."
+  },
+  {
+   "scene": 4,
+   "i": 9,
+   "t0": 151.06,
+   "t1": 153.151,
+   "text": "Ten people died at the bank."
+  },
+  {
+   "scene": 4,
+   "i": 10,
+   "t0": 153.571,
+   "t1": 156.216,
+   "text": "Two more died later in hospital."
+  },
+  {
+   "scene": 4,
+   "i": 11,
+   "t0": 156.636,
+   "t1": 163.634,
+   "text": "Of the sixteen, only four survived, and their accounts became the core of the investigation."
+  },
+  {
+   "scene": 5,
+   "i": 1,
+   "t0": 167.934,
+   "t1": 179.155,
+   "text": "While his victims lay dying, the man collected the cash within reach: about 164,000 yen and a cheque for around 17,000 yen."
+  },
+  {
+   "scene": 5,
+   "i": 2,
+   "t0": 179.575,
+   "t1": 180.813,
+   "text": "Then he left."
+  },
+  {
+   "scene": 5,
+   "i": 3,
+   "t0": 181.233,
+   "t1": 184.454,
+   "text": "The cheque was cashed at another bank the following day."
+  },
+  {
+   "scene": 5,
+   "i": 4,
+   "t0": 185.354,
+   "t1": 190.517,
+   "text": "It was a large sum, but investigators were struck by what he did not take."
+  },
+  {
+   "scene": 5,
+   "i": 5,
+   "t0": 190.937,
+   "t1": 193.027,
+   "text": "Far more money was in the bank."
+  },
+  {
+   "scene": 5,
+   "i": 6,
+   "t0": 193.447,
+   "t1": 197.885,
+   "text": "Why go to such lengths, and kill twelve people, for only part of it?"
+  },
+  {
+   "scene": 5,
+   "i": 7,
+   "t0": 198.305,
+   "t1": 200.95,
+   "text": "The question has never been fully answered."
+  },
+  {
+   "scene": 6,
+   "i": 1,
+   "t0": 205.25,
+   "t1": 209.325,
+   "text": "Police soon discovered that Teigin was not the first attempt."
+  },
+  {
+   "scene": 6,
+   "i": 2,
+   "t0": 209.745,
+   "t1": 225.211,
+   "text": "In October 1947, a man had tried the same story at a branch of the Yasuda Bank, and on January 19, 1948, just a week before, at a branch of the Mitsubishi Bank."
+  },
+  {
+   "scene": 6,
+   "i": 3,
+   "t0": 225.631,
+   "t1": 230.389,
+   "text": "In both cases the staff drank harmless liquid and nobody was hurt."
+  },
+  {
+   "scene": 6,
+   "i": 4,
+   "t0": 231.289,
+   "t1": 234.681,
+   "text": "At those banks, the visitor had left business cards."
+  },
+  {
+   "scene": 6,
+   "i": 5,
+   "t0": 235.101,
+   "t1": 239.41,
+   "text": "One of them bore the name of a real doctor, Shigeru Matsui."
+  },
+  {
+   "scene": 6,
+   "i": 6,
+   "t0": 239.83,
+   "t1": 247.254,
+   "text": "Matsui had nothing to do with the crime, but he kept careful records of everyone he had exchanged cards with."
+  },
+  {
+   "scene": 6,
+   "i": 7,
+   "t0": 247.674,
+   "t1": 250.127,
+   "text": "Detectives began working through the list."
+  },
+  {
+   "scene": 7,
+   "i": 1,
+   "t0": 254.427,
+   "t1": 262.768,
+   "text": "One name on that list was Sadamichi Hirasawa, a 56-year-old painter who was well known in the art world."
+  },
+  {
+   "scene": 7,
+   "i": 2,
+   "t0": 263.188,
+   "t1": 269.482,
+   "text": "In August 1948, police arrested him at his home in Otaru, Hokkaido."
+  },
+  {
+   "scene": 7,
+   "i": 3,
+   "t0": 270.382,
+   "t1": 273.24,
+   "text": "The case against him looked strong on paper."
+  },
+  {
+   "scene": 7,
+   "i": 4,
+   "t0": 273.66,
+   "t1": 276.135,
+   "text": "He could not produce Matsui's card."
+  },
+  {
+   "scene": 7,
+   "i": 5,
+   "t0": 276.555,
+   "t1": 280.224,
+   "text": "He had come into a sum of money he could not explain."
+  },
+  {
+   "scene": 7,
+   "i": 6,
+   "t0": 280.644,
+   "t1": 283.034,
+   "text": "And he had a past record of fraud."
+  },
+  {
+   "scene": 7,
+   "i": 7,
+   "t0": 283.454,
+   "t1": 290.686,
+   "text": "But survivors could not firmly identify him, and no direct physical evidence connected him to the poison."
+  },
+  {
+   "scene": 8,
+   "i": 1,
+   "t0": 291.986,
+   "t1": 295.122,
+   "text": "Hirasawa was interrogated for weeks."
+  },
+  {
+   "scene": 8,
+   "i": 2,
+   "t0": 295.542,
+   "t1": 297.803,
+   "text": "At first he denied everything."
+  },
+  {
+   "scene": 8,
+   "i": 3,
+   "t0": 298.223,
+   "t1": 301.829,
+   "text": "Then, after more than a month in custody, he confessed."
+  },
+  {
+   "scene": 8,
+   "i": 4,
+   "t0": 302.249,
+   "t1": 309.118,
+   "text": "Soon afterwards, he took it back, saying the confession had been forced out of him under intense pressure."
+  },
+  {
+   "scene": 8,
+   "i": 5,
+   "t0": 310.018,
+   "t1": 312.877,
+   "text": "His supporters also pointed to his health."
+  },
+  {
+   "scene": 8,
+   "i": 6,
+   "t0": 313.297,
+   "t1": 323.025,
+   "text": "Years earlier, a rabies vaccination had reportedly left him with a neurological condition that could cause confusion and false memories."
+  },
+  {
+   "scene": 8,
+   "i": 7,
+   "t0": 323.445,
+   "t1": 330.805,
+   "text": "They argued that a man in that state, under relentless questioning, could be led to confess to almost anything."
+  },
+  {
+   "scene": 9,
+   "i": 1,
+   "t0": 335.105,
+   "t1": 341.1,
+   "text": "Many people believed the police had the wrong man from the start, and there was a reason why."
+  },
+  {
+   "scene": 9,
+   "i": 2,
+   "t0": 342.0,
+   "t1": 344.581,
+   "text": "The killer had handled the poison with skill."
+  },
+  {
+   "scene": 9,
+   "i": 3,
+   "t0": 345.001,
+   "t1": 352.724,
+   "text": "He measured doses precisely, used a two-stage method, and knew how to make the poison act with a short delay."
+  },
+  {
+   "scene": 9,
+   "i": 4,
+   "t0": 353.144,
+   "t1": 359.672,
+   "text": "Early in the investigation, detectives suspected someone with military training in poisons."
+  },
+  {
+   "scene": 9,
+   "i": 5,
+   "t0": 360.092,
+   "t1": 375.772,
+   "text": "They questioned former members of the Imperial Army's Noborito research institute and of Unit 731, the secret unit that had carried out biological-warfare research and lethal experiments on prisoners during the war."
+  },
+  {
+   "scene": 9,
+   "i": 6,
+   "t0": 376.672,
+   "t1": 379.189,
+   "text": "That line of inquiry was then dropped."
+  },
+  {
+   "scene": 9,
+   "i": 7,
+   "t0": 379.609,
+   "t1": 390.02,
+   "text": "At the time, the United States had quietly granted Unit 731's leaders immunity from prosecution in exchange for their research data."
+  },
+  {
+   "scene": 9,
+   "i": 8,
+   "t0": 390.44,
+   "t1": 397.906,
+   "text": "Many researchers believe the occupation authorities did not want the investigation to expose those men."
+  },
+  {
+   "scene": 9,
+   "i": 9,
+   "t0": 398.326,
+   "t1": 404.15,
+   "text": "This has never been proven, but it remains the most persistent theory about the case."
+  },
+  {
+   "scene": 10,
+   "i": 1,
+   "t0": 408.45,
+   "t1": 412.354,
+   "text": "In 1950, Hirasawa was sentenced to death."
+  },
+  {
+   "scene": 10,
+   "i": 2,
+   "t0": 412.774,
+   "t1": 417.553,
+   "text": "Japan's Supreme Court upheld the sentence in 1955."
+  },
+  {
+   "scene": 10,
+   "i": 3,
+   "t0": 418.453,
+   "t1": 420.949,
+   "text": "But the sentence was never carried out."
+  },
+  {
+   "scene": 10,
+   "i": 4,
+   "t0": 421.369,
+   "t1": 429.454,
+   "text": "In Japan, an execution needs the justice minister's signature, and minister after minister refused to sign."
+  },
+  {
+   "scene": 10,
+   "i": 5,
+   "t0": 429.874,
+   "t1": 434.589,
+   "text": "Hirasawa's lawyers filed request after request for a retrial."
+  },
+  {
+   "scene": 10,
+   "i": 6,
+   "t0": 435.009,
+   "t1": 436.801,
+   "text": "All of them were rejected."
+  },
+  {
+   "scene": 11,
+   "i": 1,
+   "t0": 441.101,
+   "t1": 449.037,
+   "text": "Sadamichi Hirasawa spent almost 39 years in prison, more than 32 of them on death row."
+  },
+  {
+   "scene": 11,
+   "i": 2,
+   "t0": 449.457,
+   "t1": 451.249,
+   "text": "He kept painting throughout."
+  },
+  {
+   "scene": 11,
+   "i": 3,
+   "t0": 451.669,
+   "t1": 462.485,
+   "text": "On May 10, 1987, he died of pneumonia in a prison hospital at the age of 95, still insisting he was innocent."
+  },
+  {
+   "scene": 11,
+   "i": 4,
+   "t0": 463.385,
+   "t1": 473.113,
+   "text": "His adopted son continued the fight to clear his name, and supporters have kept pressing for a retrial even after both men's deaths."
+  },
+  {
+   "scene": 11,
+   "i": 5,
+   "t0": 473.533,
+   "t1": 475.752,
+   "text": "Officially, the case is closed."
+  },
+  {
+   "scene": 11,
+   "i": 6,
+   "t0": 476.172,
+   "t1": 477.921,
+   "text": "But the questions remain."
+  },
+  {
+   "scene": 11,
+   "i": 7,
+   "t0": 478.341,
+   "t1": 489.733,
+   "text": "Who was the man at the bank door, where did he learn to handle poison like that, and why did the investigation turn away from the people best equipped to commit the crime?"
+  }
+ ]
+}

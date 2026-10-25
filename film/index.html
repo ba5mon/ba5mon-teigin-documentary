@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>The Teigin Incident</title>
+<style>
+@font-face{font-family:Sans;src:url(fonts/sans400.woff2) format('woff2');font-weight:400}
+@font-face{font-family:Sans;src:url(fonts/sans600.woff2) format('woff2');font-weight:600}
+@font-face{font-family:Sans;src:url(fonts/sans700.woff2) format('woff2');font-weight:700}
+@font-face{font-family:Mono;src:url(fonts/mono400.woff2) format('woff2');font-weight:400}
+@font-face{font-family:Mono;src:url(fonts/mono600.woff2) format('woff2');font-weight:600}
+@font-face{font-family:SerifI;src:url(fonts/serifi.woff2) format('woff2');font-style:italic;font-weight:400}
+@font-face{font-family:JP;src:url(fonts/jp700.woff2) format('woff2');font-weight:700}
+html,body{margin:0;background:#0B0C0E;overflow:hidden}canvas{display:block}
+</style></head><body><canvas id="c" width="1920" height="1080"></canvas>
+<script type="module">
+// ?range=a,b renders [a, b) s of the film; ?test=<chapter>.<layout> renders one layout alone
+import * as film from './film.js';
+const qs = new URLSearchParams(location.search);
+await film.boot();
+const [a, b] = (qs.get('range') || `0,${film.DUR}`).split(',').map(Number);
+window.DUR = b - a;
+window.EV = film.EV.filter(e => e.t >= a && e.t < b).map(e => ({ ...e, t: e.t - a }));
+window.render = t => film.render(t + a);
+window.TEXTS = t => film.texts(t + a);
+window.SUBCHECK = film.subcheck;
+window.READY = true;
+</script></body></html>
