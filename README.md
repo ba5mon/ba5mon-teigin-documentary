@@ -1,12 +1,10 @@
 # The Teigin Incident — documentary project
 
-- `script.md` — approved narration script (your draft kept word for word + new chapters); `script_body.md` is the source it is built from.
-- `audio/chXX.mp3` — Kokoro narration (voice am_michael), `audio/timings.json` — per-sentence timings; `audio/samples/` — voice samples.
-- `scripts/` — narration generator (`gen_narration.py`), first-pass visuals (`visuals.py`, `storyboard.py`, `render.py`).
-- `previews/` — first-pass preview frames (pre-woodcut style; to be replaced).
+Woodcut Print style (library: https://github.com/lemomo-ai/lemo-opuscar, style `styles/woodcut`).
 
-## Next steps (new session)
-1. `git clone https://github.com/lemomo-ai/lemo-opuscar.git ~/lemo-opuscar-repo` — style library; chosen style: **Woodcut Print** (`styles/woodcut`).
-2. Run `sh plugin/skills/lemo-opuscar/scripts/setup.sh deps` in the library.
-3. Narration with ElevenLabs: key in env `ELEVENLABS_API_KEY`, host `api.elevenlabs.io` allowed. Re-generate `audio/` + `timings.json`.
-4. Kokoro model (if regenerating locally): `models/kokoro-v1.0.onnx`, `models/voices-v1.0.bin` from https://github.com/thewh1teagle/kokoro-onnx/releases/tag/model-files-v1.0
+- `film/` — the film project (linked into the library as `films/teigin`):
+  - `script.md` — locked narration script (22 chapters); `FACTS.md` — every [VERIFY] note + locked facts; `TREATMENT.md` — structure, shot list, cue map, sound design.
+  - `voice/gen.py` — Kokoro narration (voice `am_michael`, numbers spelled out, phoneme overrides for Japanese names); `audio/chXX.mp3` + `audio/timings.json` (per-sentence timings).
+- `scripts/`, `previews/` — the earlier first pass (pre-woodcut), kept for reference only.
+
+Setup: `git clone https://github.com/lemomo-ai/lemo-opuscar.git ~/lemo-opuscar && cd ~/lemo-opuscar && sh plugin/skills/lemo-opuscar/scripts/setup.sh deps voice && ln -s <this repo>/film films/teigin`.

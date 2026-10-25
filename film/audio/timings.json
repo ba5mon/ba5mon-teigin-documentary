@@ -1,0 +1,1084 @@
+{
+ "voice": "am_michael",
+ "engine": "kokoro-onnx v1.0",
+ "chapters": [
+  {
+   "n": 1,
+   "title": "Cold Open",
+   "duration": 34.479,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 4.204,
+     "text": "Tokyo, January 26, 1948.",
+     "say": "Tokyo, January twenty-sixth, nineteen forty-eight."
+    },
+    {
+     "start": 4.624,
+     "end": 12.475,
+     "text": "Just after three in the afternoon, the Shiinamachi branch of the Imperial Bank has closed its doors for the day.",
+     "say": "Just after three in the afternoon, the Shiinamachi branch of the Imperial Bank has closed its doors for the day."
+    },
+    {
+     "start": 12.895,
+     "end": 16.223,
+     "text": "Inside, sixteen people are finishing their work.",
+     "say": "Inside, sixteen people are finishing their work."
+    },
+    {
+     "start": 16.643,
+     "end": 25.219,
+     "text": "Within half an hour, twelve of them will be dead, and the man responsible will walk out the front door with the bank's cash.",
+     "say": "Within half an hour, twelve of them will be dead, and the man responsible will walk out the front door with the bank's cash."
+    },
+    {
+     "start": 26.119,
+     "end": 33.479,
+     "text": "This is the Teigin Incident, one of the strangest and most disputed crimes in Japanese history.",
+     "say": "This is the Teigin Incident, one of the strangest and most disputed crimes in Japanese history."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Japan in 1948",
+   "duration": 76.824,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 4.823,
+     "text": "To understand how it happened, you have to picture Tokyo at the time.",
+     "say": "To understand how it happened, you have to picture Tokyo at the time."
+    },
+    {
+     "start": 5.243,
+     "end": 8.485,
+     "text": "The war had ended less than three years earlier.",
+     "say": "The war had ended less than three years earlier."
+    },
+    {
+     "start": 8.905,
+     "end": 16.073,
+     "text": "The city was still scarred by bombing, food was scarce, and the country was under American occupation.",
+     "say": "The city was still scarred by bombing, food was scarce, and the country was under American occupation."
+    },
+    {
+     "start": 16.493,
+     "end": 25.603,
+     "text": "Outbreaks of infectious disease were common, and health officials carrying orders from the occupation authorities were a familiar sight.",
+     "say": "Outbreaks of infectious disease were common, and health officials carrying orders from the occupation authorities were a familiar sight."
+    },
+    {
+     "start": 26.023,
+     "end": 29.201,
+     "text": "People were used to following them without question.",
+     "say": "People were used to following them without question."
+    },
+    {
+     "start": 30.101,
+     "end": 40.491,
+     "text": "General MacArthur's headquarters, known to everyone simply as GHQ, issued directives that reached into almost every corner of daily life.",
+     "say": "General MacArthur's headquarters, known to everyone simply as GHQ, issued directives that reached into almost every corner of daily life."
+    },
+    {
+     "start": 40.911,
+     "end": 43.535,
+     "text": "Public health was one of its priorities.",
+     "say": "Public health was one of its priorities."
+    },
+    {
+     "start": 43.955,
+     "end": 61.064,
+     "text": "Crowded housing, damaged water systems and poor nutrition made epidemics a constant fear, and teams of Japanese health workers moved from district to district, spraying disinfectant, giving inoculations and handing out instructions.",
+     "say": "Crowded housing, damaged water systems and poor nutrition made epidemics a constant fear, and teams of Japanese health workers moved from district to district, spraying disinfectant, giving inoculations and handing out instructions."
+    },
+    {
+     "start": 61.484,
+     "end": 68.972,
+     "text": "A man with an official armband who said that GHQ required something was not a man you argued with.",
+     "say": "A man with an official armband who said that GHQ required something was not a man you argued with."
+    },
+    {
+     "start": 69.872,
+     "end": 75.824,
+     "text": "That habit of trust, sensible in its time, is the key to everything that happened next.",
+     "say": "That habit of trust, sensible in its time, is the key to everything that happened next."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The Visitor",
+   "duration": 37.459,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 6.145,
+     "text": "Around 3:20 pm, a middle-aged man knocked at the bank's side entrance.",
+     "say": "Around three twenty P.M., a middle-aged man knocked at the bank's side entrance."
+    },
+    {
+     "start": 6.565,
+     "end": 15.419,
+     "text": "He wore an armband that marked him as a public health official and handed over a business card identifying him as a doctor.",
+     "say": "He wore an armband that marked him as a public health official and handed over a business card identifying him as a doctor."
+    },
+    {
+     "start": 16.319,
+     "end": 20.415,
+     "text": "He explained that there had been an outbreak of dysentery nearby.",
+     "say": "He explained that there had been an outbreak of dysentery nearby."
+    },
+    {
+     "start": 20.835,
+     "end": 30.755,
+     "text": "The American occupation authorities, he said, had ordered that everyone at the bank take a preventive medicine before anyone was allowed to leave.",
+     "say": "The American occupation authorities, he said, had ordered that everyone at the bank take a preventive medicine before anyone was allowed to leave."
+    },
+    {
+     "start": 31.175,
+     "end": 33.713,
+     "text": "He was calm, polite, and confident.",
+     "say": "He was calm, polite, and confident."
+    },
+    {
+     "start": 34.133,
+     "end": 36.459,
+     "text": "Nobody had reason to doubt him.",
+     "say": "Nobody had reason to doubt him."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The Medicine",
+   "duration": 69.391,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 6.657,
+     "text": "The man gathered the staff, along with members of the caretaker's family, including children.",
+     "say": "The man gathered the staff, along with members of the caretaker's family, including children."
+    },
+    {
+     "start": 7.077,
+     "end": 8.912,
+     "text": "Sixteen people in all.",
+     "say": "Sixteen people in all."
+    },
+    {
+     "start": 9.332,
+     "end": 18.121,
+     "text": "He set out cups and showed them exactly how to take the medicine: two doses, one after the other, about a minute apart.",
+     "say": "He set out cups and showed them exactly how to take the medicine: two doses, one after the other, about a minute apart."
+    },
+    {
+     "start": 18.541,
+     "end": 21.741,
+     "text": "He even drank first to show them it was safe.",
+     "say": "He even drank first to show them it was safe."
+    },
+    {
+     "start": 22.641,
+     "end": 25.948,
+     "text": "Survivors later recalled how practised he seemed.",
+     "say": "Survivors later recalled how practised he seemed."
+    },
+    {
+     "start": 26.368,
+     "end": 39.637,
+     "text": "He measured the liquid into each cup with a dropper, and explained that the first dose was strong and should be swallowed in one go, pushed to the back of the tongue, so that it would not harm their teeth.",
+     "say": "He measured the liquid into each cup with a dropper, and explained that the first dose was strong and should be swallowed in one go, pushed to the back of the tongue, so that it would not harm their teeth."
+    },
+    {
+     "start": 40.537,
+     "end": 42.159,
+     "text": "They did as he said.",
+     "say": "They did as he said."
+    },
+    {
+     "start": 42.579,
+     "end": 45.608,
+     "text": "Within minutes, people began collapsing.",
+     "say": "Within minutes, people began collapsing."
+    },
+    {
+     "start": 46.028,
+     "end": 51.809,
+     "text": "Some managed to stagger outside for water or help before falling unconscious.",
+     "say": "Some managed to stagger outside for water or help before falling unconscious."
+    },
+    {
+     "start": 52.229,
+     "end": 54.917,
+     "text": "The liquid was a cyanide compound.",
+     "say": "The liquid was a cyanide compound."
+    },
+    {
+     "start": 55.817,
+     "end": 57.908,
+     "text": "Ten people died at the bank.",
+     "say": "Ten people died at the bank."
+    },
+    {
+     "start": 58.328,
+     "end": 60.973,
+     "text": "Two more died later in hospital.",
+     "say": "Two more died later in hospital."
+    },
+    {
+     "start": 61.393,
+     "end": 68.391,
+     "text": "Of the sixteen, only four survived, and their accounts became the core of the investigation.",
+     "say": "Of the sixteen, only four survived, and their accounts became the core of the investigation."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "After the Alarm",
+   "duration": 51.109,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 6.871,
+     "text": "When neighbours and passers-by first reached the building, they did not understand what they were seeing.",
+     "say": "When neighbours and passers-by first reached the building, they did not understand what they were seeing."
+    },
+    {
+     "start": 7.291,
+     "end": 11.152,
+     "text": "Some early reports spoke of gas or food poisoning.",
+     "say": "Some early reports spoke of gas or food poisoning."
+    },
+    {
+     "start": 11.572,
+     "end": 18.1,
+     "text": "People went inside to help, and by the time detectives arrived, the scene had been disturbed.",
+     "say": "People went inside to help, and by the time detectives arrived, the scene had been disturbed."
+    },
+    {
+     "start": 19.0,
+     "end": 26.744,
+     "text": "Within hours, the Metropolitan Police had begun one of the largest investigations in their history.",
+     "say": "Within hours, the Metropolitan Police had begun one of the largest investigations in their history."
+    },
+    {
+     "start": 27.164,
+     "end": 29.852,
+     "text": "Laboratory tests confirmed cyanide.",
+     "say": "Laboratory tests confirmed cyanide."
+    },
+    {
+     "start": 30.272,
+     "end": 40.469,
+     "text": "The next morning the story filled the front pages, and a name began to appear that would follow the case for decades: the Teigin Incident.",
+     "say": "The next morning the story filled the front pages, and a name began to appear that would follow the case for decades: the Teigin Incident."
+    },
+    {
+     "start": 41.369,
+     "end": 48.089,
+     "text": "The question facing investigators was simple to state and almost impossible to answer.",
+     "say": "The question facing investigators was simple to state and almost impossible to answer."
+    },
+    {
+     "start": 48.509,
+     "end": 50.109,
+     "text": "Who was the doctor?",
+     "say": "Who was the doctor?"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The Money Left Behind",
+   "duration": 34.316,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 11.521,
+     "text": "While his victims lay dying, the man collected the cash within reach: about 164,000 yen and a cheque for around 17,000 yen.",
+     "say": "While his victims lay dying, the man collected the cash within reach: about a hundred and sixty-four thousand yen and a cheque for around seventeen thousand yen."
+    },
+    {
+     "start": 11.941,
+     "end": 13.179,
+     "text": "Then he left.",
+     "say": "Then he left."
+    },
+    {
+     "start": 13.599,
+     "end": 16.82,
+     "text": "The cheque was cashed at another bank the following day.",
+     "say": "The cheque was cashed at another bank the following day."
+    },
+    {
+     "start": 17.72,
+     "end": 22.883,
+     "text": "It was a large sum, but investigators were struck by what he did not take.",
+     "say": "It was a large sum, but investigators were struck by what he did not take."
+    },
+    {
+     "start": 23.303,
+     "end": 25.393,
+     "text": "Far more money was in the bank.",
+     "say": "Far more money was in the bank."
+    },
+    {
+     "start": 25.813,
+     "end": 30.251,
+     "text": "Why go to such lengths, and kill twelve people, for only part of it?",
+     "say": "Why go to such lengths, and kill twelve people, for only part of it?"
+    },
+    {
+     "start": 30.671,
+     "end": 33.316,
+     "text": "The question has never been fully answered.",
+     "say": "The question has never been fully answered."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The Survivors and the Sketch",
+   "duration": 56.251,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 6.423,
+     "text": "The four survivors had each seen the man at close range, in daylight, for several minutes.",
+     "say": "The four survivors had each seen the man at close range, in daylight, for several minutes."
+    },
+    {
+     "start": 6.843,
+     "end": 16.976,
+     "text": "They described someone composed and authoritative, perhaps in his forties or fifties, who spoke politely and handled his bottles with ease.",
+     "say": "They described someone composed and authoritative, perhaps in his forties or fifties, who spoke politely and handled his bottles with ease."
+    },
+    {
+     "start": 17.876,
+     "end": 22.441,
+     "text": "From their accounts, police produced a composite image of the suspect.",
+     "say": "From their accounts, police produced a composite image of the suspect."
+    },
+    {
+     "start": 22.861,
+     "end": 32.013,
+     "text": "It was printed in newspapers and posted across the country, and it became one of the most recognisable faces of post-war Japan.",
+     "say": "It was printed in newspapers and posted across the country, and it became one of the most recognisable faces of post-war Japan."
+    },
+    {
+     "start": 32.433,
+     "end": 34.396,
+     "text": "Thousands of tips poured in.",
+     "say": "Thousands of tips poured in."
+    },
+    {
+     "start": 35.296,
+     "end": 37.749,
+     "text": "But memory under shock is fragile.",
+     "say": "But memory under shock is fragile."
+    },
+    {
+     "start": 38.169,
+     "end": 46.511,
+     "text": "The survivors had just watched colleagues and family members collapse around them, and their recollections did not always agree.",
+     "say": "The survivors had just watched colleagues and family members collapse around them, and their recollections did not always agree."
+    },
+    {
+     "start": 46.931,
+     "end": 55.251,
+     "text": "Over the months that followed, as they were shown photograph after photograph, their certainty would be tested again and again.",
+     "say": "Over the months that followed, as they were shown photograph after photograph, their certainty would be tested again and again."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The Earlier Attempts",
+   "duration": 46.177,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 4.375,
+     "text": "Police soon discovered that Teigin was not the first attempt.",
+     "say": "Police soon discovered that Teigin was not the first attempt."
+    },
+    {
+     "start": 4.795,
+     "end": 20.261,
+     "text": "In October 1947, a man had tried the same story at a branch of the Yasuda Bank, and on January 19, 1948, just a week before, at a branch of the Mitsubishi Bank.",
+     "say": "In October nineteen forty-seven, a man had tried the same story at a branch of the Yasuda Bank, and on January nineteenth, nineteen forty-eight, just a week before, at a branch of the Mitsubishi Bank."
+    },
+    {
+     "start": 20.681,
+     "end": 25.439,
+     "text": "In both cases the staff drank harmless liquid and nobody was hurt.",
+     "say": "In both cases the staff drank harmless liquid and nobody was hurt."
+    },
+    {
+     "start": 26.339,
+     "end": 29.731,
+     "text": "At those banks, the visitor had left business cards.",
+     "say": "At those banks, the visitor had left business cards."
+    },
+    {
+     "start": 30.151,
+     "end": 34.46,
+     "text": "One of them bore the name of a real doctor, Shigeru Matsui.",
+     "say": "One of them bore the name of a real doctor, Shigeru Matsui."
+    },
+    {
+     "start": 34.88,
+     "end": 42.304,
+     "text": "Matsui had nothing to do with the crime, but he kept careful records of everyone he had exchanged cards with.",
+     "say": "Matsui had nothing to do with the crime, but he kept careful records of everyone he had exchanged cards with."
+    },
+    {
+     "start": 42.724,
+     "end": 45.177,
+     "text": "Detectives began working through the list.",
+     "say": "Detectives began working through the list."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The Card Trail",
+   "duration": 59.935,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 6.551,
+     "text": "In Japan, business cards were exchanged constantly, and they carried real social weight.",
+     "say": "In Japan, business cards were exchanged constantly, and they carried real social weight."
+    },
+    {
+     "start": 6.971,
+     "end": 11.323,
+     "text": "Matsui's record turned an impossible search into a finite one.",
+     "say": "Matsui's record turned an impossible search into a finite one."
+    },
+    {
+     "start": 11.743,
+     "end": 18.292,
+     "text": "If the killer had used a genuine Matsui card, he must have received it from Matsui himself.",
+     "say": "If the killer had used a genuine Matsui card, he must have received it from Matsui himself."
+    },
+    {
+     "start": 18.712,
+     "end": 27.181,
+     "text": "So detectives set out to find every person on the list and ask a single question: can you show us the card you were given?",
+     "say": "So detectives set out to find every person on the list and ask a single question: can you show us the card you were given?"
+    },
+    {
+     "start": 28.081,
+     "end": 29.212,
+     "text": "Most could.",
+     "say": "Most could."
+    },
+    {
+     "start": 29.632,
+     "end": 33.067,
+     "text": "Others had lost theirs but were cleared in other ways.",
+     "say": "Others had lost theirs but were cleared in other ways."
+    },
+    {
+     "start": 33.487,
+     "end": 47.311,
+     "text": "The recipients were scattered across the country, and through the spring and summer of 1948 a small team of detectives travelled by slow, crowded trains, crossing names off one at a time.",
+     "say": "The recipients were scattered across the country, and through the spring and summer of nineteen forty-eight a small team of detectives travelled by slow, crowded trains, crossing names off one at a time."
+    },
+    {
+     "start": 48.211,
+     "end": 55.528,
+     "text": "They believed that patient police work, not theories about secret wartime programmes, would solve the case.",
+     "say": "They believed that patient police work, not theories about secret wartime programmes, would solve the case."
+    },
+    {
+     "start": 55.948,
+     "end": 58.935,
+     "text": "Their search led them north, to Hokkaido.",
+     "say": "Their search led them north, to Hokkaido."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "The Painter",
+   "duration": 63.668,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 7.703,
+     "text": "Sadamichi Hirasawa was born in 1892 and grew up partly in the port city of Otaru.",
+     "say": "Sadamichi Hirasawa was born in eighteen ninety-two and grew up partly in the port city of Otaru."
+    },
+    {
+     "start": 8.123,
+     "end": 16.827,
+     "text": "He became a painter, and a respected one, known especially for his work in tempera, a technique using pigment bound with egg.",
+     "say": "He became a painter, and a respected one, known especially for his work in tempera, a technique using pigment bound with egg."
+    },
+    {
+     "start": 17.247,
+     "end": 28.895,
+     "text": "His quiet landscapes and flower studies were shown at major official exhibitions, and by the 1940s his name appeared regularly in catalogues and newspapers.",
+     "say": "His quiet landscapes and flower studies were shown at major official exhibitions, and by the nineteen-forties his name appeared regularly in catalogues and newspapers."
+    },
+    {
+     "start": 29.795,
+     "end": 32.291,
+     "text": "His private life was more troubled.",
+     "say": "His private life was more troubled."
+    },
+    {
+     "start": 32.711,
+     "end": 42.417,
+     "text": "In 1925 he received a course of rabies vaccinations, and his family later said his personality changed afterwards.",
+     "say": "In nineteen twenty-five he received a course of rabies vaccinations, and his family later said his personality changed afterwards."
+    },
+    {
+     "start": 42.837,
+     "end": 46.613,
+     "text": "He had money problems, and a record of minor fraud.",
+     "say": "He had money problems, and a record of minor fraud."
+    },
+    {
+     "start": 47.513,
+     "end": 54.639,
+     "text": "In 1947, he had met Doctor Matsui on a ferry, and the two men exchanged cards.",
+     "say": "In nineteen forty-seven, he had met Doctor Matsui on a ferry, and the two men exchanged cards."
+    },
+    {
+     "start": 55.059,
+     "end": 60.029,
+     "text": "When detectives asked to see that card, Hirasawa could not produce it.",
+     "say": "When detectives asked to see that card, Hirasawa could not produce it."
+    },
+    {
+     "start": 60.449,
+     "end": 62.668,
+     "text": "He said his wallet had been stolen.",
+     "say": "He said his wallet had been stolen."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "title": "The Suspect",
+   "duration": 37.559,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 8.641,
+     "text": "One name on that list was Sadamichi Hirasawa, a 56-year-old painter who was well known in the art world.",
+     "say": "One name on that list was Sadamichi Hirasawa, a fifty-six-year-old painter who was well known in the art world."
+    },
+    {
+     "start": 9.061,
+     "end": 15.355,
+     "text": "In August 1948, police arrested him at his home in Otaru, Hokkaido.",
+     "say": "In August nineteen forty-eight, police arrested him at his home in Otaru, Hokkaido."
+    },
+    {
+     "start": 16.255,
+     "end": 19.113,
+     "text": "The case against him looked strong on paper.",
+     "say": "The case against him looked strong on paper."
+    },
+    {
+     "start": 19.533,
+     "end": 22.008,
+     "text": "He could not produce Matsui's card.",
+     "say": "He could not produce Matsui's card."
+    },
+    {
+     "start": 22.428,
+     "end": 26.097,
+     "text": "He had come into a sum of money he could not explain.",
+     "say": "He had come into a sum of money he could not explain."
+    },
+    {
+     "start": 26.517,
+     "end": 28.907,
+     "text": "And he had a past record of fraud.",
+     "say": "And he had a past record of fraud."
+    },
+    {
+     "start": 29.327,
+     "end": 36.559,
+     "text": "But survivors could not firmly identify him, and no direct physical evidence connected him to the poison.",
+     "say": "But survivors could not firmly identify him, and no direct physical evidence connected him to the poison."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "title": "Inside the Interrogation Room",
+   "duration": 46.709,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 4.78,
+     "text": "What happened next has to be understood in the context of the time.",
+     "say": "What happened next has to be understood in the context of the time."
+    },
+    {
+     "start": 5.2,
+     "end": 18.107,
+     "text": "Japan's new Constitution, in force since May 1947, said that forced confessions could not be used as evidence, and that no one could be convicted on a confession alone.",
+     "say": "Japan's new Constitution, in force since May nineteen forty-seven, said that forced confessions could not be used as evidence, and that no one could be convicted on a confession alone."
+    },
+    {
+     "start": 18.527,
+     "end": 33.993,
+     "text": "But a new Code of Criminal Procedure did not take effect until January 1949, and Hirasawa's case was handled under the older system, in which a confession was treated as the strongest evidence of all.",
+     "say": "But a new Code of Criminal Procedure did not take effect until January nineteen forty-nine, and Hirasawa's case was handled under the older system, in which a confession was treated as the strongest evidence of all."
+    },
+    {
+     "start": 34.893,
+     "end": 45.709,
+     "text": "Suspects could be held for long periods in police cells, questioned for hours at a stretch, with little access to a lawyer and no recording of what was said.",
+     "say": "Suspects could be held for long periods in police cells, questioned for hours at a stretch, with little access to a lawyer and no recording of what was said."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "title": "The Confession",
+   "duration": 40.119,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 3.436,
+     "text": "Hirasawa was interrogated for weeks.",
+     "say": "Hirasawa was interrogated for weeks."
+    },
+    {
+     "start": 3.856,
+     "end": 6.117,
+     "text": "At first he denied everything.",
+     "say": "At first he denied everything."
+    },
+    {
+     "start": 6.537,
+     "end": 10.143,
+     "text": "Then, after more than a month in custody, he confessed.",
+     "say": "Then, after more than a month in custody, he confessed."
+    },
+    {
+     "start": 10.563,
+     "end": 17.432,
+     "text": "Soon afterwards, he took it back, saying the confession had been forced out of him under intense pressure.",
+     "say": "Soon afterwards, he took it back, saying the confession had been forced out of him under intense pressure."
+    },
+    {
+     "start": 18.332,
+     "end": 21.191,
+     "text": "His supporters also pointed to his health.",
+     "say": "His supporters also pointed to his health."
+    },
+    {
+     "start": 21.611,
+     "end": 31.339,
+     "text": "Years earlier, a rabies vaccination had reportedly left him with a neurological condition that could cause confusion and false memories.",
+     "say": "Years earlier, a rabies vaccination had reportedly left him with a neurological condition that could cause confusion and false memories."
+    },
+    {
+     "start": 31.759,
+     "end": 39.119,
+     "text": "They argued that a man in that state, under relentless questioning, could be led to confess to almost anything.",
+     "say": "They argued that a man in that state, under relentless questioning, could be led to confess to almost anything."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "title": "In Court",
+   "duration": 39.605,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 6.337,
+     "text": "At his trial in the Tokyo District Court, Hirasawa denied the crime completely.",
+     "say": "At his trial in the Tokyo District Court, Hirasawa denied the crime completely."
+    },
+    {
+     "start": 6.757,
+     "end": 24.101,
+     "text": "His lawyers argued that the confession was coerced and unreliable, that the identification evidence was weak, and that the prosecution had never explained how a painter could have obtained a fast-acting poison, or learned to handle it with such confidence.",
+     "say": "His lawyers argued that the confession was coerced and unreliable, that the identification evidence was weak, and that the prosecution had never explained how a painter could have obtained a fast-acting poison, or learned to handle it with such confidence."
+    },
+    {
+     "start": 25.001,
+     "end": 31.849,
+     "text": "The prosecution relied on the confession, the missing card, the unexplained money and his past.",
+     "say": "The prosecution relied on the confession, the missing card, the unexplained money and his past."
+    },
+    {
+     "start": 32.269,
+     "end": 38.605,
+     "text": "The gap at the centre of the case, the poison, pointed in a direction the court did not follow.",
+     "say": "The gap at the centre of the case, the poison, pointed in a direction the court did not follow."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "title": "The Unit 731 Theory",
+   "duration": 70.345,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 6.295,
+     "text": "Many people believed the police had the wrong man from the start, and there was a reason why.",
+     "say": "Many people believed the police had the wrong man from the start, and there was a reason why."
+    },
+    {
+     "start": 7.195,
+     "end": 9.776,
+     "text": "The killer had handled the poison with skill.",
+     "say": "The killer had handled the poison with skill."
+    },
+    {
+     "start": 10.196,
+     "end": 17.919,
+     "text": "He measured doses precisely, used a two-stage method, and knew how to make the poison act with a short delay.",
+     "say": "He measured doses precisely, used a two-stage method, and knew how to make the poison act with a short delay."
+    },
+    {
+     "start": 18.339,
+     "end": 24.867,
+     "text": "Early in the investigation, detectives suspected someone with military training in poisons.",
+     "say": "Early in the investigation, detectives suspected someone with military training in poisons."
+    },
+    {
+     "start": 25.287,
+     "end": 40.967,
+     "text": "They questioned former members of the Imperial Army's Noborito research institute and of Unit 731, the secret unit that had carried out biological-warfare research and lethal experiments on prisoners during the war.",
+     "say": "They questioned former members of the Imperial Army's Noborito research institute and of Unit seven thirty-one, the secret unit that had carried out biological-warfare research and lethal experiments on prisoners during the war."
+    },
+    {
+     "start": 41.867,
+     "end": 44.384,
+     "text": "That line of inquiry was then dropped.",
+     "say": "That line of inquiry was then dropped."
+    },
+    {
+     "start": 44.804,
+     "end": 55.215,
+     "text": "At the time, the United States had quietly granted Unit 731's leaders immunity from prosecution in exchange for their research data.",
+     "say": "At the time, the United States had quietly granted Unit seven thirty-one's leaders immunity from prosecution in exchange for their research data."
+    },
+    {
+     "start": 55.635,
+     "end": 63.101,
+     "text": "Many researchers believe the occupation authorities did not want the investigation to expose those men.",
+     "say": "Many researchers believe the occupation authorities did not want the investigation to expose those men."
+    },
+    {
+     "start": 63.521,
+     "end": 69.345,
+     "text": "This has never been proven, but it remains the most persistent theory about the case.",
+     "say": "This has never been proven, but it remains the most persistent theory about the case."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "title": "The Immunity Deal",
+   "duration": 67.508,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 8.492,
+     "text": "Unit 731 was based near Harbin, in occupied north-east China, under the command of Shirō Ishii.",
+     "say": "Unit seven thirty-one was based near Harbin, in occupied north-east China, under the command of Shiro Ishii."
+    },
+    {
+     "start": 8.912,
+     "end": 16.827,
+     "text": "Its prisoners, most of them Chinese, were used in experiments that are remembered among the gravest crimes of the war.",
+     "say": "Its prisoners, most of them Chinese, were used in experiments that are remembered among the gravest crimes of the war."
+    },
+    {
+     "start": 17.727,
+     "end": 22.676,
+     "text": "After the surrender, American officials questioned Ishii and his colleagues.",
+     "say": "After the surrender, American officials questioned Ishii and his colleagues."
+    },
+    {
+     "start": 23.096,
+     "end": 30.029,
+     "text": "The outcome was that the unit's leaders were never put on trial, and their research passed to the United States.",
+     "say": "The outcome was that the unit's leaders were never put on trial, and their research passed to the United States."
+    },
+    {
+     "start": 30.449,
+     "end": 33.799,
+     "text": "For decades the arrangement stayed largely hidden.",
+     "say": "For decades the arrangement stayed largely hidden."
+    },
+    {
+     "start": 34.219,
+     "end": 44.181,
+     "text": "It came to public attention through journalists and historians in the 1970s and 1980s, long after Hirasawa had been convicted.",
+     "say": "It came to public attention through journalists and historians in the nineteen-seventies and nineteen-eighties, long after Hirasawa had been convicted."
+    },
+    {
+     "start": 45.081,
+     "end": 58.329,
+     "text": "Notes kept by one of the Teigin detectives, published years later, show that former members of these units were interviewed in 1948, and that some described methods resembling the crime.",
+     "say": "Notes kept by one of the Teigin detectives, published years later, show that former members of these units were interviewed in nineteen forty-eight, and that some described methods resembling the crime."
+    },
+    {
+     "start": 58.749,
+     "end": 63.912,
+     "text": "No document has been found showing that GHQ ordered the inquiry stopped.",
+     "say": "No document has been found showing that GHQ ordered the inquiry stopped."
+    },
+    {
+     "start": 64.332,
+     "end": 66.508,
+     "text": "The connection remains a theory.",
+     "say": "The connection remains a theory."
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "title": "The Verdict",
+   "duration": 29.651,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 4.204,
+     "text": "In 1950, Hirasawa was sentenced to death.",
+     "say": "In nineteen fifty, Hirasawa was sentenced to death."
+    },
+    {
+     "start": 4.624,
+     "end": 9.403,
+     "text": "Japan's Supreme Court upheld the sentence in 1955.",
+     "say": "Japan's Supreme Court upheld the sentence in nineteen fifty-five."
+    },
+    {
+     "start": 10.303,
+     "end": 12.799,
+     "text": "But the sentence was never carried out.",
+     "say": "But the sentence was never carried out."
+    },
+    {
+     "start": 13.219,
+     "end": 21.304,
+     "text": "In Japan, an execution needs the justice minister's signature, and minister after minister refused to sign.",
+     "say": "In Japan, an execution needs the justice minister's signature, and minister after minister refused to sign."
+    },
+    {
+     "start": 21.724,
+     "end": 26.439,
+     "text": "Hirasawa's lawyers filed request after request for a retrial.",
+     "say": "Hirasawa's lawyers filed request after request for a retrial."
+    },
+    {
+     "start": 26.859,
+     "end": 28.651,
+     "text": "All of them were rejected.",
+     "say": "All of them were rejected."
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "title": "The Ministers Who Would Not Sign",
+   "duration": 42.871,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 6.999,
+     "text": "Governments rose and fell, and with each new cabinet a new justice minister was handed the file.",
+     "say": "Governments rose and fell, and with each new cabinet a new justice minister was handed the file."
+    },
+    {
+     "start": 7.419,
+     "end": 8.869,
+     "text": "None of them signed.",
+     "say": "None of them signed."
+    },
+    {
+     "start": 9.289,
+     "end": 14.431,
+     "text": "They rarely explained why in public, but the hesitation spoke for itself.",
+     "say": "They rarely explained why in public, but the hesitation spoke for itself."
+    },
+    {
+     "start": 14.851,
+     "end": 23.341,
+     "text": "The conviction rested on a retracted confession, and doubts about the poison and the identification had never gone away.",
+     "say": "The conviction rested on a retracted confession, and doubts about the poison and the identification had never gone away."
+    },
+    {
+     "start": 24.241,
+     "end": 26.396,
+     "text": "The result was a strange limbo.",
+     "say": "The result was a strange limbo."
+    },
+    {
+     "start": 26.816,
+     "end": 30.421,
+     "text": "Hirasawa was neither freed nor executed.",
+     "say": "Hirasawa was neither freed nor executed."
+    },
+    {
+     "start": 30.841,
+     "end": 41.871,
+     "text": "In an era when condemned prisoners were usually given little or no warning of their execution, he lived with that uncertainty not for months, but for decades.",
+     "say": "In an era when condemned prisoners were usually given little or no warning of their execution, he lived with that uncertainty not for months, but for decades."
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "title": "The Retrial Campaigns",
+   "duration": 45.587,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 3.649,
+     "text": "Outside the prison, the case never went quiet.",
+     "say": "Outside the prison, the case never went quiet."
+    },
+    {
+     "start": 4.069,
+     "end": 12.091,
+     "text": "In the early 1960s, the writer Tetsurō Morikawa founded an association to win Hirasawa's release.",
+     "say": "In the early nineteen-sixties, the writer Tetsuro Morikawa founded an association to win Hirasawa's release."
+    },
+    {
+     "start": 12.511,
+     "end": 24.991,
+     "text": "The crime novelist Seichō Matsumoto wrote about the case and the possibility of a cover-up, and in 1964 the director Kei Kumai made a feature film about it.",
+     "say": "The crime novelist Seicho Matsumoto wrote about the case and the possibility of a cover-up, and in nineteen sixty-four the director Kei Kumai made a feature film about it."
+    },
+    {
+     "start": 25.411,
+     "end": 31.405,
+     "text": "In English, William Triplett published a book-length investigation in 1985.",
+     "say": "In English, William Triplett published a book-length investigation in nineteen eighty-five."
+    },
+    {
+     "start": 32.305,
+     "end": 39.025,
+     "text": "Through it all, Hirasawa kept painting in his cell, and his supporters exhibited the work outside.",
+     "say": "Through it all, Hirasawa kept painting in his cell, and his supporters exhibited the work outside."
+    },
+    {
+     "start": 39.445,
+     "end": 44.587,
+     "text": "To them, it was proof that the man was still present, still working, still waiting.",
+     "say": "To them, it was proof that the man was still present, still working, still waiting."
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "title": "Thirty-Nine Years",
+   "duration": 22.684,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 8.236,
+     "text": "Sadamichi Hirasawa spent almost 39 years in prison, more than 32 of them on death row.",
+     "say": "Sadamichi Hirasawa spent almost thirty-nine years in prison, more than thirty-two of them on death row."
+    },
+    {
+     "start": 8.656,
+     "end": 10.448,
+     "text": "He kept painting throughout.",
+     "say": "He kept painting throughout."
+    },
+    {
+     "start": 10.868,
+     "end": 21.684,
+     "text": "On May 10, 1987, he died of pneumonia in a prison hospital at the age of 95, still insisting he was innocent.",
+     "say": "On May tenth, nineteen eighty-seven, he died of pneumonia in a prison hospital at the age of ninety-five, still insisting he was innocent."
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "title": "Legacy",
+   "duration": 64.093,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 3.073,
+     "text": "The Teigin Incident left a long shadow.",
+     "say": "The Teigin Incident left a long shadow."
+    },
+    {
+     "start": 3.493,
+     "end": 14.885,
+     "text": "It was one of the deadliest robberies in Japanese history, carried out not with weapons but with an armband, a story and the trust of ordinary people.",
+     "say": "It was one of the deadliest robberies in Japanese history, carried out not with weapons but with an armband, a story and the trust of ordinary people."
+    },
+    {
+     "start": 15.785,
+     "end": 19.305,
+     "text": "It also became a case about justice itself.",
+     "say": "It also became a case about justice itself."
+    },
+    {
+     "start": 19.725,
+     "end": 33.763,
+     "text": "In the 1980s, several Japanese death-row prisoners were exonerated at retrial after decades behind bars, their convictions found to rest on confessions that could not be trusted.",
+     "say": "In the nineteen-eighties, several Japanese death-row prisoners were exonerated at retrial after decades behind bars, their convictions found to rest on confessions that could not be trusted."
+    },
+    {
+     "start": 34.183,
+     "end": 46.684,
+     "text": "Each of those cases revived the questions about Hirasawa, and the debate over long interrogations and the weight given to confessions continues in Japan today.",
+     "say": "Each of those cases revived the questions about Hirasawa, and the debate over long interrogations and the weight given to confessions continues in Japan today."
+    },
+    {
+     "start": 47.584,
+     "end": 63.093,
+     "text": "And at the centre of it all are the twelve people who died in Shiinamachi: clerks and a caretaker's family, at the end of an ordinary working day, who did what they were told by a man they had every reason to believe.",
+     "say": "And at the centre of it all are the twelve people who died in Shiinamachi: clerks and a caretaker's family, at the end of an ordinary working day, who did what they were told by a man they had every reason to believe."
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "title": "The Questions Remain",
+   "duration": 27.648,
+   "cues": [
+    {
+     "start": 0.3,
+     "end": 10.028,
+     "text": "His adopted son continued the fight to clear his name, and supporters have kept pressing for a retrial even after both men's deaths.",
+     "say": "His adopted son continued the fight to clear his name, and supporters have kept pressing for a retrial even after both men's deaths."
+    },
+    {
+     "start": 10.448,
+     "end": 12.667,
+     "text": "Officially, the case is closed.",
+     "say": "Officially, the case is closed."
+    },
+    {
+     "start": 13.087,
+     "end": 14.836,
+     "text": "But the questions remain.",
+     "say": "But the questions remain."
+    },
+    {
+     "start": 15.256,
+     "end": 26.648,
+     "text": "Who was the man at the bank door, where did he learn to handle poison like that, and why did the investigation turn away from the people best equipped to commit the crime?",
+     "say": "Who was the man at the bank door, where did he learn to handle poison like that, and why did the investigation turn away from the people best equipped to commit the crime?"
+    }
+   ]
+  }
+ ]
+}
