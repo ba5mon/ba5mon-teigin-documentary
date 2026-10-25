@@ -47,7 +47,7 @@ def main():
     t = 0.0
     for c in T["chapters"]:
         n = c["n"]
-        if n in FIRST:   # a chapter card before the first narration part of each of the 11 chapters
+        if n in FIRST and n != 1:   # a chapter card before each chapter, except the opening: the film starts directly
             k, title, parts = FIRST[n]
             segs.append({"kind": "card", "ch": k, "of": len(CHAPTERS), "first": n, "parts": parts, "title": title, "t0": round(t, 3), "t1": round(t + CARD, 3)}); t += CARD
         t0 = t
