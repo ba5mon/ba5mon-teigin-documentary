@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>The Teigin Incident</title>
+<style>
+@font-face{font-family:Corm;src:url(fonts/corm500.woff2) format('woff2');font-weight:500}
+@font-face{font-family:Corm;src:url(fonts/corm600.woff2) format('woff2');font-weight:600}
+@font-face{font-family:Corm;src:url(fonts/corm700.woff2) format('woff2');font-weight:700}
+@font-face{font-family:"Courier Prime";src:url(fonts/CourierPrime-Regular.ttf) format('truetype');font-weight:400}
+@font-face{font-family:"Courier Prime";src:url(fonts/CourierPrime-Bold.ttf) format('truetype');font-weight:700}
+html,body{margin:0;background:#000;overflow:hidden}canvas{display:block}
+</style></head><body><canvas id="c" width="1920" height="1080"></canvas>
+<script type="module">
+// ?range=a,b renders [a, b) s of the film; ?test=<scene>.<shot> renders one shot alone (t from its start)
+import * as film from './film.js';
+const qs = new URLSearchParams(location.search);
+await film.boot();
+const tr = film.testRange();
+const [a, b] = tr ? [0, tr[1] - tr[0]] : (qs.get('range') || `0,${film.DUR}`).split(',').map(Number);
+window.DUR = b - a;
+window.EV = tr ? [] : film.EV.filter(e => e.t >= a && e.t < b).map(e => ({ ...e, t: e.t - a }));
+window.render = t => film.render(t + a);
+window.TEXTS = t => film.texts(t + a);
+window.READY = true;
+</script></body></html>

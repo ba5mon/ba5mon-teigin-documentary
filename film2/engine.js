@@ -95,7 +95,7 @@ export function compose(g, stack, cam, t, o = {}) {
   g.save(); g.fillStyle = '#000'; g.fillRect(0, 0, W, H);
   const layers = stack.layers.slice().sort((a, b) => b.z - a.z); let fi = 0;
   const drawFigs = zmin => { while (fi < figs.length && figs[fi].z >= zmin) { const f = figs[fi++], X = layerXf(cam, f.z); g.save(); g.translate(X.tx, X.ty); g.scale(X.s, X.s); g.translate(-W / 2, -H / 2); f.draw(g, X); g.restore(); } };
-  for (const L of layers) {
+  for (const L of layers.slice(0, window.DBG ?? 99)) {
     drawFigs(L.z + 1e-6);
     const X = layerXf(cam, L.z); g.save(); g.translate(X.tx, X.ty); g.scale(X.s, X.s); g.translate(-W / 2 - MX + L.ox, -H / 2 - MY + L.oy);
     if (L.S) { g.drawImage(L.S, 6, L.shadowDy); }
@@ -111,38 +111,51 @@ export function compose(g, stack, cam, t, o = {}) {
 }
 
 // ───────── jointed silhouette figures (paper on a stick: parts rotate about joints) ─────────
-// f: { x, y (feet, screen coords at their sheet), h (height px), dir (1 right, −1 left), coat, hat, cap (military), bundle, child, phase (walk 0..1), walking, pose: {armL, armR} in rad,
-//      color, rim }
+// f: { x, y (feet), h (height px), dir (1 right, −1 left), coat, hat, cap (military), bundle, band (armband), phase (walk 0..1), walking,
+//      pose: {armL, armR} (rad, 0 = hanging, −π/2 = pointing forward), seated, stoop (rad, upper body leans forward), cane, back (seen from behind), color }
 export function figure(g, f) {
   const h = f.h, k = h / 100, dir = f.dir ?? 1, col = f.color || '#1a120c';
   const ph = (f.phase ?? 0) * Math.PI * 2, walk = f.walking ? 1 : 0;
   const bob = walk * Math.abs(Math.sin(ph)) * 1.6 * k;
   g.save(); g.translate(f.x, f.y - bob); g.scale(dir, 1);
-  const part = (fn) => { g.beginPath(); fn(); g.fill(); };
-  g.fillStyle = col;
-  const hip = [0, -47 * k], sh = [0, -82 * k];
-  const leg = (sw, back) => { g.save(); g.translate(hip[0] + (back ? -2 : 2) * k, hip[1]); g.rotate(sw); part(() => { g.moveTo(-5 * k, 0); g.lineTo(5 * k, 0); g.lineTo(3.6 * k, 44 * k); g.lineTo(-3.4 * k, 44 * k); g.closePath(); });
-    part(() => { g.ellipse(2.6 * k, 45.5 * k, 6.6 * k, 2.6 * k, 0, 0, Math.PI * 2); }); g.restore(); };
-  const legA = walk * Math.sin(ph) * .42, legB = -walk * Math.sin(ph) * .42;
-  leg(legB, true); leg(legA, false);
-  // coat / torso
-  part(() => { g.moveTo(-10 * k, sh[1] + 2 * k); g.lineTo(10 * k, sh[1] + 2 * k); g.lineTo((f.coat ? 13 : 9) * k, (f.coat ? -20 : -45) * k); g.lineTo(-(f.coat ? 12 : 9) * k, (f.coat ? -20 : -45) * k); g.closePath(); });
-  // head
-  const hy = sh[1] - 9 * k; part(() => g.ellipse(1 * k, hy, 6.4 * k, 7.6 * k, 0, 0, Math.PI * 2));
-  part(() => g.rect(-3 * k, hy + 5 * k, 6 * k, 6 * k));
-  if (f.hat) { part(() => { g.ellipse(1 * k, hy - 4 * k, 11 * k, 2.4 * k, 0, 0, Math.PI * 2); }); part(() => { g.rect(-5.5 * k, hy - 12 * k, 12 * k, 8.5 * k); }); }
-  if (f.cap) { part(() => { g.moveTo(-7 * k, hy - 3 * k); g.lineTo(9 * k, hy - 6 * k); g.lineTo(14 * k, hy - 2 * k); g.lineTo(7 * k, hy - 1 * k); g.lineTo(-7 * k, hy + 0 * k); g.closePath(); }); }
-  // arms
-  const arm = (a, back) => { g.save(); g.translate(sh[0] + (back ? -1 : 1) * k, sh[1] + 4 * k); g.rotate(a); part(() => { g.moveTo(-3.6 * k, 0); g.lineTo(3.6 * k, 0); g.lineTo(2.8 * k, 34 * k); g.lineTo(-2.6 * k, 34 * k); g.closePath(); }); part(() => g.ellipse(0, 35 * k, 3.4 * k, 4 * k, 0, 0, Math.PI * 2));
-    if (!back && f.band) { g.fillStyle = f.bandCol || '#e9dcc4'; g.fillRect(-3.8 * k, 8 * k, 7.6 * k, 5 * k); g.fillStyle = col; }
+  const part = fn => { g.beginPath(); fn(); g.fill(); };
+  g.fillStyle = col; g.strokeStyle = col;
+  const hipY = f.seated ? -25 * k : -47 * k, shY = hipY - 35 * k;
+  const limb = (x0, y0, a, len, w0, w1) => { g.save(); g.translate(x0, y0); g.rotate(a); part(() => { g.moveTo(-w0 * k, 0); g.lineTo(w0 * k, 0); g.lineTo(w1 * k, len * k); g.lineTo(-w1 * k, len * k); g.closePath(); }); g.restore(); };
+  if (f.back) {                                       // seen from behind: legs lift in turn, arms at the sides
+    for (const s of [-1, 1]) { const lift = walk * Math.max(0, Math.sin(ph) * s) * 6 * k; part(() => g.rect(s * 6.5 * k - 4.5 * k, hipY, 9 * k, -hipY - lift)); }
+    part(() => { g.moveTo(-13 * k, shY + 2 * k); g.lineTo(13 * k, shY + 2 * k); g.lineTo(14 * k, (f.coat ? -20 : -45) * k); g.lineTo(-14 * k, (f.coat ? -20 : -45) * k); g.closePath(); });
+    for (const s of [-1, 1]) limb(s * 14 * k, shY + 4 * k, -s * (.06 + walk * Math.sin(ph) * s * .05), 34, 3.6, 2.8);
+    const hy = shY - 9 * k; part(() => g.ellipse(0, hy, 6.8 * k, 7.6 * k, 0, 0, Math.PI * 2)); part(() => g.rect(-3 * k, hy + 5 * k, 6 * k, 6 * k));
+    if (f.hat) { part(() => g.ellipse(0, hy - 4 * k, 11 * k, 2.4 * k, 0, 0, Math.PI * 2)); part(() => g.rect(-6 * k, hy - 12 * k, 12 * k, 8.5 * k)); }
+    g.restore(); return;
+  }
+  if (f.seated) {                                     // thigh forward, shin down to the floor
+    for (const b of [1, 0]) { limb((b ? -1 : 2) * k, hipY, -Math.PI / 2 + .04, 24, 5.4, 4.6); limb(22 * k + (b ? -1 : 2) * k, hipY, 0, 25, 4.4, 3.6); part(() => g.ellipse(24.6 * k, -1 * k, 6.6 * k, 2.6 * k, 0, 0, Math.PI * 2)); }
+  } else {
+    const legA = walk * Math.sin(ph) * .42;
+    for (const [sw, dx] of [[-legA, -2], [legA, 2]]) { g.save(); g.translate(dx * k, hipY); g.rotate(sw); part(() => { g.moveTo(-5 * k, 0); g.lineTo(5 * k, 0); g.lineTo(3.6 * k, 44 * k); g.lineTo(-3.4 * k, 44 * k); g.closePath(); });
+      part(() => g.ellipse(2.6 * k, 45.5 * k, 6.6 * k, 2.6 * k, 0, 0, Math.PI * 2)); g.restore(); }
+  }
+  g.save(); g.translate(0, hipY); g.rotate(f.stoop || 0); g.translate(0, -hipY);   // upper body (leans about the hip)
+  const coatB = f.seated ? hipY + 4 * k : (f.coat ? -20 * k : hipY + 2 * k), coatW = f.coat && !f.seated ? 13 : 9.5;
+  part(() => { g.moveTo(-10 * k, shY + 2 * k); g.lineTo(10 * k, shY + 2 * k); g.lineTo(coatW * k, coatB); g.lineTo(-coatW * k, coatB); g.closePath(); });
+  const hy = shY - 9 * k; part(() => g.ellipse(1 * k, hy, 6.4 * k, 7.6 * k, 0, 0, Math.PI * 2)); part(() => g.rect(-3 * k, hy + 5 * k, 6 * k, 6 * k));
+  if (f.hat) { part(() => g.ellipse(1 * k, hy - 4 * k, 11 * k, 2.4 * k, 0, 0, Math.PI * 2)); part(() => g.rect(-5.5 * k, hy - 12 * k, 12 * k, 8.5 * k)); }
+  if (f.cap) { part(() => { g.moveTo(-7 * k, hy - 3 * k); g.lineTo(-6 * k, hy - 9 * k); g.lineTo(8 * k, hy - 9 * k); g.lineTo(9 * k, hy - 4 * k); g.lineTo(15 * k, hy - 1.5 * k); g.lineTo(7 * k, hy - 1 * k); g.lineTo(-7 * k, hy); g.closePath(); }); }
+  if (f.hair) part(() => g.ellipse(-2 * k, hy - 1 * k, 7 * k, 7 * k, 0, Math.PI * .9, Math.PI * 2.1));
+  const arm = (a, back) => { g.save(); g.translate((back ? -1 : 1) * k, shY + 4 * k); g.rotate(a); part(() => { g.moveTo(-3.6 * k, 0); g.lineTo(3.6 * k, 0); g.lineTo(2.8 * k, 34 * k); g.lineTo(-2.6 * k, 34 * k); g.closePath(); }); part(() => g.ellipse(0, 35 * k, 3.4 * k, 4 * k, 0, 0, Math.PI * 2));
+    if (!back && f.band) { g.fillStyle = f.bandCol || '#e9dcc4'; g.fillRect(-4 * k, 7 * k, 8 * k, 5 * k); g.fillStyle = col; }
     if (!back && f.bundle) part(() => g.rect(-7 * k, 30 * k, 14 * k, 12 * k));
+    if (!back && f.cane) { g.save(); g.rotate(-a); g.lineWidth = 2.2 * k; g.beginPath(); const hx = -Math.sin(a) * 35 * k, hy2 = Math.cos(a) * 35 * k; g.moveTo(hx, hy2); g.lineTo(hx + 4 * k, -shY - 4 * k - hipY + hipY + 0); g.stroke(); g.restore(); }
     g.restore(); };
-  arm((f.pose?.armL ?? 0) + walk * Math.sin(ph) * .38, true); arm((f.pose?.armR ?? 0) - walk * Math.sin(ph) * .38, false);
-  g.restore();
+  const sw = walk * Math.sin(ph) * (f.cane ? .15 : .38);
+  arm((f.pose?.armL ?? 0) + sw, true); arm((f.pose?.armR ?? 0) - sw, false);
+  g.restore(); g.restore();
 }
 // draw a figure with its rim light and soft shadow (the figure is a dark front sheet)
 export function figureLit(g, f, o = {}) {
-  g.save(); g.filter = 'blur(7px)'; g.globalAlpha = .45; g.translate(5, 10); figure(g, { ...f, color: '#000' }); g.restore();
-  g.save(); g.translate(0, -2.5); figure(g, { ...f, color: o.rim || 'rgba(255,214,160,.55)' }); g.restore();
+  g.save(); g.filter = `blur(${o.blur ?? 7}px)`; g.globalAlpha *= .45; g.translate(5, 10); figure(g, { ...f, color: '#000' }); g.restore();
+  g.save(); g.translate(0, -2.5); figure(g, { ...f, color: o.rim || 'rgba(255,214,160,.5)' }); g.restore();
   figure(g, f);
 }
