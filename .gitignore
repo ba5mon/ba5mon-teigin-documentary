@@ -2,3 +2,4 @@ models/
 build/
 __pycache__/
 *.wav
+*.zip
