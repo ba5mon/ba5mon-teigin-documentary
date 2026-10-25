@@ -1,201 +1,172 @@
-# The Teigin Incident — Treatment
+# The Teigin Incident — Treatment (Visual Investigation)
 
-Style: **Woodcut Print** (`styles/woodcut/STYLE.md`), all invariants kept. 1920×1080, 30 fps (figures stepped on twos = 15 fps; camera, light and liquid on ones). English narration (locked script, 22 chapters), burned-in letterpress subtitles in the paper margin plus `.srt`. Target runtime 15–20 min.
+Style: **Visual Investigation** (`styles/visual-investigation/STYLE.md`), all invariants kept: cold desk ground `#0B0C0E`, panels `#141619`, greyscale sources, one red `#FF4A2E` that only points, hard cuts with a 3–4-frame white flash, few words per frame, uncertainty drawn (`≈`, *inferred*, *schematic*, dashed boxes). 1920×1080, 30 fps. English narration (locked script, Kokoro `am_michael`), English subtitles one line per cue at the foot of the frame, plus `.srt`.
 
-Colour plate: **deep oxblood**, printed only out of carved white, reserved for three things: the liquid in the cups (ch. 4), the seal that is never pressed on the execution order (ch. 17–20), and the twelve remembered (ch. 21, end card). Everything else is ink on laid paper.
+Material (all public domain, `SOURCES.md`): 11 photographs from 1919–1951 (Asahi Graph and others, `PD-Japan-oldphoto`), 5 occupation photographs from the Australian War Memorial (1945–46), the US Army Map Service 1:12,500 Tokyo sheet “Koishikawa” (1945–46), the text of the 1947 Constitution (Art. 38). No film footage (the brief forbids clips from other films), so the “moving image” role is taken by the police re-enactment stills (a strip from a 1948 police film) and by drawn evidence. Photographs of the victims exist and are deliberately excluded.
 
 ## 1. Three candidate structures
 
-1. **Chronicle in plates.** A wordless-novel sequence: each chapter is a short run of self-contained plates, printed one after another in order: afternoon → hunt → arrest → trial → four decades of limbo. Clear for a 20-minute documentary with 22 chapters of narration; the risk is monotony, answered by changing the plate grammar per act (locked plates for the bank, maps and track-with-the-knife for the investigation, frames within frames for the prison).
-2. **The same block recut.** One block, the bank's side door, carved deeper in every chapter, so that by the end the door has been cut away into the cell, the court and the map. Beautiful as a 60-second idea; at 20 minutes it cannot carry maps, cards and documents without breaking its own rule.
-3. **Two blocks printed in turn.** The bank (1948) and the cell (1948–1987) alternate impressions until the last sheet carries both. Strong for the ending, but it would hold back the investigation chapters, which need their own documents.
+1. **One question, source by source.** “Who was the man at the bank door?” Every chapter brings one kind of source (a map, a card, a ledger, a confession, a court record, a map of military units) and asks what it proves; the answers land in a growing known / unresolved board. Fits a case whose point is that the sources never quite meet.
+2. **Rewind cold open.** Start on the decisive frame (the tray of cups in the re-enactment), slam other sources into a grid, rewind to 1948. Strong hook, but our cold open is narration that already starts at 3:20 pm, and a rewind spends the photo we need later.
+3. **A strict clock.** 15:20 → 15:50 → days → months → 39 years, findings dropping in where they happen. True to the material but monotone across 20 minutes, and most of the case has no clock time.
 
-**Chosen: 1, with the bookend from 3.** The film is a chronicle in plates, in four acts, and it opens and closes on the same block: the side door at 3:20 pm. In the opening the door is carved out of uncut black as the clock reaches 3:20; in the closing the same door is printed again, but its corner is left uncarved: black wood the knife never reached, the question no one answered. Opening image and ending both come from the topic (a knock at a side door after closing time; an unsolved case), not from the style's stock moves.
-
-Acts:
-- **I. The Afternoon** (ch. 1–6): locked plates, low camera, the interior of a bank after closing.
-- **II. The Hunt** (ch. 7–11): documents, cards, maps; the camera tracks the knife along routes and lists.
-- **III. The Confession and the Court** (ch. 12–16): frames within frames; the theory chapters drawn as maps marked THEORY.
-- **IV. Thirty-Nine Years** (ch. 17–22): the unsigned order, years printed one over another, the cell, the twelve.
+**Chosen: 1, carried by the clock of 3.** The film is one question answered source by source, and the readout changes scale at every act: minutes (26 Jan 1948, ≈15:20), dates (Oct 1947 → Aug 1948), months and years (1947 → 1955), decades (1955 → 1987). It opens on a clock readout and the 1946 survey map of the district, and ends on the known / unresolved board, left on screen, then the twelve red rings. Opening and ending come from the case (an afternoon, an unanswered question), not from the demo.
 
 ## 2. Logline and arc
 
-A man with an armband walks into a Tokyo bank after closing and persuades sixteen people to drink poison; the painter convicted of the crime waits thirty-nine years for an execution no minister will sign, and the question of who the man at the door really was is never answered.
+A man with a health official’s armband poisons sixteen people at a Tokyo bank; the sources that convict a painter (a missing card, unexplained money, a retracted confession) never meet the source that matters (the poison), and the board of what is known still has an empty column 39 years later.
 
-- **Setup**: trust in post-war Tokyo; the visitor; the cups.
-- **Turn**: the card trail ends at a painter who cannot produce a card; a confession, a recantation, a death sentence.
-- **Ending**: the sentence is never carried out; he dies in prison at 95; the twelve dead are named as twelve marks in oxblood; the door is printed one last time with a corner uncut.
+- **Setup** (I, ch. 1–6): the place, the claim, the cups, the count.
+- **Turn** (II–III, ch. 7–16): the card trail closes on Hirasawa; the confession; the court; the line of inquiry that pointed elsewhere (THEORY).
+- **Ending** (IV, ch. 17–22): the unsigned order, the years, the death in 1987, the twelve, the board.
 
 ## 3. Benchmark
 
-- **Lynd Ward, *Gods' Man* (1929) and *Vertigo* (1937)** — learn: sequencing by self-contained plates; the city as massed black with carved windows; how a whole life reads in a handful of compositions. Don't take: any plate, figure, border, title lettering.
-- **Errol Morris, *The Thin Blue Line* (1988)** — learn: a documentary about a doubtful conviction told through reconstructions treated as objects (the milkshake, the documents), repeated with variation; restraint at the scene of death. Don't take: shots, score, interview grammar.
-- **Käthe Kollwitz, *War* series** — learn: grief carried by direction of the gouge and by empty space, never by depicting the dead. Don't take: figures or compositions.
+- **Newspaper visual-investigation videos and forensic-architecture reconstructions** (as a genre) — learn: one finding per layout, sources pinned to one clock, uncertainty drawn rather than said, restraint with casualties. Don’t take: any branding, layout, graphics package or music.
+- **Errol Morris, *The Thin Blue Line*** — learn: a doubtful conviction told through its evidence objects; the confession as an artefact to be examined. Don’t take: re-enactments, shots, score.
 
 ## 4. Picture rules for this film
 
-- **Respect**: no depiction of death, collapse or suffering. The poisoning is told with the sixteen cups, an empty counting room and counted stab marks. Survivors and staff are anonymous silhouettes, never individual likenesses.
-- **Real people**: Sadamichi Hirasawa, Dr. Shigeru Matsui, Shirō Ishii, Tetsurō Morikawa, Seichō Matsumoto, Kei Kumai, William Triplett appear only as names (letterpress name cards). Hirasawa may appear as a portrait re-cut through `woodcutFilter` from a public-domain photograph, if one with a clear licence is found (logged in `credits.md`); otherwise a carved anonymous silhouette with his name card.
-- **Documents and newspapers** are invented layouts labelled `ILLUSTRATIVE` in the margin. The business card, the cheque, the composite sketch and the execution order are illustrative reconstructions, never copies.
-- **The Unit 731 / Noborito link** is always labelled `THEORY · NOT PROVEN` on screen, carved into the plate edge and set in the margin.
-- Locked facts on screen: 16 drank; 10 died at the bank, 2 in hospital (12); 4 survived; ¥164,000 cash and a cheque for about ¥17,000; Yasuda Bank Oct 1947; Mitsubishi Bank 19 Jan 1948; arrest Aug 1948 in Otaru; death sentence 1950, upheld 1955; never executed; died 10 May 1987, aged 95.
+- **Respect**: no images of the victims, no depiction of death; people are dots, the dead become red open rings one by one, never with a sound effect.
+- **Real people** appear only in their own public-domain photographs or as names in lower thirds.
+- **Typeset documents** are labelled *transcription* (the constitution) or *schematic* (a plan, the card list, a form). No invented newspaper pages: the “next morning” is told with a readout and the name.
+- **THEORY**: every Unit 731 / Noborito link is dashed, never solid, and carries a `THEORY · NOT PROVEN` tag.
+- Locked facts on screen exactly as in `FACTS.md`.
 
-## 5. Layout and type
+## 5. Type, layout, subtitles
 
-- Paper margin fixed for the whole film: plate (block) area x 96–1824, y 54–846 (1728 × 792), ragged ink edge. Bottom margin y 846–1080 holds captions.
-- **Subtitles**: IM Fell English, 40 px, ink, centred in the bottom margin, up to two lines, max ~64 characters per line. Ink comes up in 0.1 s, fades over 0.15 s, hold ≥ max(1.8 s, speech + 0.6 s). Cues split from per-sentence timings into ≤ 2-line chunks.
-- **Small margin labels** (top-right of the bottom margin, IM Fell English italic 22 px): `ILLUSTRATIVE`, `THEORY · NOT PROVEN`, place/date stamps such as `Shiinamachi, Toshima · 26 January 1948`.
-- **Chapter title cards** (4.0 s each, 4.6 s for the main title): the title carved out of a black panel (IM Fell English SC), mirrored while the block is inked, then the paper is pulled and it reads true (the style's "mirrored block → true print" move, used as the chapter grammar). Roman chapter number above, in small carved capitals.
+- Headings / findings: Noto Sans 700 (36–120 px). Tags, timecodes, readouts: IBM Plex Mono 400/600. Quotes: Source Serif 4 Italic. Japanese words (帝銀事件, place names): Noto Sans JP 700, subset. All OFL, self-hosted.
+- 60 px margins; content y 60–900; subtitles below (baseline ≈ 1004): Noto Sans 600 34 px, centred, one line ≤ 1,500 px, 10 px black shadow. Long sentences become several cues.
+- Source tag: 6×12 red chip + `type · source` in mono above each frame (`photo · Asahi Graph 1948`).
+- **Chapter slates** (the brief asks for a title card before each chapter, ≥ 4 s): not a centred slide but a left-aligned layout: `CHAPTER 04 / 22` mono, the heading in Noto Sans 700 at 96 px, and the act’s clock readout in mono below it (`26 JAN 1948 · ≈15:20`, `1950 → 1955`), a red hairline. Cut in with the white flash, held 4.0 s.
+- Main title after the cold open: same layout, `THE TEIGIN INCIDENT` / 帝銀事件 / `26.01.1948 – 10.05.1987`, 4.6 s.
 
-## 6. Shot list
+## 6. Shot list (layout per sentence group; durations from the narration)
 
-Plate = one printed composition. Framing W/F/M/C/I = wide/full/medium/close/insert. Durations follow the narration (measured after recording); here in approximate seconds.
+`[n]` = sentence index where the layout cuts in.
 
-### Act I — The Afternoon
+### Act I · minutes
+| Ch | Cut | Layout | Sources | Finding / move |
+|---|---|---|---|---|
+| 1 | [0] | big readout `MON 26 JAN 1948` + clock `15:00 → ≈15:20`, lower third “Tokyo” | — | the clock starts (pendulum ticks) |
+| 1 | [1] | map: AMS sheet push 1.0 → 1.8 to Shiinamachi Station, red circle + label “Teikoku Bank, Shiinamachi branch ≈ near the station (inferred)” | AMS 1946 | map → place |
+| 1 | [2] | dot matrix: 16 dots + big “16” | — | sixteen inside |
+| 1 | [3] | same dots, 12 turn to red open rings one by one, big “12”, readout `≈ 30 min` | — | dots for people |
+| 1 | [4] | statement “The Teigin Incident” + 帝銀事件 + thumbnail strip of the evidence used in the film | all | the case file |
+| 2 | [0] | AMS sheet whole, push; tag `map · US Army Map Service 1946` | AMS | Tokyo in 1948 |
+| 2 | [2] | AMS detail + legend crop: “Bombed area” circled red, a bombed district outlined | AMS legend | the scars are on the map |
+| 2 | [3] | photo: worker in mask disinfecting (Otake 1946) + one-line finding “Public health under occupation” | AWM | the familiar sight |
+| 2 | [5] | photo: Dai-Ichi building + lower third “GHQ · Dai-Ichi Seimei Building, Hibiya” | AWM | the authority |
+| 2 | [7] | two photos side by side (DDT a / b) + three words in mono: HOUSING · WATER · NUTRITION | AWM | epidemics feared |
+| 2 | [8] | claim card: “GHQ requires …” beside a red-boxed word *armband* | — | the habit of trust |
+| 3 | [0] | clock readout `≈15:20` + schematic plan of the branch (side entrance marked red, *schematic, not measured*) | drawn | the knock at the side door |
+| 3 | [1] | claim card (what he said he was): armband · business card · “doctor”, each with a red ✓ for “presented”, tag *survivor accounts* | testimony | what they saw |
+| 3 | [2] | map inset + claim card “outbreak of dysentery nearby” with *claim* tag; “GHQ order: everyone takes medicine before leaving” | — | the story he told |
+| 3 | [4] | three words, one per beat: CALM · POLITE · CONFIDENT | — | why nobody doubted |
+| 4 | [0] | 16 dots arrange around a schematic table; labels *staff* / *caretaker’s family* | drawn | sixteen in all |
+| 4 | [2] | re-enactment strip (Sept 1948): freeze, red circle on the tray of cups, ×2 loupe; tag `police film still · Asahi Graph 1948` | reenact | the cups (as re-enacted under arrest) |
+| 4 | [2]+ | schematic: DOSE 1 → `≈1 min` → DOSE 2; “he drank first” | drawn | the method |
+| 4 | [6] | near-silence: the dots only; one deep thump on “They did as he said” | — | the moment |
+| 4 | [10] | 10 dots → red open rings; [11] 2 more; big “12”; [12] 4 remain white, labelled *survivors* | — | the count |
+| 5 | [0] | then vs record: claim card “gas? food poisoning?” (early reports) | — | first reports |
+| 5 | [4] | fact card “cyanide compound” (laboratory); early-report words struck through in red | — | the record corrects the claim |
+| 5 | [3] | photo: Horisaki Shigeki, head of the MPD First Investigation Division (Sept 1948) | Asahi Graph | the investigation |
+| 5 | [5] | readout `27 JAN 1948` + the name: TEIKOKU GINKŌ JIKEN → 帝銀事件 → “Teigin” (the two characters highlighted red) | — | the name |
+| 5 | [6] | heading “Who was the doctor?”, nothing else | — | the question |
+| 6 | [0] | ledger cards: CASH ≈ ¥164,000 · CHEQUE ≈ ¥17,000 → `cashed 27 Jan 1948, another bank` | — | what he took |
+| 6 | [3] | two-column bars: TAKEN (measured) vs IN THE BANK (dashed, *amount not shown*) | — | what he left |
+| 6 | [5] | heading “Why?” in the unresolved column | — | unresolved #1 |
 
-| # | Plate | Framing / angle | Move | ≈ s | Why |
-|---|---|---|---|---|---|
-| 0 | Title I · Cold Open | — | locked, peel | 4 | the chapter grammar |
-| 1.1 | Wall clock, hands carve to 3:20; pendulum on ones | C, frontal | snap-zoom out to the side door | 8 | hook in the first seconds: time and a door |
-| 1.2 | Bank façade, Shiinamachi, closed shutters, winter light | W, low | slow push | 12 | the place, ordinary |
-| 1.3 | Sixteen small chairs/figures behind the counter, carved as one row of silhouettes | M, eye level | locked | 10 | "sixteen people" counted |
-| 1.4 | Main title: THE TEIGIN INCIDENT · 帝銀事件 | — | carve + pull | 4.6 | the name, after the hook |
-| 2.1 | Tokyo 1948: burnt city, chimneys, a tram; rays of winter light | W | crane up | 20 | occupation-era Tokyo |
-| 2.2 | GHQ: Dai-Ichi building silhouette, flag pole, a directive on a noticeboard (ILLUSTRATIVE) | M | track across | 18 | authority |
-| 2.3 | Health team spraying disinfectant along an alley; armband white | F | on twos, track | 20 | the familiar figure |
-| 2.4 | A doorway, an armband held up — the trust | C | slow push | 14 | "the key to everything" |
-| 3.1 | Side entrance, knuckles knock (3 woodblock hits) | I | locked, shake on hits | 8 | the knock |
-| 3.2 | The visitor in doorway, armband, card held out | F, low | slow push | 14 | figure, faceless |
-| 3.3 | The business card, ILLUSTRATIVE | I | macro push | 10 | the card |
-| 3.4 | Animated map of Tokyo: Yamanote loop, Ikebukuro, Shiinamachi branch marked; the word "dysentery" in the margin | W map | track with knife along line to marker | 12 | where |
-| 4.1 | Sixteen cups set on a tray in rows | C overhead | slow macro push | 14 | the cups |
-| 4.2 | A dropper above one cup; the liquid is the oxblood plate | I | locked | 14 | precision |
-| 4.3 | The cups filled: oxblood glows in all sixteen | C overhead | pull back | 14 | the peak of colour |
-| 4.4 | The cups empty and overturned on the tray; a chair tipped; no people | W | locked, held near-silence | 16 | respect: the empty room |
-| 4.5 | Sixteen stab marks; ten, then two, struck; four left white | I | hard cuts as new impressions | 12 | counted marks |
-| 5.1 | The front door open, footprints in snow toward it, onlookers' silhouettes at the threshold | F | slow push | 16 | the disturbed scene |
-| 5.2 | Police lamps and a lab flask (CYANIDE in margin) | C | rack via peel | 14 | the lab |
-| 5.3 | Front page, ILLUSTRATIVE, headline carved: 帝銀事件 | I | snap zoom + hold | 12 | the name enters the press |
-| 5.4 | The empty doorway: WHO WAS THE DOCTOR? | M | locked | 8 | the question |
-| 6.1 | Banknotes stacked, ¥164,000 in margin | I | slow push | 10 | the money |
-| 6.2 | The cheque, ILLUSTRATIVE, ¥17,000 approx.; stamped "cashed next day" | I | track with knife | 12 | the cheque |
-| 6.3 | The vault door, closed; far more money left | M | crane up | 12 | what he didn't take |
+### Act II · dates
+| Ch | Cut | Layout | Sources | Finding |
+|---|---|---|---|---|
+| 7 | [0] | the 4 survivor dots lit, 12 rings dim; tag *four witnesses* | — | four sources |
+| 7 | [1] | witness card “≈ 40s–50s · composed · polite”, *survivor accounts, approximate* | testimony | the description |
+| 7 | [2] | dashed frame “composite image (not shown)”? no — a 4-column grid: one column per survivor, each lighting with differing marks (≈, ?) | — | recollections did not agree |
+| 7 | [7] | photo-array schematic: rows of blank frames ticked ×/? (*schematic*) | — | photograph after photograph |
+| 8 | [0] | date axis Oct 1947 → 26 Jan 1948: three pins YASUDA BANK · MITSUBISHI BANK · TEIKOKU BANK, red sync line on 26 Jan | — | three visits, one method |
+| 8 | [3] | photo: Dr. Shigeru Matsui (29 Jan 1948), circle + label “his card was used” | Asahi Graph | the real name |
+| 8 | [5] | schematic ledger: rows of card recipients (names not shown) | drawn | Matsui’s record |
+| 9 | [3] | the ledger: rows tick ✓ “card shown” one by one; a few “cleared otherwise” | drawn | a finite search |
+| 9 | [6] | schematic map of Japan (inverted line drawing), dotted route Tokyo → north; readout `SPRING–SUMMER 1948` | drawn | slow trains |
+| 9 | [8] | route reaches Hokkaido / Otaru, red ring | drawn | north |
+| 10 | [0] | photo: Hirasawa c. 1920 (Ishii Hakutei) + lower third “Sadamichi Hirasawa · b. 1892” | PD | the painter |
+| 10 | [1] | fact column lighting up: TEMPERA (pigment + egg) · OFFICIAL EXHIBITIONS | — | a respected painter |
+| 10 | [3] | readout `1925` · claim card “rabies vaccinations; family: personality changed” (*family account*) | — | troubled |
+| 10 | [6] | readout `1947` · two cards meet (schematic): MATSUI ⇄ HIRASAWA, *ferry* | — | the exchange |
+| 10 | [7] | the card slot left as a **red dashed box** “card not produced”, quote “wallet stolen” | — | the gap |
+| 11 | [0] | photo: Hirasawa 1951 portrait + lower third “56 · painter” | PD | the suspect |
+| 11 | [1] | photo: under questioning, Aug 1948, circle left figure; lower third “Arrested · Otaru · August 1948” | Asahi Graph | the arrest |
+| 11 | [2] | evidence board: CARD NOT PRODUCED ✓ · UNEXPLAINED MONEY ✓ · FRAUD RECORD ✓ (left) vs SURVIVOR ID: not firm · PHYSICAL EVIDENCE: none (right, dashed) | — | strong on paper |
 
-### Act II — The Hunt
+### Act III · months and years
+| Ch | Cut | Layout | Sources | Finding |
+|---|---|---|---|---|
+| 12 | [1] | document strip: Constitution Art. 38 (transcription), the two sentences highlighted red as spoken; readout `IN FORCE 3 MAY 1947` | Constitution | the new rule |
+| 12 | [2] | date axis May 1947 · Aug 1948 (arrest) · Jan 1949 (new Code); the case sits in the gap, red bracket | — | the old system |
+| 12 | [3] | photo: interrogation (Aug 1948) with three mono tags: LONG DETENTION · HOURS OF QUESTIONING · NO RECORDING | Asahi Graph | the room |
+| 13 | [0] | day counter `DAY 1 → DAY 30+` | — | weeks |
+| 13 | [2] | sync board: the Kanda extra (Sept 1948) + four readers of the same extra: prosecutor, police chief, inspector, defence lawyer — red sync line “HIRASAWA CONFESSES” | Asahi Graph ×5 | one moment, five sources |
+| 13 | [3] | claim card CONFESSED → struck red → RECANTED “forced out of him” | — | recanted |
+| 13 | [4] | claim card (supporters): “neurological condition · confusion · false memories” tag *supporters’ claim* | — | his health |
+| 14 | [0] | photo: first trial, 20 Dec 1948, circle Hirasawa; lower third “Tokyo District Court” | Asahi Graph | the trial |
+| 14 | [1] | two columns: DEFENCE (coerced confession · weak identification · poison unexplained) | — | the defence |
+| 14 | [2] | PROSECUTION column: confession · missing card · money · past | — | the case |
+| 14 | [3] | the poison row: present in neither column — a red dashed box between them | — | the gap at the centre |
+| 15 | [1] | schematic of the method: measured doses, two stages, delay `≈1 min` | drawn | skill |
+| 15 | [3] | map (schematic East Asia): NOBORITO (Kawasaki) · UNIT 731 (near Harbin), both ringed; tag THEORY · NOT PROVEN | drawn | who was questioned |
+| 15 | [5] | the inquiry line struck through: “line of inquiry dropped” | — | dropped |
+| 15 | [6] | dashed link from Harbin to Tokyo, “?” ; tags *immunity (documented)* vs *link to Teigin (theory)* | — | the theory |
+| 16 | [0] | map push to Harbin, lower third “Unit 731 · commander Shirō Ishii” | drawn | the unit |
+| 16 | [2] | known / unresolved begins: KNOWN: leaders not tried · research passed to the US | — | the arrangement |
+| 16 | [5] | date axis 1948 · 1970s–80s “came to public attention” | — | hidden for decades |
+| 16 | [6] | claim card: detective’s notes (published later) ✓ interviews 1948 | — | the notes |
+| 16 | [7] | UNRESOLVED: “document showing GHQ stopped the inquiry: none found”, dashed; THEORY tag | — | still a theory |
 
-| # | Plate | Framing | Move | ≈ s | Why |
-|---|---|---|---|---|---|
-| 7.1 | Four white silhouettes (the survivors) seen from behind, facing an empty frame | M | locked | 18 | four witnesses, anonymous |
-| 7.2 | The composite: a face built from carved strokes, slowly, by stages (generic, invented features) | C | carve reveal | 18 | the composite |
-| 7.3 | Posters of the composite pasted along a station wall, repeated | W | track | 12 | "across the country" |
-| 7.4 | Photographs dealt like cards, faces blank | I | hard cuts | 10 | "photograph after photograph" |
-| 8.1 | Timeline carved left→right: Oct 1947 Yasuda Bank · 19 Jan 1948 Mitsubishi Bank · 26 Jan 1948 Teigin | W | track with knife | 22 | three visits |
-| 8.2 | Card: Dr. Shigeru Matsui (ILLUSTRATIVE) | I | macro push | 12 | the real name on the card |
-| 8.3 | Matsui's card ledger, rows of names (invented, illegible) | C | pan down | 12 | the list |
-| 9.1 | Ledger rows crossed off one by one (knife strikes) | C | locked, hard cuts | 20 | patient work |
-| 9.2 | Steam train crossing a carved landscape | W | track | 20 | slow crowded trains |
-| 9.3 | Map of Japan: route Tokyo → north → Hokkaido, Otaru | W map | track with knife | 20 | the trail north |
-| 10.1 | Otaru harbour: masts, warehouses | W | slow pull | 18 | the port city |
-| 10.2 | A tempera still life: flowers in a vase, painted-then-carved | C | macro push | 18 | the painter |
-| 10.3 | Syringe/vaccine vial, 1925 in margin | I | locked | 14 | the rabies vaccination |
-| 10.4 | Ferry on the sea, two cards passing between hands | M | track | 16 | the exchange |
-| 10.5 | Empty wallet, open | I | snap zoom | 8 | "his wallet had been stolen" |
-| 11.1 | Portrait of Hirasawa (re-cut photo if licensed, else carved silhouette) + name card | C | slow push | 16 | the suspect |
-| 11.2 | Scales: card / money / record vs. no identification / no poison | M | locked | 20 | the case on paper |
-
-### Act III — The Confession and the Court
-
-| # | Plate | Framing | Move | ≈ s | Why |
-|---|---|---|---|---|---|
-| 12.1 | Constitution page (1947) vs. Code of Criminal Procedure (1949): two documents, dates | M | rack via peel | 22 | two systems |
-| 12.2 | Police cell bars, a single bulb, a table and two chairs | W, frame in frame | slow push | 24 | the room |
-| 13.1 | Calendar leaves tearing, days carved off | I | hard cuts | 14 | weeks |
-| 13.2 | Brush/pen signature on a confession sheet, ILLUSTRATIVE; then a line struck through | I | track with knife | 14 | confess / recant |
-| 13.3 | A head in profile, lines of hatching dissolving into confusion (stab flecks) | C | slow push | 14 | neurological condition |
-| 14.1 | Tokyo District Court: columns, benches, a raised bench | W | crane down | 20 | the court |
-| 14.2 | An empty vial on a table, a question mark carved in its shadow | C | snap zoom hold | 20 | the gap: the poison |
-| 15.1 | The dropper and two doses, diagrammed as carved arrows (two-stage) | I | locked | 18 | the skill |
-| 15.2 | Map: Noborito (Kawasaki) and Harbin across the sea; labelled THEORY | W map | track knife | 22 | the line of inquiry |
-| 15.3 | A file folder closed and tied; margin THEORY · NOT PROVEN | M | slow push | 22 | dropped |
-| 16.1 | Harbin, Manchuria map, compound block silhouette (no prisoners shown) | W | pull back | 20 | Unit 731 base |
-| 16.2 | Two pairs of hands exchange a sealed box of papers across a table (immunity), THEORY label in margin applies to the Teigin link only | M | locked | 22 | the arrangement |
-| 16.3 | Detective's notebook, ILLUSTRATIVE, pages turning | I | macro push | 20 | the notes |
-
-### Act IV — Thirty-Nine Years
-
-| # | Plate | Framing | Move | ≈ s | Why |
-|---|---|---|---|---|---|
-| 17.1 | Gavel-less court: DEATH SENTENCE 1950 / UPHELD 1955 carved | M | hard cut impressions | 12 | verdict |
-| 17.2 | Execution order, ILLUSTRATIVE: signature line blank, empty oxblood seal ring | I | slow push | 18 | the unsigned order |
-| 18.1 | Stack of orders, one per minister, years printed over one another (1955 … 1987), each seal ring empty | C | crane up as stack rises | 24 | minister after minister |
-| 18.2 | The cell door, peephole; a strip of light under it | F, frame in frame | locked, held | 18 | limbo |
-| 19.1 | Petitions and books stacked; names in margin: Tetsurō Morikawa, Seichō Matsumoto, Kei Kumai (1964), William Triplett (1985) | M | track | 26 | campaigns |
-| 19.2 | Paintings hung in a gallery, viewers' silhouettes | W | pull back | 18 | his work outside |
-| 20.1 | The cell, a brush laid down, a small painting on the wall | C | slow push, near-silence | 16 | 10 May 1987, aged 95 |
-| 21.1 | Bank front again, empty; an armband on a hook (no figure) | W | locked | 20 | armband, story, trust |
-| 21.2 | Retrial / exoneration: four doors opening onto light (no names) | W | crane up | 20 | justice itself |
-| 21.3 | Twelve marks, printed in oxblood one by one, then a line: "twelve people" | C | locked, hard cuts | 20 | the twelve |
-| 22.1 | The side door, as in 1.1, with its corner left uncarved | W | slow pull back | 24 | the bookend |
-| E | End credits card (sources), then "In memory of the twelve people who died on 26 January 1948" | — | locked | 22 | close |
+### Act IV · decades
+| Ch | Cut | Layout | Sources | Finding |
+|---|---|---|---|---|
+| 17 | [0] | readout `1950` DEATH SENTENCE; [1] `1955` UPHELD · SUPREME COURT | — | the verdict |
+| 17 | [2] | schematic execution order: signature box dashed red, *not signed* | drawn | never carried out |
+| 17 | [4] | retrial requests stacking: REQUEST · REJECTED (repeated, no count) | — | rejected |
+| 18 | [0] | year axis 1955 → 1987 with a red playhead running; the signature box stays empty | — | minister after minister |
+| 18 | [3] | three reasons from the record: RETRACTED CONFESSION · POISON · IDENTIFICATION | — | the doubts |
+| 18 | [4] | counter of years under sentence | — | limbo |
+| 19 | [0] | timeline 1960s → 1985: ASSOCIATION (Tetsurō Morikawa) · Seichō Matsumoto · 1964 film (Kei Kumai) · 1985 book (William Triplett) | — | the campaigns |
+| 19 | [4] | photo: Hirasawa c. 1920 again, with “kept painting in his cell” | PD | still working |
+| 20 | [0] | counters: `39 YEARS` in prison · `32` on death row | — | the time |
+| 20 | [2] | near-silence; readout `10 MAY 1987` · “aged 95 · prison hospital” | — | his death |
+| 21 | [1] | three words: ARMBAND · STORY · TRUST | — | how it was done |
+| 21 | [3] | statement “1980s: death-row prisoners exonerated at retrial” (no names) | — | justice itself |
+| 21 | [5] | the 16 dots once more; 12 red open rings; “clerks and a caretaker’s family” | — | the twelve |
+| 22 | [0] | photo: Hirasawa 1951, “adopted son continued the fight” | PD | after him |
+| 22 | [1] | KNOWN / UNRESOLVED board: known = locked facts; unresolved = the three questions, each in a red dashed box, held | — | the ending |
+| E | credits | sources card; then 12 red rings + “In memory of the twelve people who died on 26 January 1948” | — | — |
 
 ## 7. Beat sheet (top level)
-
-| t (approx.) | Beat |
-|---|---|
-| 0:00 | Title card I. Clock at 3:18, knife carves the minute hand to 3:20. |
-| 0:04 | Narration begins: "Tokyo, January 26, 1948." |
-| 0:40 | Main title THE TEIGIN INCIDENT carved and pulled (4.6 s). |
-| ~2:00 | The visitor at the side door. |
-| ~3:20 | The cups. Near-silence under "They did as he said." Single tam-tam on "Ten people died at the bank." |
-| ~5:30 | Act II: the sketch, the earlier attempts, the card trail. |
-| ~9:30 | Hirasawa. |
-| ~10:40 | Act III: interrogation, confession, court, the theory. |
-| ~15:00 | Act IV: the verdict, the unsigned orders. |
-| ~17:40 | Thirty-Nine Years. Second near-silence before "On May 10, 1987". |
-| ~18:10 | Legacy: twelve oxblood marks. |
-| ~19:00 | The door, uncarved corner; end credits; dedication. |
-
-Exact times come from `timeline.json`, generated from the measured narration.
+0:00 slate I · 0:04 clock 15:00→15:20 · 0:09 map push to Shiinamachi · 0:17 sixteen dots · 0:21 twelve rings · 0:38 main title · ~3:20 the cups (re-enactment) · ~4:05 near-silence, the count · ~5:30 Act II · ~9:40 Hirasawa · ~11:00 Act III · ~13:10 the confession sync board · ~15:40 Act IV · ~18:30 the twelve · ~19:00 known / unresolved · ~19:15 credits. Exact times come from `timeline.json`.
 
 ## 8. Cue map
-
-Score mostly unmetered (drones), with a grid where the story counts or travels.
-
-| Section | Tempo / grid | Instruments | Hits |
-|---|---|---|---|
-| Title cards | free | knife-into-wood foley, one log-drum stroke on the pull | peel on card end |
-| I. Afternoon (1–3) | 60 bpm, woodblock as a clock tick (soft) | contrabass + cello drone on D, woodblock tick, frame drum on knocks | 3 knocks on 3.1 |
-| Cups (4) | ticks stop; drone thins to bowed drone only | bowed drone, then near-silence | **tam-tam** on "Ten people died at the bank." |
-| Alarm / money (5–6) | 72 bpm pizzicato ostinato, low | pizz. contrabass, log drum | snap zoom on headline = gran cassa |
-| II. Hunt (7–11) | 84 bpm, 4/4: pizzicato cellos, log drum walking pattern; train rhythm in 9 | pizz. strings, log drum, woodblock, frame drum | each name crossed = woodblock |
-| III. Court (12–16) | slower 56 bpm, held cello lines; drone shifts mode (D → E♭) for the theory | cello, contrabass arco, synth struck metal (modal) for THEORY plates | struck metal on each THEORY label |
-| IV. Years (17–20) | free; low pedal; each year impression = soft gran cassa + paper | contrabass drone, frame drum, struck metal | near-silence before "On May 10, 1987" |
-| Legacy / end (21–22, credits) | 48 bpm, cello line returns to D | cello, contrabass, bowed drone, frame drum | twelve soft log-drum strokes for the twelve marks |
-
-Music sits ~8 dB under voice (sidechain duck), foley ducks too.
+- Bed: low D (contrabass + cellos) throughout, filtered room tone −30 dB under voice.
+- Act I (minutes): pendulum tick every 0.5 s, louder on the clock readouts; quiet pizzicato ostinato in eighths, Dm – B♭ – Gm – A, 90 bpm (one tick = one eighth).
+- Ch. 4: tick stops at “They did as he said”; one deep thump; near-silence (room tone only) through the count; the bed returns on ch. 5.
+- Act II (dates): ostinato continues, sparser; each ✓ = small mallet note; date pins = paper.
+- Act III: tremolo minor-second clusters for the confession and the THEORY plates; slow sustained chords for the court columns.
+- Act IV (decades): the year playhead ticks one per year (soft); near-silence before “On May 10, 1987”; the known / unresolved board: slow sustained chords resolving to D minor add9 with vibraphone.
+- Music ducks −9 dB under voice.
 
 ## 9. Sound design table
-
 | Section | Ambience | Foley | Music |
 |---|---|---|---|
-| Title cards | paper room tone | knife into wood, chips, brayer, baren rasp, peel | silent or last chord tail |
-| Act I | winter wind, faint distant tram | clock tick, knocks, door, cups (small ceramic modal clinks), dropper (single drip) | drone + tick |
-| Cups / empty room | near-silence | one drip, one ceramic rattle | tam-tam once |
-| Act II | station hubbub (filtered noise), steam train chuff | paper shuffles, cards, stamp, knife strikes for crossed names, train | pizz. ostinato |
-| Act III | room tone with a hum (bulb) | chair scrape, pen scratch, gavel-free court: paper | cello / struck metal |
-| Act IV | quiet room tone, distant footsteps | cell door clank (large metal, low), brush on paper, stack of paper | drone |
-| Legacy / end | wind | twelve woodblock-soft strokes, final peel | cello resolves |
+| Slates | room tone | white-flash click, paper | bed tail |
+| Act I | room tone, distant street | pendulum, paper, shutter on photos, pencil on the plan, knock (×3, schematic plan) | bed + ostinato |
+| Cups / count | near-silence | one deep thump, nothing on the rings | silence |
+| Act II | room tone | paper cards, ✓ mallets, typewriter keys for the ledger | ostinato, sparse |
+| Act III | room tone + faint hum | paper, shutter, red strike (pencil scratch), keys | clusters / chords |
+| Act IV | room tone | year ticks, paper | bed, chords, D minor add9 + vibraphone |
 
 ## 10. Transitions
-
-- Within a chapter: hard cut = a new impression (two frames of misregistration), on a music beat where there is a grid.
-- Into every chapter title card: the paper peel (brayer → paper → baren → peel), carrying the last chapter's ambience over (L-cut) and bringing the next chapter's ambience in early (J-cut).
-- Never a dissolve.
+Hard cuts on a 0.5 s grid with a 3–4-frame white flash; the slate cuts in the same way. No dissolves, no page turns, no camera moves between layouts (pushes only inside a frame: ≤ 1.9× on the map, ≤ 1.06× on photos).
 
 ## 11. Native moves used
-
-- **Mirrored block → true print**: every chapter title, and the final "In memory of" line.
-- **The one colour plate spreads and withdraws**: the liquid in sixteen cups → gone → twelve marks at the end.
-- **Stab cuts as texture**: counted marks; snow; confusion in 13.3.
-- **Filter a sculpt or a frame**: close-ups (cups, card, vial, hands) sculpted as height fields and run through `woodcutFilter`; the Hirasawa portrait if a licensed photo exists.
-- **Signature shot**: plate 4.3 → 4.4: the oxblood cups pull back to the empty tray in near-silence.
+Freeze-circle-magnify (the re-enactment cups); dots for people (ch. 1, 4, 21); then vs record (gas / food poisoning → cyanide); hard sync point (the confession extra, five sources); map → place (AMS sheet to Shiinamachi); known / unresolved (ch. 22, the ending); readouts change scale per act.

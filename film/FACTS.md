@@ -31,6 +31,43 @@ Every `[VERIFY]` note in the locked script, with the sentence it qualifies. Thes
 - Hirasawa was arrested in August 1948 in Otaru, confessed after weeks of interrogation, then recanted. Sentenced to death in 1950, upheld in 1955, never executed. Died 10 May 1987, aged 95, in a prison hospital.
 - The Unit 731 / Noborito link is a theory, not proven; always labelled THEORY · NOT PROVEN on screen.
 
-## On-screen text beyond the narration
+## On-screen text beyond the narration (please check)
 
-(Filled in as plates are built: every date, number, place label and caption that appears in a plate.)
+Style: Visual Investigation. Everything below appears on screen but is not said in the narration. Inferences are marked ≈ / *inferred* / *schematic* in the picture.
+
+| Ch | On screen | Basis | Status |
+|---|---|---|---|
+| 1 | Clock `15:00:00` on Mon 26 Jan 1948, `≈15:20` (ch. 3) | 26 Jan 1948 was a Monday; 3:20 pm from the script | ✓ calendar / script |
+| 1 | Shiinamachi Station on the AMS 1:12,500 sheet (1945–46); branch “≈ near the station · position inferred” | station printed on the map; branch location not on the map | inferred, marked |
+| 1, 4, 21 | 16 dots → 12 red rings, 4 survivors; `≈ 30 min` | locked facts; “within half an hour” (script) | ✓ |
+| 2 | “Bombed area” ring on Asakusa / Ueno; legend “Built-up area, Bombed area” | AMS sheet legend; built-up (yellow) darkened in the grade, noted in the tag | ✓ map |
+| 2 | GHQ = Dai-Ichi Seimei Building, Hibiya | AWM captions C327990 / C287348 | ✓ |
+| 2 | DDT disinfection photos: Otake repatriation centre, 1946 | AWM captions; used as illustration of occupation public health, not Tokyo | labelled |
+| 3 | “What he said” cards: outbreak of dysentery nearby; occupation authorities ordered everyone to take medicine before leaving | script wording, set as reported speech | script |
+| 4 | Re-enactment stills: Hirasawa made to re-enact, Sep 1948 (police film) | Commons/Asahi Graph caption | ✓ |
+| 4 | “DOSE 1 → ≈ 1 min → DOSE 2”, “swallow the first dose in one go” | script; **[VERIFY: dropper and wording]** | verify |
+| 5 | Horisaki Shigeki, head of the MPD First Investigation Division (photo Sep 1948, reading the extra) | Commons caption 捜査一課長 | ✓ caption |
+| 5 | 帝國銀行 事件 → 帝 + 銀 = “Teigin”; readout 27 JAN 1948 | name of the bank; “the next morning” | ✓ |
+| 6 | “CASHED · 27 JAN 1948 · at another bank” | locked fact (next day) | ✓ |
+| 7 | Survivors’ description list with ≈ | script; **[VERIFY: description]** | verify |
+| 7 | Four-column “recollections did not agree” and the photo array | schematic, marked | schematic |
+| 8 | Date axis: Yasuda Bank Oct 1947, Mitsubishi Bank 19 Jan 1948, Teikoku Bank 26 Jan 1948; “harmless liquid · nobody hurt” | locked facts / script; **[VERIFY: Mitsubishi staff may have drunk nothing]** | verify |
+| 8 | Dr. Shigeru Matsui photo, 29 Jan 1948 | Commons caption | ✓ |
+| 8–9 | Card record (rows, names withheld), “card shown / cleared otherwise / open” | schematic; **[VERIFY: number of names]** — no count shown | schematic |
+| 9 | Route Tokyo → Sendai → Aomori → Hakodate → Sapporo → Otaru | schematic route, not the detectives’ documented itinerary | schematic |
+| 10 | Born 1892, grew up partly in Otaru; tempera; 1925 vaccinations; 1947 ferry exchange | script; **[VERIFY: birthplace, honours, 1925, ferry]** | verify |
+| 11 | Interrogation photo, Aug 1948, Hirasawa on the left | Commons caption | ✓ |
+| 12 | Constitution Art. 38 (three sentences, official English); in force 3 May 1947 | Constitution of Japan | ✓ (check wording against the official text) |
+| 12 | Axis: Constitution May 1947 · arrest Aug 1948 · new Code Jan 1949; “handled under the older system” | script; **[VERIFY: which code governed the case]** | verify |
+| 13 | Extra edition “Hirasawa confesses”, Sep 1948; readers: prosecutor Takagi Hajime, police (Horisaki), Inspector Ikii Tamegorō, defence lawyer Yamada Yoshio | Commons captions | ✓ |
+| 14 | First hearing 20 Dec 1948, Tokyo District Court | Commons caption of the trial photo | ✓ |
+| 15 | Map: Noborito Research Institute (Kawasaki), Unit 731 (near Harbin); dashed “?” link; THEORY · NOT PROVEN | script; locked rule | theory, marked |
+| 15 | “US immunity for Unit 731’s leaders in exchange for data · documented” | script | ✓ (widely documented) |
+| 16 | Known: US officials questioned Ishii; leaders never tried; research passed to the US; public only in 1970s–80s; 1948 interviews in a detective’s notes. Unresolved: a document showing GHQ stopped the inquiry (“none found”); the link to Teigin | script; **[VERIFY: dates; the detective’s notes]** | verify |
+| 17 | Execution order form with an empty “Minister of Justice” signature box | schematic, marked | schematic |
+| 17 | Retrial requests “REJECTED” ×6 rows, “count not shown” | illustrative repetition, no number claimed | schematic |
+| 18 | Year playhead 1955 → 1987 | locked dates | ✓ |
+| 19 | Early 1960s association (Tetsurō Morikawa); Seichō Matsumoto pinned ≈1960; 1964 film (Kei Kumai); 1985 *Flowering of the Bamboo* (William Triplett) | script; **[VERIFY: name and year; titles and dates]**; Matsumoto’s pin position (≈1960) is my estimate | verify |
+| 20 | 39 years in prison, 32 on death row, 10 May 1987, aged 95, pneumonia, prison hospital | locked facts / script | ✓ |
+| 21 | “1980s: death-row prisoners exonerated at retrial” (no names) | script; **[VERIFY]** | verify |
+| 22 | Known / unresolved board (locked facts + the three questions) | script | ✓ |

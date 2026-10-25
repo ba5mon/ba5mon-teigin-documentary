@@ -1,0 +1,4126 @@
+{
+ "dur": 1184.588,
+ "card": 4.0,
+ "segs": [
+  {
+   "kind": "card",
+   "ch": 1,
+   "num": "I",
+   "title": "Cold Open",
+   "t0": 0.0,
+   "t1": 4.0
+  },
+  {
+   "kind": "ch",
+   "ch": 1,
+   "title": "Cold Open",
+   "t0": 4.0,
+   "t1": 38.479,
+   "audio": "audio/ch01.wav",
+   "cues": [
+    [
+     4.3,
+     8.204
+    ],
+    [
+     8.624,
+     16.475
+    ],
+    [
+     16.895,
+     20.223
+    ],
+    [
+     20.643,
+     29.219
+    ],
+    [
+     30.119,
+     37.479
+    ]
+   ]
+  },
+  {
+   "kind": "main",
+   "t0": 38.479,
+   "t1": 43.079
+  },
+  {
+   "kind": "card",
+   "ch": 2,
+   "num": "II",
+   "title": "Japan in 1948",
+   "t0": 43.079,
+   "t1": 47.079
+  },
+  {
+   "kind": "ch",
+   "ch": 2,
+   "title": "Japan in 1948",
+   "t0": 47.079,
+   "t1": 123.903,
+   "audio": "audio/ch02.wav",
+   "cues": [
+    [
+     47.379,
+     51.902
+    ],
+    [
+     52.322,
+     55.564
+    ],
+    [
+     55.984,
+     63.152
+    ],
+    [
+     63.572,
+     72.682
+    ],
+    [
+     73.102,
+     76.28
+    ],
+    [
+     77.18,
+     87.57
+    ],
+    [
+     87.99,
+     90.614
+    ],
+    [
+     91.034,
+     108.143
+    ],
+    [
+     108.563,
+     116.051
+    ],
+    [
+     116.951,
+     122.903
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 3,
+   "num": "III",
+   "title": "The Visitor",
+   "t0": 123.903,
+   "t1": 127.903
+  },
+  {
+   "kind": "ch",
+   "ch": 3,
+   "title": "The Visitor",
+   "t0": 127.903,
+   "t1": 165.362,
+   "audio": "audio/ch03.wav",
+   "cues": [
+    [
+     128.203,
+     134.048
+    ],
+    [
+     134.468,
+     143.322
+    ],
+    [
+     144.222,
+     148.318
+    ],
+    [
+     148.738,
+     158.658
+    ],
+    [
+     159.078,
+     161.616
+    ],
+    [
+     162.036,
+     164.362
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 4,
+   "num": "IV",
+   "title": "The Medicine",
+   "t0": 165.362,
+   "t1": 169.362
+  },
+  {
+   "kind": "ch",
+   "ch": 4,
+   "title": "The Medicine",
+   "t0": 169.362,
+   "t1": 238.753,
+   "audio": "audio/ch04.wav",
+   "cues": [
+    [
+     169.662,
+     176.019
+    ],
+    [
+     176.439,
+     178.274
+    ],
+    [
+     178.694,
+     187.483
+    ],
+    [
+     187.903,
+     191.103
+    ],
+    [
+     192.003,
+     195.31
+    ],
+    [
+     195.73,
+     208.999
+    ],
+    [
+     209.899,
+     211.521
+    ],
+    [
+     211.941,
+     214.97
+    ],
+    [
+     215.39,
+     221.171
+    ],
+    [
+     221.591,
+     224.279
+    ],
+    [
+     225.179,
+     227.27
+    ],
+    [
+     227.69,
+     230.335
+    ],
+    [
+     230.755,
+     237.753
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 5,
+   "num": "V",
+   "title": "After the Alarm",
+   "t0": 238.753,
+   "t1": 242.753
+  },
+  {
+   "kind": "ch",
+   "ch": 5,
+   "title": "After the Alarm",
+   "t0": 242.753,
+   "t1": 293.862,
+   "audio": "audio/ch05.wav",
+   "cues": [
+    [
+     243.053,
+     249.624
+    ],
+    [
+     250.044,
+     253.905
+    ],
+    [
+     254.325,
+     260.853
+    ],
+    [
+     261.753,
+     269.497
+    ],
+    [
+     269.917,
+     272.605
+    ],
+    [
+     273.025,
+     283.222
+    ],
+    [
+     284.122,
+     290.842
+    ],
+    [
+     291.262,
+     292.862
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 6,
+   "num": "VI",
+   "title": "The Money Left Behind",
+   "t0": 293.862,
+   "t1": 297.862
+  },
+  {
+   "kind": "ch",
+   "ch": 6,
+   "title": "The Money Left Behind",
+   "t0": 297.862,
+   "t1": 332.178,
+   "audio": "audio/ch06.wav",
+   "cues": [
+    [
+     298.162,
+     309.383
+    ],
+    [
+     309.803,
+     311.041
+    ],
+    [
+     311.461,
+     314.682
+    ],
+    [
+     315.582,
+     320.745
+    ],
+    [
+     321.165,
+     323.255
+    ],
+    [
+     323.675,
+     328.113
+    ],
+    [
+     328.533,
+     331.178
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 7,
+   "num": "VII",
+   "title": "The Survivors and the Sketch",
+   "t0": 332.178,
+   "t1": 336.178
+  },
+  {
+   "kind": "ch",
+   "ch": 7,
+   "title": "The Survivors and the Sketch",
+   "t0": 336.178,
+   "t1": 392.429,
+   "audio": "audio/ch07.wav",
+   "cues": [
+    [
+     336.478,
+     342.601
+    ],
+    [
+     343.021,
+     353.154
+    ],
+    [
+     354.054,
+     358.619
+    ],
+    [
+     359.039,
+     368.191
+    ],
+    [
+     368.611,
+     370.574
+    ],
+    [
+     371.474,
+     373.927
+    ],
+    [
+     374.347,
+     382.689
+    ],
+    [
+     383.109,
+     391.429
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 8,
+   "num": "VIII",
+   "title": "The Earlier Attempts",
+   "t0": 392.429,
+   "t1": 396.429
+  },
+  {
+   "kind": "ch",
+   "ch": 8,
+   "title": "The Earlier Attempts",
+   "t0": 396.429,
+   "t1": 442.606,
+   "audio": "audio/ch08.wav",
+   "cues": [
+    [
+     396.729,
+     400.804
+    ],
+    [
+     401.224,
+     416.69
+    ],
+    [
+     417.11,
+     421.868
+    ],
+    [
+     422.768,
+     426.16
+    ],
+    [
+     426.58,
+     430.889
+    ],
+    [
+     431.309,
+     438.733
+    ],
+    [
+     439.153,
+     441.606
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 9,
+   "num": "IX",
+   "title": "The Card Trail",
+   "t0": 442.606,
+   "t1": 446.606
+  },
+  {
+   "kind": "ch",
+   "ch": 9,
+   "title": "The Card Trail",
+   "t0": 446.606,
+   "t1": 506.541,
+   "audio": "audio/ch09.wav",
+   "cues": [
+    [
+     446.906,
+     453.157
+    ],
+    [
+     453.577,
+     457.929
+    ],
+    [
+     458.349,
+     464.898
+    ],
+    [
+     465.318,
+     473.787
+    ],
+    [
+     474.687,
+     475.818
+    ],
+    [
+     476.238,
+     479.673
+    ],
+    [
+     480.093,
+     493.917
+    ],
+    [
+     494.817,
+     502.134
+    ],
+    [
+     502.554,
+     505.541
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 10,
+   "num": "X",
+   "title": "The Painter",
+   "t0": 506.541,
+   "t1": 510.541
+  },
+  {
+   "kind": "ch",
+   "ch": 10,
+   "title": "The Painter",
+   "t0": 510.541,
+   "t1": 574.209,
+   "audio": "audio/ch10.wav",
+   "cues": [
+    [
+     510.841,
+     518.244
+    ],
+    [
+     518.664,
+     527.368
+    ],
+    [
+     527.788,
+     539.436
+    ],
+    [
+     540.336,
+     542.832
+    ],
+    [
+     543.252,
+     552.958
+    ],
+    [
+     553.378,
+     557.154
+    ],
+    [
+     558.054,
+     565.18
+    ],
+    [
+     565.6,
+     570.57
+    ],
+    [
+     570.99,
+     573.209
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 11,
+   "num": "XI",
+   "title": "The Suspect",
+   "t0": 574.209,
+   "t1": 578.209
+  },
+  {
+   "kind": "ch",
+   "ch": 11,
+   "title": "The Suspect",
+   "t0": 578.209,
+   "t1": 615.768,
+   "audio": "audio/ch11.wav",
+   "cues": [
+    [
+     578.509,
+     586.85
+    ],
+    [
+     587.27,
+     593.564
+    ],
+    [
+     594.464,
+     597.322
+    ],
+    [
+     597.742,
+     600.217
+    ],
+    [
+     600.637,
+     604.306
+    ],
+    [
+     604.726,
+     607.116
+    ],
+    [
+     607.536,
+     614.768
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 12,
+   "num": "XII",
+   "title": "Inside the Interrogation Room",
+   "t0": 615.768,
+   "t1": 619.768
+  },
+  {
+   "kind": "ch",
+   "ch": 12,
+   "title": "Inside the Interrogation Room",
+   "t0": 619.768,
+   "t1": 666.477,
+   "audio": "audio/ch12.wav",
+   "cues": [
+    [
+     620.068,
+     624.548
+    ],
+    [
+     624.968,
+     637.875
+    ],
+    [
+     638.295,
+     653.761
+    ],
+    [
+     654.661,
+     665.477
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 13,
+   "num": "XIII",
+   "title": "The Confession",
+   "t0": 666.477,
+   "t1": 670.477
+  },
+  {
+   "kind": "ch",
+   "ch": 13,
+   "title": "The Confession",
+   "t0": 670.477,
+   "t1": 710.596,
+   "audio": "audio/ch13.wav",
+   "cues": [
+    [
+     670.777,
+     673.913
+    ],
+    [
+     674.333,
+     676.594
+    ],
+    [
+     677.014,
+     680.62
+    ],
+    [
+     681.04,
+     687.909
+    ],
+    [
+     688.809,
+     691.668
+    ],
+    [
+     692.088,
+     701.816
+    ],
+    [
+     702.236,
+     709.596
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 14,
+   "num": "XIV",
+   "title": "In Court",
+   "t0": 710.596,
+   "t1": 714.596
+  },
+  {
+   "kind": "ch",
+   "ch": 14,
+   "title": "In Court",
+   "t0": 714.596,
+   "t1": 754.201,
+   "audio": "audio/ch14.wav",
+   "cues": [
+    [
+     714.896,
+     720.933
+    ],
+    [
+     721.353,
+     738.697
+    ],
+    [
+     739.597,
+     746.445
+    ],
+    [
+     746.865,
+     753.201
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 15,
+   "num": "XV",
+   "title": "The Unit 731 Theory",
+   "t0": 754.201,
+   "t1": 758.201
+  },
+  {
+   "kind": "ch",
+   "ch": 15,
+   "title": "The Unit 731 Theory",
+   "t0": 758.201,
+   "t1": 828.546,
+   "audio": "audio/ch15.wav",
+   "cues": [
+    [
+     758.501,
+     764.496
+    ],
+    [
+     765.396,
+     767.977
+    ],
+    [
+     768.397,
+     776.12
+    ],
+    [
+     776.54,
+     783.068
+    ],
+    [
+     783.488,
+     799.168
+    ],
+    [
+     800.068,
+     802.585
+    ],
+    [
+     803.005,
+     813.416
+    ],
+    [
+     813.836,
+     821.302
+    ],
+    [
+     821.722,
+     827.546
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 16,
+   "num": "XVI",
+   "title": "The Immunity Deal",
+   "t0": 828.546,
+   "t1": 832.546
+  },
+  {
+   "kind": "ch",
+   "ch": 16,
+   "title": "The Immunity Deal",
+   "t0": 832.546,
+   "t1": 900.054,
+   "audio": "audio/ch16.wav",
+   "cues": [
+    [
+     832.846,
+     841.038
+    ],
+    [
+     841.458,
+     849.373
+    ],
+    [
+     850.273,
+     855.222
+    ],
+    [
+     855.642,
+     862.575
+    ],
+    [
+     862.995,
+     866.345
+    ],
+    [
+     866.765,
+     876.727
+    ],
+    [
+     877.627,
+     890.875
+    ],
+    [
+     891.295,
+     896.458
+    ],
+    [
+     896.878,
+     899.054
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 17,
+   "num": "XVII",
+   "title": "The Verdict",
+   "t0": 900.054,
+   "t1": 904.054
+  },
+  {
+   "kind": "ch",
+   "ch": 17,
+   "title": "The Verdict",
+   "t0": 904.054,
+   "t1": 933.705,
+   "audio": "audio/ch17.wav",
+   "cues": [
+    [
+     904.354,
+     908.258
+    ],
+    [
+     908.678,
+     913.457
+    ],
+    [
+     914.357,
+     916.853
+    ],
+    [
+     917.273,
+     925.358
+    ],
+    [
+     925.778,
+     930.493
+    ],
+    [
+     930.913,
+     932.705
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 18,
+   "num": "XVIII",
+   "title": "The Ministers Who Would Not Sign",
+   "t0": 933.705,
+   "t1": 937.705
+  },
+  {
+   "kind": "ch",
+   "ch": 18,
+   "title": "The Ministers Who Would Not Sign",
+   "t0": 937.705,
+   "t1": 980.576,
+   "audio": "audio/ch18.wav",
+   "cues": [
+    [
+     938.005,
+     944.704
+    ],
+    [
+     945.124,
+     946.574
+    ],
+    [
+     946.994,
+     952.136
+    ],
+    [
+     952.556,
+     961.046
+    ],
+    [
+     961.946,
+     964.101
+    ],
+    [
+     964.521,
+     968.126
+    ],
+    [
+     968.546,
+     979.576
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 19,
+   "num": "XIX",
+   "title": "The Retrial Campaigns",
+   "t0": 980.576,
+   "t1": 984.576
+  },
+  {
+   "kind": "ch",
+   "ch": 19,
+   "title": "The Retrial Campaigns",
+   "t0": 984.576,
+   "t1": 1030.163,
+   "audio": "audio/ch19.wav",
+   "cues": [
+    [
+     984.876,
+     988.225
+    ],
+    [
+     988.645,
+     996.667
+    ],
+    [
+     997.087,
+     1009.567
+    ],
+    [
+     1009.987,
+     1015.981
+    ],
+    [
+     1016.881,
+     1023.601
+    ],
+    [
+     1024.021,
+     1029.163
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 20,
+   "num": "XX",
+   "title": "Thirty-Nine Years",
+   "t0": 1030.163,
+   "t1": 1034.163
+  },
+  {
+   "kind": "ch",
+   "ch": 20,
+   "title": "Thirty-Nine Years",
+   "t0": 1034.163,
+   "t1": 1056.847,
+   "audio": "audio/ch20.wav",
+   "cues": [
+    [
+     1034.463,
+     1042.399
+    ],
+    [
+     1042.819,
+     1044.611
+    ],
+    [
+     1045.031,
+     1055.847
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 21,
+   "num": "XXI",
+   "title": "Legacy",
+   "t0": 1056.847,
+   "t1": 1060.847
+  },
+  {
+   "kind": "ch",
+   "ch": 21,
+   "title": "Legacy",
+   "t0": 1060.847,
+   "t1": 1124.94,
+   "audio": "audio/ch21.wav",
+   "cues": [
+    [
+     1061.147,
+     1063.92
+    ],
+    [
+     1064.34,
+     1075.732
+    ],
+    [
+     1076.632,
+     1080.152
+    ],
+    [
+     1080.572,
+     1094.61
+    ],
+    [
+     1095.03,
+     1107.531
+    ],
+    [
+     1108.431,
+     1123.94
+    ]
+   ]
+  },
+  {
+   "kind": "card",
+   "ch": 22,
+   "num": "XXII",
+   "title": "The Questions Remain",
+   "t0": 1124.94,
+   "t1": 1128.94
+  },
+  {
+   "kind": "ch",
+   "ch": 22,
+   "title": "The Questions Remain",
+   "t0": 1128.94,
+   "t1": 1156.588,
+   "audio": "audio/ch22.wav",
+   "cues": [
+    [
+     1129.24,
+     1138.968
+    ],
+    [
+     1139.388,
+     1141.607
+    ],
+    [
+     1142.027,
+     1143.776
+    ],
+    [
+     1144.196,
+     1155.588
+    ]
+   ]
+  },
+  {
+   "kind": "credits",
+   "t0": 1156.588,
+   "t1": 1184.588
+  }
+ ],
+ "subs": [
+  {
+   "ch": 1,
+   "t0": 4.25,
+   "speech_end": 8.08,
+   "text": "Tokyo, January 26, 1948.",
+   "t1": 8.554
+  },
+  {
+   "ch": 1,
+   "t0": 8.574,
+   "speech_end": 10.644,
+   "text": "Just after three in the afternoon,",
+   "t1": 11.244
+  },
+  {
+   "ch": 1,
+   "t0": 11.494,
+   "speech_end": 13.624,
+   "text": "the Shiinamachi branch of the Imperial",
+   "t1": 13.554
+  },
+  {
+   "ch": 1,
+   "t0": 13.574,
+   "speech_end": 16.204,
+   "text": "Bank has closed its doors for the day.",
+   "t1": 16.804
+  },
+  {
+   "ch": 1,
+   "t0": 16.845,
+   "speech_end": 19.915,
+   "text": "Inside, sixteen people are finishing their work.",
+   "t1": 20.515
+  },
+  {
+   "ch": 1,
+   "t0": 20.593,
+   "speech_end": 23.903,
+   "text": "Within half an hour, twelve of them will be dead,",
+   "t1": 24.503
+  },
+  {
+   "ch": 1,
+   "t0": 24.673,
+   "speech_end": 26.863,
+   "text": "and the man responsible will walk out",
+   "t1": 26.793
+  },
+  {
+   "ch": 1,
+   "t0": 26.813,
+   "speech_end": 28.783,
+   "text": "the front door with the bank's cash.",
+   "t1": 29.383
+  },
+  {
+   "ch": 1,
+   "t0": 30.069,
+   "speech_end": 31.839,
+   "text": "This is the Teigin Incident,",
+   "t1": 32.439
+  },
+  {
+   "ch": 1,
+   "t0": 32.629,
+   "speech_end": 37.159,
+   "text": "one of the strangest and most disputed crimes in Japanese history.",
+   "t1": 37.559
+  },
+  {
+   "ch": 2,
+   "t0": 47.329,
+   "speech_end": 51.579,
+   "text": "To understand how it happened, you have to picture Tokyo at the time.",
+   "t1": 52.179
+  },
+  {
+   "ch": 2,
+   "t0": 52.272,
+   "speech_end": 55.262,
+   "text": "The war had ended less than three years earlier.",
+   "t1": 55.862
+  },
+  {
+   "ch": 2,
+   "t0": 55.934,
+   "speech_end": 59.464,
+   "text": "The city was still scarred by bombing, food was scarce,",
+   "t1": 60.064
+  },
+  {
+   "ch": 2,
+   "t0": 60.374,
+   "speech_end": 62.624,
+   "text": "and the country was under American occupation.",
+   "t1": 63.224
+  },
+  {
+   "ch": 2,
+   "t0": 63.522,
+   "speech_end": 66.352,
+   "text": "Outbreaks of infectious disease were common,",
+   "t1": 66.902
+  },
+  {
+   "ch": 2,
+   "t0": 66.922,
+   "speech_end": 69.272,
+   "text": "and health officials carrying orders from the",
+   "t1": 69.202
+  },
+  {
+   "ch": 2,
+   "t0": 69.222,
+   "speech_end": 72.432,
+   "text": "occupation authorities were a familiar sight.",
+   "t1": 73.032
+  },
+  {
+   "ch": 2,
+   "t0": 73.052,
+   "speech_end": 75.722,
+   "text": "People were used to following them without question.",
+   "t1": 76.322
+  },
+  {
+   "ch": 2,
+   "t0": 77.13,
+   "speech_end": 82.222,
+   "text": "General MacArthur's headquarters, known to everyone simply as GHQ,",
+   "t1": 82.152
+  },
+  {
+   "ch": 2,
+   "t0": 82.172,
+   "speech_end": 87.57,
+   "text": "issued directives that reached into almost every corner of daily life.",
+   "t1": 87.92
+  },
+  {
+   "ch": 2,
+   "t0": 87.94,
+   "speech_end": 89.89,
+   "text": "Public health was one of its priorities.",
+   "t1": 90.49
+  },
+  {
+   "ch": 2,
+   "t0": 90.984,
+   "speech_end": 94.294,
+   "text": "Crowded housing, damaged water systems and",
+   "t1": 94.224
+  },
+  {
+   "ch": 2,
+   "t0": 94.244,
+   "speech_end": 97.414,
+   "text": "poor nutrition made epidemics a constant fear,",
+   "t1": 97.344
+  },
+  {
+   "ch": 2,
+   "t0": 97.364,
+   "speech_end": 102.314,
+   "text": "and teams of Japanese health workers moved from district to district,",
+   "t1": 102.684
+  },
+  {
+   "ch": 2,
+   "t0": 102.704,
+   "speech_end": 104.434,
+   "text": "spraying disinfectant,",
+   "t1": 104.664
+  },
+  {
+   "ch": 2,
+   "t0": 104.684,
+   "speech_end": 107.514,
+   "text": "giving inoculations and handing out instructions.",
+   "t1": 108.114
+  },
+  {
+   "ch": 2,
+   "t0": 108.513,
+   "speech_end": 112.268,
+   "text": "A man with an official armband who said that GHQ",
+   "t1": 112.198
+  },
+  {
+   "ch": 2,
+   "t0": 112.218,
+   "speech_end": 116.051,
+   "text": "required something was not a man you argued with.",
+   "t1": 116.651
+  },
+  {
+   "ch": 2,
+   "t0": 116.901,
+   "speech_end": 119.811,
+   "text": "That habit of trust, sensible in its time,",
+   "t1": 120.221
+  },
+  {
+   "ch": 2,
+   "t0": 120.241,
+   "speech_end": 122.551,
+   "text": "is the key to everything that happened next.",
+   "t1": 122.983
+  },
+  {
+   "ch": 3,
+   "t0": 128.153,
+   "speech_end": 134.048,
+   "text": "Around 3:20 pm, a middle-aged man knocked at the bank's side entrance.",
+   "t1": 134.398
+  },
+  {
+   "ch": 3,
+   "t0": 134.418,
+   "speech_end": 138.968,
+   "text": "He wore an armband that marked him as a public health official",
+   "t1": 138.898
+  },
+  {
+   "ch": 3,
+   "t0": 138.918,
+   "speech_end": 143.322,
+   "text": "and handed over a business card identifying him as a doctor.",
+   "t1": 143.922
+  },
+  {
+   "ch": 3,
+   "t0": 144.172,
+   "speech_end": 147.882,
+   "text": "He explained that there had been an outbreak of dysentery nearby.",
+   "t1": 148.482
+  },
+  {
+   "ch": 3,
+   "t0": 148.688,
+   "speech_end": 151.878,
+   "text": "The American occupation authorities, he said,",
+   "t1": 152.468
+  },
+  {
+   "ch": 3,
+   "t0": 152.488,
+   "speech_end": 155.258,
+   "text": "had ordered that everyone at the bank take a preventive",
+   "t1": 155.188
+  },
+  {
+   "ch": 3,
+   "t0": 155.208,
+   "speech_end": 158.278,
+   "text": "medicine before anyone was allowed to leave.",
+   "t1": 158.878
+  },
+  {
+   "ch": 3,
+   "t0": 159.028,
+   "speech_end": 161.178,
+   "text": "He was calm, polite, and confident.",
+   "t1": 161.778
+  },
+  {
+   "ch": 3,
+   "t0": 161.986,
+   "speech_end": 164.196,
+   "text": "Nobody had reason to doubt him.",
+   "t1": 164.442
+  },
+  {
+   "ch": 4,
+   "t0": 169.612,
+   "speech_end": 171.182,
+   "text": "The man gathered the staff,",
+   "t1": 171.652
+  },
+  {
+   "ch": 4,
+   "t0": 171.672,
+   "speech_end": 175.622,
+   "text": "along with members of the caretaker's family, including children.",
+   "t1": 176.222
+  },
+  {
+   "ch": 4,
+   "t0": 176.389,
+   "speech_end": 177.779,
+   "text": "Sixteen people in all.",
+   "t1": 178.379
+  },
+  {
+   "ch": 4,
+   "t0": 178.644,
+   "speech_end": 182.634,
+   "text": "He set out cups and showed them exactly how to take the medicine:",
+   "t1": 183.234
+  },
+  {
+   "ch": 4,
+   "t0": 183.404,
+   "speech_end": 187.134,
+   "text": "two doses, one after the other, about a minute apart.",
+   "t1": 187.734
+  },
+  {
+   "ch": 4,
+   "t0": 187.853,
+   "speech_end": 190.483,
+   "text": "He even drank first to show them it was safe.",
+   "t1": 191.083
+  },
+  {
+   "ch": 4,
+   "t0": 191.953,
+   "speech_end": 194.963,
+   "text": "Survivors later recalled how practised he seemed.",
+   "t1": 195.563
+  },
+  {
+   "ch": 4,
+   "t0": 195.68,
+   "speech_end": 198.57,
+   "text": "He measured the liquid into each cup with a dropper,",
+   "t1": 199.14
+  },
+  {
+   "ch": 4,
+   "t0": 199.16,
+   "speech_end": 201.27,
+   "text": "and explained that the first dose was",
+   "t1": 201.2
+  },
+  {
+   "ch": 4,
+   "t0": 201.22,
+   "speech_end": 203.85,
+   "text": "strong and should be swallowed in one go,",
+   "t1": 204.3
+  },
+  {
+   "ch": 4,
+   "t0": 204.32,
+   "speech_end": 205.93,
+   "text": "pushed to the back of the tongue,",
+   "t1": 206.53
+  },
+  {
+   "ch": 4,
+   "t0": 206.6,
+   "speech_end": 208.57,
+   "text": "so that it would not harm their teeth.",
+   "t1": 209.17
+  },
+  {
+   "ch": 4,
+   "t0": 209.849,
+   "speech_end": 211.179,
+   "text": "They did as he said.",
+   "t1": 211.779
+  },
+  {
+   "ch": 4,
+   "t0": 211.891,
+   "speech_end": 214.381,
+   "text": "Within minutes, people began collapsing.",
+   "t1": 214.981
+  },
+  {
+   "ch": 4,
+   "t0": 215.34,
+   "speech_end": 218.51,
+   "text": "Some managed to stagger outside for water",
+   "t1": 218.44
+  },
+  {
+   "ch": 4,
+   "t0": 218.46,
+   "speech_end": 220.61,
+   "text": "or help before falling unconscious.",
+   "t1": 221.21
+  },
+  {
+   "ch": 4,
+   "t0": 221.541,
+   "speech_end": 223.671,
+   "text": "The liquid was a cyanide compound.",
+   "t1": 224.271
+  },
+  {
+   "ch": 4,
+   "t0": 225.129,
+   "speech_end": 226.819,
+   "text": "Ten people died at the bank.",
+   "t1": 227.419
+  },
+  {
+   "ch": 4,
+   "t0": 227.64,
+   "speech_end": 229.57,
+   "text": "Two more died later in hospital.",
+   "t1": 230.17
+  },
+  {
+   "ch": 4,
+   "t0": 230.705,
+   "speech_end": 233.415,
+   "text": "Of the sixteen, only four survived,",
+   "t1": 234.015
+  },
+  {
+   "ch": 4,
+   "t0": 234.305,
+   "speech_end": 237.335,
+   "text": "and their accounts became the core of the investigation.",
+   "t1": 237.833
+  },
+  {
+   "ch": 5,
+   "t0": 243.003,
+   "speech_end": 246.718,
+   "text": "When neighbours and passers-by first reached the building,",
+   "t1": 246.648
+  },
+  {
+   "ch": 5,
+   "t0": 246.668,
+   "speech_end": 249.624,
+   "text": "they did not understand what they were seeing.",
+   "t1": 249.974
+  },
+  {
+   "ch": 5,
+   "t0": 249.994,
+   "speech_end": 253.484,
+   "text": "Some early reports spoke of gas or food poisoning.",
+   "t1": 254.084
+  },
+  {
+   "ch": 5,
+   "t0": 254.275,
+   "speech_end": 258.365,
+   "text": "People went inside to help, and by the time detectives arrived,",
+   "t1": 258.965
+  },
+  {
+   "ch": 5,
+   "t0": 258.995,
+   "speech_end": 260.325,
+   "text": "the scene had been disturbed.",
+   "t1": 260.925
+  },
+  {
+   "ch": 5,
+   "t0": 261.703,
+   "speech_end": 266.073,
+   "text": "Within hours, the Metropolitan Police had begun one",
+   "t1": 266.003
+  },
+  {
+   "ch": 5,
+   "t0": 266.023,
+   "speech_end": 269.213,
+   "text": "of the largest investigations in their history.",
+   "t1": 269.813
+  },
+  {
+   "ch": 5,
+   "t0": 269.867,
+   "speech_end": 272.377,
+   "text": "Laboratory tests confirmed cyanide.",
+   "t1": 272.955
+  },
+  {
+   "ch": 5,
+   "t0": 272.975,
+   "speech_end": 275.885,
+   "text": "The next morning the story filled the front pages,",
+   "t1": 276.485
+  },
+  {
+   "ch": 5,
+   "t0": 276.795,
+   "speech_end": 280.425,
+   "text": "and a name began to appear that would follow the case for decades:",
+   "t1": 281.025
+  },
+  {
+   "ch": 5,
+   "t0": 281.615,
+   "speech_end": 282.745,
+   "text": "the Teigin Incident.",
+   "t1": 283.415
+  },
+  {
+   "ch": 5,
+   "t0": 284.072,
+   "speech_end": 287.262,
+   "text": "The question facing investigators was simple",
+   "t1": 287.192
+  },
+  {
+   "ch": 5,
+   "t0": 287.212,
+   "speech_end": 290.482,
+   "text": "to state and almost impossible to answer.",
+   "t1": 291.082
+  },
+  {
+   "ch": 5,
+   "t0": 291.212,
+   "speech_end": 292.222,
+   "text": "Who was the doctor?",
+   "t1": 292.942
+  },
+  {
+   "ch": 6,
+   "t0": 298.112,
+   "speech_end": 304.508,
+   "text": "While his victims lay dying, the man collected the cash within reach:",
+   "t1": 304.438
+  },
+  {
+   "ch": 6,
+   "t0": 304.458,
+   "speech_end": 309.383,
+   "text": "about 164,000 yen and a cheque for around 17,000 yen.",
+   "t1": 309.733
+  },
+  {
+   "ch": 6,
+   "t0": 309.753,
+   "speech_end": 310.543,
+   "text": "Then he left.",
+   "t1": 311.391
+  },
+  {
+   "ch": 6,
+   "t0": 311.411,
+   "speech_end": 314.401,
+   "text": "The cheque was cashed at another bank the following day.",
+   "t1": 315.001
+  },
+  {
+   "ch": 6,
+   "t0": 315.532,
+   "speech_end": 316.802,
+   "text": "It was a large sum,",
+   "t1": 317.402
+  },
+  {
+   "ch": 6,
+   "t0": 317.432,
+   "speech_end": 320.402,
+   "text": "but investigators were struck by what he did not take.",
+   "t1": 321.002
+  },
+  {
+   "ch": 6,
+   "t0": 321.115,
+   "speech_end": 322.825,
+   "text": "Far more money was in the bank.",
+   "t1": 323.425
+  },
+  {
+   "ch": 6,
+   "t0": 323.625,
+   "speech_end": 327.915,
+   "text": "Why go to such lengths, and kill twelve people, for only part of it?",
+   "t1": 328.463
+  },
+  {
+   "ch": 6,
+   "t0": 328.483,
+   "speech_end": 330.813,
+   "text": "The question has never been fully answered.",
+   "t1": 331.258
+  },
+  {
+   "ch": 7,
+   "t0": 336.428,
+   "speech_end": 339.678,
+   "text": "The four survivors had each seen the man at close range,",
+   "t1": 339.608
+  },
+  {
+   "ch": 7,
+   "t0": 339.628,
+   "speech_end": 342.418,
+   "text": "in daylight, for several minutes.",
+   "t1": 342.951
+  },
+  {
+   "ch": 7,
+   "t0": 342.971,
+   "speech_end": 345.861,
+   "text": "They described someone composed and authoritative,",
+   "t1": 346.461
+  },
+  {
+   "ch": 7,
+   "t0": 346.571,
+   "speech_end": 348.901,
+   "text": "perhaps in his forties or fifties,",
+   "t1": 349.291
+  },
+  {
+   "ch": 7,
+   "t0": 349.311,
+   "speech_end": 352.681,
+   "text": "who spoke politely and handled his bottles with ease.",
+   "t1": 353.281
+  },
+  {
+   "ch": 7,
+   "t0": 354.004,
+   "speech_end": 358.154,
+   "text": "From their accounts, police produced a composite image of the suspect.",
+   "t1": 358.754
+  },
+  {
+   "ch": 7,
+   "t0": 358.989,
+   "speech_end": 363.324,
+   "text": "It was printed in newspapers and posted across the country,",
+   "t1": 363.254
+  },
+  {
+   "ch": 7,
+   "t0": 363.274,
+   "speech_end": 368.191,
+   "text": "and it became one of the most recognisable faces of post-war Japan.",
+   "t1": 368.541
+  },
+  {
+   "ch": 7,
+   "t0": 368.561,
+   "speech_end": 370.171,
+   "text": "Thousands of tips poured in.",
+   "t1": 370.771
+  },
+  {
+   "ch": 7,
+   "t0": 371.424,
+   "speech_end": 373.254,
+   "text": "But memory under shock is fragile.",
+   "t1": 373.854
+  },
+  {
+   "ch": 7,
+   "t0": 374.297,
+   "speech_end": 376.787,
+   "text": "The survivors had just watched colleagues",
+   "t1": 376.717
+  },
+  {
+   "ch": 7,
+   "t0": 376.737,
+   "speech_end": 379.107,
+   "text": "and family members collapse around them,",
+   "t1": 379.697
+  },
+  {
+   "ch": 7,
+   "t0": 379.717,
+   "speech_end": 382.307,
+   "text": "and their recollections did not always agree.",
+   "t1": 382.907
+  },
+  {
+   "ch": 7,
+   "t0": 383.059,
+   "speech_end": 384.609,
+   "text": "Over the months that followed,",
+   "t1": 385.039
+  },
+  {
+   "ch": 7,
+   "t0": 385.059,
+   "speech_end": 387.849,
+   "text": "as they were shown photograph after photograph,",
+   "t1": 388.339
+  },
+  {
+   "ch": 7,
+   "t0": 388.359,
+   "speech_end": 391.149,
+   "text": "their certainty would be tested again and again.",
+   "t1": 391.509
+  },
+  {
+   "ch": 8,
+   "t0": 396.679,
+   "speech_end": 400.409,
+   "text": "Police soon discovered that Teigin was not the first attempt.",
+   "t1": 401.009
+  },
+  {
+   "ch": 8,
+   "t0": 401.174,
+   "speech_end": 405.464,
+   "text": "In October 1947, a man had tried the same",
+   "t1": 405.394
+  },
+  {
+   "ch": 8,
+   "t0": 405.414,
+   "speech_end": 408.084,
+   "text": "story at a branch of the Yasuda Bank,",
+   "t1": 408.684
+  },
+  {
+   "ch": 8,
+   "t0": 408.854,
+   "speech_end": 413.724,
+   "text": "and on January 19, 1948, just a week before,",
+   "t1": 414.234
+  },
+  {
+   "ch": 8,
+   "t0": 414.254,
+   "speech_end": 416.384,
+   "text": "at a branch of the Mitsubishi Bank.",
+   "t1": 416.984
+  },
+  {
+   "ch": 8,
+   "t0": 417.06,
+   "speech_end": 421.57,
+   "text": "In both cases the staff drank harmless liquid and nobody was hurt.",
+   "t1": 422.17
+  },
+  {
+   "ch": 8,
+   "t0": 422.718,
+   "speech_end": 425.748,
+   "text": "At those banks, the visitor had left business cards.",
+   "t1": 426.348
+  },
+  {
+   "ch": 8,
+   "t0": 426.53,
+   "speech_end": 430.56,
+   "text": "One of them bore the name of a real doctor, Shigeru Matsui.",
+   "t1": 431.16
+  },
+  {
+   "ch": 8,
+   "t0": 431.259,
+   "speech_end": 433.509,
+   "text": "Matsui had nothing to do with the crime,",
+   "t1": 434.109
+  },
+  {
+   "ch": 8,
+   "t0": 434.299,
+   "speech_end": 438.529,
+   "text": "but he kept careful records of everyone he had exchanged cards with.",
+   "t1": 439.083
+  },
+  {
+   "ch": 8,
+   "t0": 439.103,
+   "speech_end": 441.253,
+   "text": "Detectives began working through the list.",
+   "t1": 441.686
+  },
+  {
+   "ch": 9,
+   "t0": 446.856,
+   "speech_end": 450.166,
+   "text": "In Japan, business cards were exchanged constantly,",
+   "t1": 450.766
+  },
+  {
+   "ch": 9,
+   "t0": 450.956,
+   "speech_end": 452.886,
+   "text": "and they carried real social weight.",
+   "t1": 453.486
+  },
+  {
+   "ch": 9,
+   "t0": 453.527,
+   "speech_end": 457.757,
+   "text": "Matsui's record turned an impossible search into a finite one.",
+   "t1": 458.279
+  },
+  {
+   "ch": 9,
+   "t0": 458.299,
+   "speech_end": 461.309,
+   "text": "If the killer had used a genuine Matsui card,",
+   "t1": 461.909
+  },
+  {
+   "ch": 9,
+   "t0": 462.019,
+   "speech_end": 464.309,
+   "text": "he must have received it from Matsui himself.",
+   "t1": 464.909
+  },
+  {
+   "ch": 9,
+   "t0": 465.268,
+   "speech_end": 468.118,
+   "text": "So detectives set out to find every person",
+   "t1": 468.048
+  },
+  {
+   "ch": 9,
+   "t0": 468.068,
+   "speech_end": 470.698,
+   "text": "on the list and ask a single question:",
+   "t1": 471.298
+  },
+  {
+   "ch": 9,
+   "t0": 471.588,
+   "speech_end": 473.418,
+   "text": "can you show us the card you were given?",
+   "t1": 474.018
+  },
+  {
+   "ch": 9,
+   "t0": 474.637,
+   "speech_end": 475.287,
+   "text": "Most could.",
+   "t1": 476.168
+  },
+  {
+   "ch": 9,
+   "t0": 476.188,
+   "speech_end": 479.278,
+   "text": "Others had lost theirs but were cleared in other ways.",
+   "t1": 479.878
+  },
+  {
+   "ch": 9,
+   "t0": 480.043,
+   "speech_end": 482.353,
+   "text": "The recipients were scattered across the country,",
+   "t1": 482.843
+  },
+  {
+   "ch": 9,
+   "t0": 482.863,
+   "speech_end": 486.453,
+   "text": "and through the spring and summer of 1948 a",
+   "t1": 486.383
+  },
+  {
+   "ch": 9,
+   "t0": 486.403,
+   "speech_end": 489.513,
+   "text": "small team of detectives travelled by slow,",
+   "t1": 489.783
+  },
+  {
+   "ch": 9,
+   "t0": 489.803,
+   "speech_end": 493.733,
+   "text": "crowded trains, crossing names off one at a time.",
+   "t1": 494.333
+  },
+  {
+   "ch": 9,
+   "t0": 494.767,
+   "speech_end": 496.857,
+   "text": "They believed that patient police work,",
+   "t1": 497.307
+  },
+  {
+   "ch": 9,
+   "t0": 497.327,
+   "speech_end": 501.757,
+   "text": "not theories about secret wartime programmes, would solve the case.",
+   "t1": 502.357
+  },
+  {
+   "ch": 9,
+   "t0": 502.504,
+   "speech_end": 505.054,
+   "text": "Their search led them north, to Hokkaido.",
+   "t1": 505.621
+  },
+  {
+   "ch": 10,
+   "t0": 510.791,
+   "speech_end": 515.301,
+   "text": "Sadamichi Hirasawa was born in 1892 and",
+   "t1": 515.231
+  },
+  {
+   "ch": 10,
+   "t0": 515.251,
+   "speech_end": 518.021,
+   "text": "grew up partly in the port city of Otaru.",
+   "t1": 518.594
+  },
+  {
+   "ch": 10,
+   "t0": 518.614,
+   "speech_end": 521.524,
+   "text": "He became a painter, and a respected one,",
+   "t1": 521.454
+  },
+  {
+   "ch": 10,
+   "t0": 521.474,
+   "speech_end": 524.184,
+   "text": "known especially for his work in tempera,",
+   "t1": 524.394
+  },
+  {
+   "ch": 10,
+   "t0": 524.414,
+   "speech_end": 526.964,
+   "text": "a technique using pigment bound with egg.",
+   "t1": 527.564
+  },
+  {
+   "ch": 10,
+   "t0": 527.738,
+   "speech_end": 530.328,
+   "text": "His quiet landscapes and flower studies",
+   "t1": 530.258
+  },
+  {
+   "ch": 10,
+   "t0": 530.278,
+   "speech_end": 532.828,
+   "text": "were shown at major official exhibitions,",
+   "t1": 533.428
+  },
+  {
+   "ch": 10,
+   "t0": 533.738,
+   "speech_end": 536.388,
+   "text": "and by the 1940s his name appeared",
+   "t1": 536.318
+  },
+  {
+   "ch": 10,
+   "t0": 536.338,
+   "speech_end": 539.108,
+   "text": "regularly in catalogues and newspapers.",
+   "t1": 539.708
+  },
+  {
+   "ch": 10,
+   "t0": 540.286,
+   "speech_end": 542.276,
+   "text": "His private life was more troubled.",
+   "t1": 542.876
+  },
+  {
+   "ch": 10,
+   "t0": 543.202,
+   "speech_end": 547.752,
+   "text": "In 1925 he received a course of rabies vaccinations,",
+   "t1": 548.352
+  },
+  {
+   "ch": 10,
+   "t0": 548.882,
+   "speech_end": 552.392,
+   "text": "and his family later said his personality changed afterwards.",
+   "t1": 552.992
+  },
+  {
+   "ch": 10,
+   "t0": 553.328,
+   "speech_end": 556.858,
+   "text": "He had money problems, and a record of minor fraud.",
+   "t1": 557.458
+  },
+  {
+   "ch": 10,
+   "t0": 558.004,
+   "speech_end": 562.054,
+   "text": "In 1947, he had met Doctor Matsui on a ferry,",
+   "t1": 562.654
+  },
+  {
+   "ch": 10,
+   "t0": 562.724,
+   "speech_end": 564.674,
+   "text": "and the two men exchanged cards.",
+   "t1": 565.274
+  },
+  {
+   "ch": 10,
+   "t0": 565.55,
+   "speech_end": 570.3,
+   "text": "When detectives asked to see that card, Hirasawa could not produce it.",
+   "t1": 570.9
+  },
+  {
+   "ch": 10,
+   "t0": 570.94,
+   "speech_end": 572.79,
+   "text": "He said his wallet had been stolen.",
+   "t1": 573.289
+  },
+  {
+   "ch": 11,
+   "t0": 578.459,
+   "speech_end": 582.153,
+   "text": "One name on that list was Sadamichi Hirasawa,",
+   "t1": 582.083
+  },
+  {
+   "ch": 11,
+   "t0": 582.103,
+   "speech_end": 586.85,
+   "text": "a 56-year-old painter who was well known in the art world.",
+   "t1": 587.2
+  },
+  {
+   "ch": 11,
+   "t0": 587.22,
+   "speech_end": 593.29,
+   "text": "In August 1948, police arrested him at his home in Otaru, Hokkaido.",
+   "t1": 593.89
+  },
+  {
+   "ch": 11,
+   "t0": 594.414,
+   "speech_end": 596.904,
+   "text": "The case against him looked strong on paper.",
+   "t1": 597.504
+  },
+  {
+   "ch": 11,
+   "t0": 597.692,
+   "speech_end": 599.762,
+   "text": "He could not produce Matsui's card.",
+   "t1": 600.362
+  },
+  {
+   "ch": 11,
+   "t0": 600.587,
+   "speech_end": 603.797,
+   "text": "He had come into a sum of money he could not explain.",
+   "t1": 604.397
+  },
+  {
+   "ch": 11,
+   "t0": 604.676,
+   "speech_end": 606.446,
+   "text": "And he had a past record of fraud.",
+   "t1": 607.046
+  },
+  {
+   "ch": 11,
+   "t0": 607.486,
+   "speech_end": 610.556,
+   "text": "But survivors could not firmly identify him,",
+   "t1": 610.986
+  },
+  {
+   "ch": 11,
+   "t0": 611.006,
+   "speech_end": 614.296,
+   "text": "and no direct physical evidence connected him to the poison.",
+   "t1": 614.848
+  },
+  {
+   "ch": 12,
+   "t0": 620.018,
+   "speech_end": 624.228,
+   "text": "What happened next has to be understood in the context of the time.",
+   "t1": 624.828
+  },
+  {
+   "ch": 12,
+   "t0": 624.918,
+   "speech_end": 629.128,
+   "text": "Japan's new Constitution, in force since May 1947,",
+   "t1": 629.728
+  },
+  {
+   "ch": 12,
+   "t0": 629.938,
+   "speech_end": 633.608,
+   "text": "said that forced confessions could not be used as evidence,",
+   "t1": 634.208
+  },
+  {
+   "ch": 12,
+   "t0": 634.258,
+   "speech_end": 637.528,
+   "text": "and that no one could be convicted on a confession alone.",
+   "t1": 638.128
+  },
+  {
+   "ch": 12,
+   "t0": 638.245,
+   "speech_end": 640.215,
+   "text": "But a new Code of Criminal Procedure",
+   "t1": 640.145
+  },
+  {
+   "ch": 12,
+   "t0": 640.165,
+   "speech_end": 644.095,
+   "text": "did not take effect until January 1949,",
+   "t1": 644.695
+  },
+  {
+   "ch": 12,
+   "t0": 645.305,
+   "speech_end": 649.015,
+   "text": "and Hirasawa's case was handled under the older system,",
+   "t1": 649.585
+  },
+  {
+   "ch": 12,
+   "t0": 649.605,
+   "speech_end": 653.475,
+   "text": "in which a confession was treated as the strongest evidence of all.",
+   "t1": 654.075
+  },
+  {
+   "ch": 12,
+   "t0": 654.611,
+   "speech_end": 657.901,
+   "text": "Suspects could be held for long periods in police cells,",
+   "t1": 658.491
+  },
+  {
+   "ch": 12,
+   "t0": 658.511,
+   "speech_end": 660.401,
+   "text": "questioned for hours at a stretch,",
+   "t1": 661.001
+  },
+  {
+   "ch": 12,
+   "t0": 661.111,
+   "speech_end": 665.201,
+   "text": "with little access to a lawyer and no recording of what was said.",
+   "t1": 665.557
+  },
+  {
+   "ch": 13,
+   "t0": 670.727,
+   "speech_end": 673.477,
+   "text": "Hirasawa was interrogated for weeks.",
+   "t1": 674.077
+  },
+  {
+   "ch": 13,
+   "t0": 674.283,
+   "speech_end": 675.993,
+   "text": "At first he denied everything.",
+   "t1": 676.593
+  },
+  {
+   "ch": 13,
+   "t0": 676.964,
+   "speech_end": 680.134,
+   "text": "Then, after more than a month in custody, he confessed.",
+   "t1": 680.734
+  },
+  {
+   "ch": 13,
+   "t0": 680.99,
+   "speech_end": 683.24,
+   "text": "Soon afterwards, he took it back,",
+   "t1": 683.81
+  },
+  {
+   "ch": 13,
+   "t0": 683.83,
+   "speech_end": 685.66,
+   "text": "saying the confession had been forced",
+   "t1": 685.59
+  },
+  {
+   "ch": 13,
+   "t0": 685.61,
+   "speech_end": 687.64,
+   "text": "out of him under intense pressure.",
+   "t1": 688.24
+  },
+  {
+   "ch": 13,
+   "t0": 688.759,
+   "speech_end": 691.309,
+   "text": "His supporters also pointed to his health.",
+   "t1": 691.909
+  },
+  {
+   "ch": 13,
+   "t0": 692.038,
+   "speech_end": 696.528,
+   "text": "Years earlier, a rabies vaccination had reportedly left him with a",
+   "t1": 696.458
+  },
+  {
+   "ch": 13,
+   "t0": 696.478,
+   "speech_end": 701.388,
+   "text": "neurological condition that could cause confusion and false memories.",
+   "t1": 701.988
+  },
+  {
+   "ch": 13,
+   "t0": 702.186,
+   "speech_end": 706.316,
+   "text": "They argued that a man in that state, under relentless questioning,",
+   "t1": 706.866
+  },
+  {
+   "ch": 13,
+   "t0": 706.886,
+   "speech_end": 709.116,
+   "text": "could be led to confess to almost anything.",
+   "t1": 709.676
+  },
+  {
+   "ch": 14,
+   "t0": 714.846,
+   "speech_end": 717.336,
+   "text": "At his trial in the Tokyo District Court,",
+   "t1": 717.936
+  },
+  {
+   "ch": 14,
+   "t0": 717.986,
+   "speech_end": 720.416,
+   "text": "Hirasawa denied the crime completely.",
+   "t1": 721.016
+  },
+  {
+   "ch": 14,
+   "t0": 721.303,
+   "speech_end": 725.895,
+   "text": "His lawyers argued that the confession was coerced and unreliable,",
+   "t1": 725.825
+  },
+  {
+   "ch": 14,
+   "t0": 725.845,
+   "speech_end": 728.786,
+   "text": "that the identification evidence was weak,",
+   "t1": 728.716
+  },
+  {
+   "ch": 14,
+   "t0": 728.736,
+   "speech_end": 732.227,
+   "text": "and that the prosecution had never explained how a",
+   "t1": 732.157
+  },
+  {
+   "ch": 14,
+   "t0": 732.177,
+   "speech_end": 735.6,
+   "text": "painter could have obtained a fast-acting poison,",
+   "t1": 735.53
+  },
+  {
+   "ch": 14,
+   "t0": 735.55,
+   "speech_end": 738.697,
+   "text": "or learned to handle it with such confidence.",
+   "t1": 739.297
+  },
+  {
+   "ch": 14,
+   "t0": 739.547,
+   "speech_end": 741.757,
+   "text": "The prosecution relied on the confession,",
+   "t1": 742.357
+  },
+  {
+   "ch": 14,
+   "t0": 742.447,
+   "speech_end": 745.997,
+   "text": "the missing card, the unexplained money and his past.",
+   "t1": 746.597
+  },
+  {
+   "ch": 14,
+   "t0": 746.815,
+   "speech_end": 749.525,
+   "text": "The gap at the centre of the case, the poison,",
+   "t1": 750.035
+  },
+  {
+   "ch": 14,
+   "t0": 750.055,
+   "speech_end": 752.885,
+   "text": "pointed in a direction the court did not follow.",
+   "t1": 753.281
+  },
+  {
+   "ch": 15,
+   "t0": 758.451,
+   "speech_end": 762.161,
+   "text": "Many people believed the police had the wrong man from the start,",
+   "t1": 762.551
+  },
+  {
+   "ch": 15,
+   "t0": 762.571,
+   "speech_end": 764.221,
+   "text": "and there was a reason why.",
+   "t1": 764.821
+  },
+  {
+   "ch": 15,
+   "t0": 765.346,
+   "speech_end": 767.616,
+   "text": "The killer had handled the poison with skill.",
+   "t1": 768.216
+  },
+  {
+   "ch": 15,
+   "t0": 768.347,
+   "speech_end": 772.187,
+   "text": "He measured doses precisely, used a two-stage method,",
+   "t1": 772.117
+  },
+  {
+   "ch": 15,
+   "t0": 772.137,
+   "speech_end": 776.12,
+   "text": "and knew how to make the poison act with a short delay.",
+   "t1": 776.47
+  },
+  {
+   "ch": 15,
+   "t0": 776.49,
+   "speech_end": 778.18,
+   "text": "Early in the investigation,",
+   "t1": 778.77
+  },
+  {
+   "ch": 15,
+   "t0": 778.79,
+   "speech_end": 782.44,
+   "text": "detectives suspected someone with military training in poisons.",
+   "t1": 783.04
+  },
+  {
+   "ch": 15,
+   "t0": 783.438,
+   "speech_end": 786.89,
+   "text": "They questioned former members of the Imperial",
+   "t1": 786.82
+  },
+  {
+   "ch": 15,
+   "t0": 786.84,
+   "speech_end": 790.662,
+   "text": "Army's Noborito research institute and of Unit 731,",
+   "t1": 790.592
+  },
+  {
+   "ch": 15,
+   "t0": 790.612,
+   "speech_end": 794.73,
+   "text": "the secret unit that had carried out biological-warfare",
+   "t1": 794.66
+  },
+  {
+   "ch": 15,
+   "t0": 794.68,
+   "speech_end": 799.168,
+   "text": "research and lethal experiments on prisoners during the war.",
+   "t1": 799.768
+  },
+  {
+   "ch": 15,
+   "t0": 800.018,
+   "speech_end": 802.168,
+   "text": "That line of inquiry was then dropped.",
+   "t1": 802.768
+  },
+  {
+   "ch": 15,
+   "t0": 802.955,
+   "speech_end": 808.425,
+   "text": "At the time, the United States had quietly granted Unit 731's leaders",
+   "t1": 808.355
+  },
+  {
+   "ch": 15,
+   "t0": 808.375,
+   "speech_end": 813.205,
+   "text": "immunity from prosecution in exchange for their research data.",
+   "t1": 813.766
+  },
+  {
+   "ch": 15,
+   "t0": 813.786,
+   "speech_end": 816.636,
+   "text": "Many researchers believe the occupation authorities",
+   "t1": 816.566
+  },
+  {
+   "ch": 15,
+   "t0": 816.586,
+   "speech_end": 821.036,
+   "text": "did not want the investigation to expose those men.",
+   "t1": 821.636
+  },
+  {
+   "ch": 15,
+   "t0": 821.672,
+   "speech_end": 822.922,
+   "text": "This has never been proven,",
+   "t1": 823.522
+  },
+  {
+   "ch": 15,
+   "t0": 823.552,
+   "speech_end": 827.142,
+   "text": "but it remains the most persistent theory about the case.",
+   "t1": 827.626
+  },
+  {
+   "ch": 16,
+   "t0": 832.796,
+   "speech_end": 838.106,
+   "text": "Unit 731 was based near Harbin, in occupied north-east China,",
+   "t1": 838.516
+  },
+  {
+   "ch": 16,
+   "t0": 838.536,
+   "speech_end": 840.786,
+   "text": "under the command of Shirō Ishii.",
+   "t1": 841.386
+  },
+  {
+   "ch": 16,
+   "t0": 841.408,
+   "speech_end": 843.418,
+   "text": "Its prisoners, most of them Chinese,",
+   "t1": 844.018
+  },
+  {
+   "ch": 16,
+   "t0": 844.188,
+   "speech_end": 846.678,
+   "text": "were used in experiments that are remembered",
+   "t1": 846.608
+  },
+  {
+   "ch": 16,
+   "t0": 846.628,
+   "speech_end": 849.078,
+   "text": "among the gravest crimes of the war.",
+   "t1": 849.678
+  },
+  {
+   "ch": 16,
+   "t0": 850.223,
+   "speech_end": 851.593,
+   "text": "After the surrender,",
+   "t1": 851.523
+  },
+  {
+   "ch": 16,
+   "t0": 851.543,
+   "speech_end": 855.222,
+   "text": "American officials questioned Ishii and his colleagues.",
+   "t1": 855.572
+  },
+  {
+   "ch": 16,
+   "t0": 855.592,
+   "speech_end": 859.182,
+   "text": "The outcome was that the unit's leaders were never put on trial,",
+   "t1": 859.112
+  },
+  {
+   "ch": 16,
+   "t0": 859.132,
+   "speech_end": 862.222,
+   "text": "and their research passed to the United States.",
+   "t1": 862.822
+  },
+  {
+   "ch": 16,
+   "t0": 862.945,
+   "speech_end": 866.015,
+   "text": "For decades the arrangement stayed largely hidden.",
+   "t1": 866.615
+  },
+  {
+   "ch": 16,
+   "t0": 866.715,
+   "speech_end": 869.105,
+   "text": "It came to public attention through journalists",
+   "t1": 869.035
+  },
+  {
+   "ch": 16,
+   "t0": 869.055,
+   "speech_end": 873.325,
+   "text": "and historians in the 1970s and 1980s,",
+   "t1": 873.895
+  },
+  {
+   "ch": 16,
+   "t0": 873.915,
+   "speech_end": 876.385,
+   "text": "long after Hirasawa had been convicted.",
+   "t1": 876.985
+  },
+  {
+   "ch": 16,
+   "t0": 877.577,
+   "speech_end": 881.687,
+   "text": "Notes kept by one of the Teigin detectives, published years later,",
+   "t1": 881.997
+  },
+  {
+   "ch": 16,
+   "t0": 882.017,
+   "speech_end": 886.507,
+   "text": "show that former members of these units were interviewed in 1948,",
+   "t1": 887.107
+  },
+  {
+   "ch": 16,
+   "t0": 887.277,
+   "speech_end": 890.447,
+   "text": "and that some described methods resembling the crime.",
+   "t1": 891.047
+  },
+  {
+   "ch": 16,
+   "t0": 891.245,
+   "speech_end": 893.195,
+   "text": "No document has been found showing",
+   "t1": 893.125
+  },
+  {
+   "ch": 16,
+   "t0": 893.145,
+   "speech_end": 896.135,
+   "text": "that GHQ ordered the inquiry stopped.",
+   "t1": 896.735
+  },
+  {
+   "ch": 16,
+   "t0": 896.828,
+   "speech_end": 898.578,
+   "text": "The connection remains a theory.",
+   "t1": 899.134
+  },
+  {
+   "ch": 17,
+   "t0": 904.304,
+   "speech_end": 907.874,
+   "text": "In 1950, Hirasawa was sentenced to death.",
+   "t1": 908.474
+  },
+  {
+   "ch": 17,
+   "t0": 908.628,
+   "speech_end": 913.058,
+   "text": "Japan's Supreme Court upheld the sentence in 1955.",
+   "t1": 913.658
+  },
+  {
+   "ch": 17,
+   "t0": 914.307,
+   "speech_end": 916.497,
+   "text": "But the sentence was never carried out.",
+   "t1": 917.097
+  },
+  {
+   "ch": 17,
+   "t0": 917.223,
+   "speech_end": 921.453,
+   "text": "In Japan, an execution needs the justice minister's signature,",
+   "t1": 922.053
+  },
+  {
+   "ch": 17,
+   "t0": 922.343,
+   "speech_end": 924.873,
+   "text": "and minister after minister refused to sign.",
+   "t1": 925.473
+  },
+  {
+   "ch": 17,
+   "t0": 925.728,
+   "speech_end": 930.218,
+   "text": "Hirasawa's lawyers filed request after request for a retrial.",
+   "t1": 930.818
+  },
+  {
+   "ch": 17,
+   "t0": 930.863,
+   "speech_end": 932.253,
+   "text": "All of them were rejected.",
+   "t1": 932.785
+  },
+  {
+   "ch": 18,
+   "t0": 937.955,
+   "speech_end": 939.685,
+   "text": "Governments rose and fell,",
+   "t1": 940.285
+  },
+  {
+   "ch": 18,
+   "t0": 940.335,
+   "speech_end": 944.445,
+   "text": "and with each new cabinet a new justice minister was handed the file.",
+   "t1": 945.045
+  },
+  {
+   "ch": 18,
+   "t0": 945.074,
+   "speech_end": 946.004,
+   "text": "None of them signed.",
+   "t1": 946.874
+  },
+  {
+   "ch": 18,
+   "t0": 946.944,
+   "speech_end": 949.194,
+   "text": "They rarely explained why in public,",
+   "t1": 949.764
+  },
+  {
+   "ch": 18,
+   "t0": 949.784,
+   "speech_end": 951.674,
+   "text": "but the hesitation spoke for itself.",
+   "t1": 952.274
+  },
+  {
+   "ch": 18,
+   "t0": 952.506,
+   "speech_end": 955.476,
+   "text": "The conviction rested on a retracted confession,",
+   "t1": 956.076
+  },
+  {
+   "ch": 18,
+   "t0": 956.186,
+   "speech_end": 958.336,
+   "text": "and doubts about the poison and the",
+   "t1": 958.266
+  },
+  {
+   "ch": 18,
+   "t0": 958.286,
+   "speech_end": 960.716,
+   "text": "identification had never gone away.",
+   "t1": 961.316
+  },
+  {
+   "ch": 18,
+   "t0": 961.896,
+   "speech_end": 963.666,
+   "text": "The result was a strange limbo.",
+   "t1": 964.266
+  },
+  {
+   "ch": 18,
+   "t0": 964.471,
+   "speech_end": 967.641,
+   "text": "Hirasawa was neither freed nor executed.",
+   "t1": 968.241
+  },
+  {
+   "ch": 18,
+   "t0": 968.496,
+   "speech_end": 971.266,
+   "text": "In an era when condemned prisoners were usually",
+   "t1": 971.196
+  },
+  {
+   "ch": 18,
+   "t0": 971.216,
+   "speech_end": 974.106,
+   "text": "given little or no warning of their execution,",
+   "t1": 974.706
+  },
+  {
+   "ch": 18,
+   "t0": 975.036,
+   "speech_end": 978.946,
+   "text": "he lived with that uncertainty not for months, but for decades.",
+   "t1": 979.546
+  },
+  {
+   "ch": 19,
+   "t0": 984.826,
+   "speech_end": 987.836,
+   "text": "Outside the prison, the case never went quiet.",
+   "t1": 988.436
+  },
+  {
+   "ch": 19,
+   "t0": 988.595,
+   "speech_end": 990.305,
+   "text": "In the early 1960s,",
+   "t1": 990.615
+  },
+  {
+   "ch": 19,
+   "t0": 990.635,
+   "speech_end": 993.605,
+   "text": "the writer Tetsurō Morikawa founded an",
+   "t1": 993.535
+  },
+  {
+   "ch": 19,
+   "t0": 993.555,
+   "speech_end": 996.285,
+   "text": "association to win Hirasawa's release.",
+   "t1": 996.885
+  },
+  {
+   "ch": 19,
+   "t0": 997.037,
+   "speech_end": 1000.896,
+   "text": "The crime novelist Seichō Matsumoto wrote about",
+   "t1": 1000.826
+  },
+  {
+   "ch": 19,
+   "t0": 1000.846,
+   "speech_end": 1004.381,
+   "text": "the case and the possibility of a cover-up,",
+   "t1": 1004.311
+  },
+  {
+   "ch": 19,
+   "t0": 1004.331,
+   "speech_end": 1009.567,
+   "text": "and in 1964 the director Kei Kumai made a feature film about it.",
+   "t1": 1009.917
+  },
+  {
+   "ch": 19,
+   "t0": 1009.937,
+   "speech_end": 1013.065,
+   "text": "In English, William Triplett published",
+   "t1": 1012.995
+  },
+  {
+   "ch": 19,
+   "t0": 1013.015,
+   "speech_end": 1015.981,
+   "text": "a book-length investigation in 1985.",
+   "t1": 1016.581
+  },
+  {
+   "ch": 19,
+   "t0": 1016.831,
+   "speech_end": 1020.061,
+   "text": "Through it all, Hirasawa kept painting in his cell,",
+   "t1": 1020.661
+  },
+  {
+   "ch": 19,
+   "t0": 1020.731,
+   "speech_end": 1022.981,
+   "text": "and his supporters exhibited the work outside.",
+   "t1": 1023.581
+  },
+  {
+   "ch": 19,
+   "t0": 1023.971,
+   "speech_end": 1026.381,
+   "text": "To them, it was proof that the man was still present,",
+   "t1": 1026.981
+  },
+  {
+   "ch": 19,
+   "t0": 1027.051,
+   "speech_end": 1028.761,
+   "text": "still working, still waiting.",
+   "t1": 1029.243
+  },
+  {
+   "ch": 20,
+   "t0": 1034.413,
+   "speech_end": 1038.843,
+   "text": "Sadamichi Hirasawa spent almost 39 years in prison,",
+   "t1": 1039.443
+  },
+  {
+   "ch": 20,
+   "t0": 1039.753,
+   "speech_end": 1042.083,
+   "text": "more than 32 of them on death row.",
+   "t1": 1042.683
+  },
+  {
+   "ch": 20,
+   "t0": 1042.769,
+   "speech_end": 1044.019,
+   "text": "He kept painting throughout.",
+   "t1": 1044.619
+  },
+  {
+   "ch": 20,
+   "t0": 1044.981,
+   "speech_end": 1049.451,
+   "text": "On May 10, 1987, he died of pneumonia",
+   "t1": 1049.381
+  },
+  {
+   "ch": 20,
+   "t0": 1049.401,
+   "speech_end": 1052.551,
+   "text": "in a prison hospital at the age of 95,",
+   "t1": 1053.151
+  },
+  {
+   "ch": 20,
+   "t0": 1053.501,
+   "speech_end": 1055.411,
+   "text": "still insisting he was innocent.",
+   "t1": 1055.927
+  },
+  {
+   "ch": 21,
+   "t0": 1061.097,
+   "speech_end": 1063.487,
+   "text": "The Teigin Incident left a long shadow.",
+   "t1": 1064.087
+  },
+  {
+   "ch": 21,
+   "t0": 1064.29,
+   "speech_end": 1068.0,
+   "text": "It was one of the deadliest robberies in Japanese history,",
+   "t1": 1068.43
+  },
+  {
+   "ch": 21,
+   "t0": 1068.45,
+   "speech_end": 1071.66,
+   "text": "carried out not with weapons but with an armband,",
+   "t1": 1071.99
+  },
+  {
+   "ch": 21,
+   "t0": 1072.01,
+   "speech_end": 1075.5,
+   "text": "a story and the trust of ordinary people.",
+   "t1": 1076.1
+  },
+  {
+   "ch": 21,
+   "t0": 1076.582,
+   "speech_end": 1079.792,
+   "text": "It also became a case about justice itself.",
+   "t1": 1080.392
+  },
+  {
+   "ch": 21,
+   "t0": 1080.522,
+   "speech_end": 1084.583,
+   "text": "In the 1980s, several Japanese death-row prisoners",
+   "t1": 1084.513
+  },
+  {
+   "ch": 21,
+   "t0": 1084.533,
+   "speech_end": 1088.834,
+   "text": "were exonerated at retrial after decades behind bars,",
+   "t1": 1088.764
+  },
+  {
+   "ch": 21,
+   "t0": 1088.784,
+   "speech_end": 1091.562,
+   "text": "their convictions found to rest on",
+   "t1": 1091.492
+  },
+  {
+   "ch": 21,
+   "t0": 1091.512,
+   "speech_end": 1094.61,
+   "text": "confessions that could not be trusted.",
+   "t1": 1094.96
+  },
+  {
+   "ch": 21,
+   "t0": 1094.98,
+   "speech_end": 1099.23,
+   "text": "Each of those cases revived the questions about Hirasawa,",
+   "t1": 1099.83
+  },
+  {
+   "ch": 21,
+   "t0": 1100.24,
+   "speech_end": 1103.49,
+   "text": "and the debate over long interrogations and the",
+   "t1": 1103.42
+  },
+  {
+   "ch": 21,
+   "t0": 1103.44,
+   "speech_end": 1107.21,
+   "text": "weight given to confessions continues in Japan today.",
+   "t1": 1107.81
+  },
+  {
+   "ch": 21,
+   "t0": 1108.381,
+   "speech_end": 1110.371,
+   "text": "And at the centre of it all are the",
+   "t1": 1110.301
+  },
+  {
+   "ch": 21,
+   "t0": 1110.321,
+   "speech_end": 1112.971,
+   "text": "twelve people who died in Shiinamachi:",
+   "t1": 1113.561
+  },
+  {
+   "ch": 21,
+   "t0": 1113.581,
+   "speech_end": 1115.811,
+   "text": "clerks and a caretaker's family,",
+   "t1": 1116.411
+  },
+  {
+   "ch": 21,
+   "t0": 1116.481,
+   "speech_end": 1118.831,
+   "text": "at the end of an ordinary working day,",
+   "t1": 1119.301
+  },
+  {
+   "ch": 21,
+   "t0": 1119.321,
+   "speech_end": 1123.531,
+   "text": "who did what they were told by a man they had every reason to believe.",
+   "t1": 1124.02
+  },
+  {
+   "ch": 22,
+   "t0": 1129.19,
+   "speech_end": 1132.88,
+   "text": "His adopted son continued the fight to clear his name,",
+   "t1": 1132.81
+  },
+  {
+   "ch": 22,
+   "t0": 1132.83,
+   "speech_end": 1135.7,
+   "text": "and supporters have kept pressing for a",
+   "t1": 1135.63
+  },
+  {
+   "ch": 22,
+   "t0": 1135.65,
+   "speech_end": 1138.54,
+   "text": "retrial even after both men's deaths.",
+   "t1": 1139.14
+  },
+  {
+   "ch": 22,
+   "t0": 1139.558,
+   "speech_end": 1140.968,
+   "text": "Officially, the case is closed.",
+   "t1": 1141.568
+  },
+  {
+   "ch": 22,
+   "t0": 1141.977,
+   "speech_end": 1143.187,
+   "text": "But the questions remain.",
+   "t1": 1143.787
+  },
+  {
+   "ch": 22,
+   "t0": 1144.146,
+   "speech_end": 1146.056,
+   "text": "Who was the man at the bank door,",
+   "t1": 1146.656
+  },
+  {
+   "ch": 22,
+   "t0": 1146.886,
+   "speech_end": 1149.236,
+   "text": "where did he learn to handle poison like that,",
+   "t1": 1149.836
+  },
+  {
+   "ch": 22,
+   "t0": 1149.946,
+   "speech_end": 1152.736,
+   "text": "and why did the investigation turn away from",
+   "t1": 1152.666
+  },
+  {
+   "ch": 22,
+   "t0": 1152.686,
+   "speech_end": 1155.096,
+   "text": "the people best equipped to commit the crime?",
+   "t1": 1155.668
+  }
+ ],
+ "sentences": [
+  {
+   "ch": 1,
+   "i": 1,
+   "t0": 4.3,
+   "t1": 8.204,
+   "text": "Tokyo, January 26, 1948."
+  },
+  {
+   "ch": 1,
+   "i": 2,
+   "t0": 8.624,
+   "t1": 16.475,
+   "text": "Just after three in the afternoon, the Shiinamachi branch of the Imperial Bank has closed its doors for the day."
+  },
+  {
+   "ch": 1,
+   "i": 3,
+   "t0": 16.895,
+   "t1": 20.223,
+   "text": "Inside, sixteen people are finishing their work."
+  },
+  {
+   "ch": 1,
+   "i": 4,
+   "t0": 20.643,
+   "t1": 29.219,
+   "text": "Within half an hour, twelve of them will be dead, and the man responsible will walk out the front door with the bank's cash."
+  },
+  {
+   "ch": 1,
+   "i": 5,
+   "t0": 30.119,
+   "t1": 37.479,
+   "text": "This is the Teigin Incident, one of the strangest and most disputed crimes in Japanese history."
+  },
+  {
+   "ch": 2,
+   "i": 1,
+   "t0": 47.379,
+   "t1": 51.902,
+   "text": "To understand how it happened, you have to picture Tokyo at the time."
+  },
+  {
+   "ch": 2,
+   "i": 2,
+   "t0": 52.322,
+   "t1": 55.564,
+   "text": "The war had ended less than three years earlier."
+  },
+  {
+   "ch": 2,
+   "i": 3,
+   "t0": 55.984,
+   "t1": 63.152,
+   "text": "The city was still scarred by bombing, food was scarce, and the country was under American occupation."
+  },
+  {
+   "ch": 2,
+   "i": 4,
+   "t0": 63.572,
+   "t1": 72.682,
+   "text": "Outbreaks of infectious disease were common, and health officials carrying orders from the occupation authorities were a familiar sight."
+  },
+  {
+   "ch": 2,
+   "i": 5,
+   "t0": 73.102,
+   "t1": 76.28,
+   "text": "People were used to following them without question."
+  },
+  {
+   "ch": 2,
+   "i": 6,
+   "t0": 77.18,
+   "t1": 87.57,
+   "text": "General MacArthur's headquarters, known to everyone simply as GHQ, issued directives that reached into almost every corner of daily life."
+  },
+  {
+   "ch": 2,
+   "i": 7,
+   "t0": 87.99,
+   "t1": 90.614,
+   "text": "Public health was one of its priorities."
+  },
+  {
+   "ch": 2,
+   "i": 8,
+   "t0": 91.034,
+   "t1": 108.143,
+   "text": "Crowded housing, damaged water systems and poor nutrition made epidemics a constant fear, and teams of Japanese health workers moved from district to district, spraying disinfectant, giving inoculations and handing out instructions."
+  },
+  {
+   "ch": 2,
+   "i": 9,
+   "t0": 108.563,
+   "t1": 116.051,
+   "text": "A man with an official armband who said that GHQ required something was not a man you argued with."
+  },
+  {
+   "ch": 2,
+   "i": 10,
+   "t0": 116.951,
+   "t1": 122.903,
+   "text": "That habit of trust, sensible in its time, is the key to everything that happened next."
+  },
+  {
+   "ch": 3,
+   "i": 1,
+   "t0": 128.203,
+   "t1": 134.048,
+   "text": "Around 3:20 pm, a middle-aged man knocked at the bank's side entrance."
+  },
+  {
+   "ch": 3,
+   "i": 2,
+   "t0": 134.468,
+   "t1": 143.322,
+   "text": "He wore an armband that marked him as a public health official and handed over a business card identifying him as a doctor."
+  },
+  {
+   "ch": 3,
+   "i": 3,
+   "t0": 144.222,
+   "t1": 148.318,
+   "text": "He explained that there had been an outbreak of dysentery nearby."
+  },
+  {
+   "ch": 3,
+   "i": 4,
+   "t0": 148.738,
+   "t1": 158.658,
+   "text": "The American occupation authorities, he said, had ordered that everyone at the bank take a preventive medicine before anyone was allowed to leave."
+  },
+  {
+   "ch": 3,
+   "i": 5,
+   "t0": 159.078,
+   "t1": 161.616,
+   "text": "He was calm, polite, and confident."
+  },
+  {
+   "ch": 3,
+   "i": 6,
+   "t0": 162.036,
+   "t1": 164.362,
+   "text": "Nobody had reason to doubt him."
+  },
+  {
+   "ch": 4,
+   "i": 1,
+   "t0": 169.662,
+   "t1": 176.019,
+   "text": "The man gathered the staff, along with members of the caretaker's family, including children."
+  },
+  {
+   "ch": 4,
+   "i": 2,
+   "t0": 176.439,
+   "t1": 178.274,
+   "text": "Sixteen people in all."
+  },
+  {
+   "ch": 4,
+   "i": 3,
+   "t0": 178.694,
+   "t1": 187.483,
+   "text": "He set out cups and showed them exactly how to take the medicine: two doses, one after the other, about a minute apart."
+  },
+  {
+   "ch": 4,
+   "i": 4,
+   "t0": 187.903,
+   "t1": 191.103,
+   "text": "He even drank first to show them it was safe."
+  },
+  {
+   "ch": 4,
+   "i": 5,
+   "t0": 192.003,
+   "t1": 195.31,
+   "text": "Survivors later recalled how practised he seemed."
+  },
+  {
+   "ch": 4,
+   "i": 6,
+   "t0": 195.73,
+   "t1": 208.999,
+   "text": "He measured the liquid into each cup with a dropper, and explained that the first dose was strong and should be swallowed in one go, pushed to the back of the tongue, so that it would not harm their teeth."
+  },
+  {
+   "ch": 4,
+   "i": 7,
+   "t0": 209.899,
+   "t1": 211.521,
+   "text": "They did as he said."
+  },
+  {
+   "ch": 4,
+   "i": 8,
+   "t0": 211.941,
+   "t1": 214.97,
+   "text": "Within minutes, people began collapsing."
+  },
+  {
+   "ch": 4,
+   "i": 9,
+   "t0": 215.39,
+   "t1": 221.171,
+   "text": "Some managed to stagger outside for water or help before falling unconscious."
+  },
+  {
+   "ch": 4,
+   "i": 10,
+   "t0": 221.591,
+   "t1": 224.279,
+   "text": "The liquid was a cyanide compound."
+  },
+  {
+   "ch": 4,
+   "i": 11,
+   "t0": 225.179,
+   "t1": 227.27,
+   "text": "Ten people died at the bank."
+  },
+  {
+   "ch": 4,
+   "i": 12,
+   "t0": 227.69,
+   "t1": 230.335,
+   "text": "Two more died later in hospital."
+  },
+  {
+   "ch": 4,
+   "i": 13,
+   "t0": 230.755,
+   "t1": 237.753,
+   "text": "Of the sixteen, only four survived, and their accounts became the core of the investigation."
+  },
+  {
+   "ch": 5,
+   "i": 1,
+   "t0": 243.053,
+   "t1": 249.624,
+   "text": "When neighbours and passers-by first reached the building, they did not understand what they were seeing."
+  },
+  {
+   "ch": 5,
+   "i": 2,
+   "t0": 250.044,
+   "t1": 253.905,
+   "text": "Some early reports spoke of gas or food poisoning."
+  },
+  {
+   "ch": 5,
+   "i": 3,
+   "t0": 254.325,
+   "t1": 260.853,
+   "text": "People went inside to help, and by the time detectives arrived, the scene had been disturbed."
+  },
+  {
+   "ch": 5,
+   "i": 4,
+   "t0": 261.753,
+   "t1": 269.497,
+   "text": "Within hours, the Metropolitan Police had begun one of the largest investigations in their history."
+  },
+  {
+   "ch": 5,
+   "i": 5,
+   "t0": 269.917,
+   "t1": 272.605,
+   "text": "Laboratory tests confirmed cyanide."
+  },
+  {
+   "ch": 5,
+   "i": 6,
+   "t0": 273.025,
+   "t1": 283.222,
+   "text": "The next morning the story filled the front pages, and a name began to appear that would follow the case for decades: the Teigin Incident."
+  },
+  {
+   "ch": 5,
+   "i": 7,
+   "t0": 284.122,
+   "t1": 290.842,
+   "text": "The question facing investigators was simple to state and almost impossible to answer."
+  },
+  {
+   "ch": 5,
+   "i": 8,
+   "t0": 291.262,
+   "t1": 292.862,
+   "text": "Who was the doctor?"
+  },
+  {
+   "ch": 6,
+   "i": 1,
+   "t0": 298.162,
+   "t1": 309.383,
+   "text": "While his victims lay dying, the man collected the cash within reach: about 164,000 yen and a cheque for around 17,000 yen."
+  },
+  {
+   "ch": 6,
+   "i": 2,
+   "t0": 309.803,
+   "t1": 311.041,
+   "text": "Then he left."
+  },
+  {
+   "ch": 6,
+   "i": 3,
+   "t0": 311.461,
+   "t1": 314.682,
+   "text": "The cheque was cashed at another bank the following day."
+  },
+  {
+   "ch": 6,
+   "i": 4,
+   "t0": 315.582,
+   "t1": 320.745,
+   "text": "It was a large sum, but investigators were struck by what he did not take."
+  },
+  {
+   "ch": 6,
+   "i": 5,
+   "t0": 321.165,
+   "t1": 323.255,
+   "text": "Far more money was in the bank."
+  },
+  {
+   "ch": 6,
+   "i": 6,
+   "t0": 323.675,
+   "t1": 328.113,
+   "text": "Why go to such lengths, and kill twelve people, for only part of it?"
+  },
+  {
+   "ch": 6,
+   "i": 7,
+   "t0": 328.533,
+   "t1": 331.178,
+   "text": "The question has never been fully answered."
+  },
+  {
+   "ch": 7,
+   "i": 1,
+   "t0": 336.478,
+   "t1": 342.601,
+   "text": "The four survivors had each seen the man at close range, in daylight, for several minutes."
+  },
+  {
+   "ch": 7,
+   "i": 2,
+   "t0": 343.021,
+   "t1": 353.154,
+   "text": "They described someone composed and authoritative, perhaps in his forties or fifties, who spoke politely and handled his bottles with ease."
+  },
+  {
+   "ch": 7,
+   "i": 3,
+   "t0": 354.054,
+   "t1": 358.619,
+   "text": "From their accounts, police produced a composite image of the suspect."
+  },
+  {
+   "ch": 7,
+   "i": 4,
+   "t0": 359.039,
+   "t1": 368.191,
+   "text": "It was printed in newspapers and posted across the country, and it became one of the most recognisable faces of post-war Japan."
+  },
+  {
+   "ch": 7,
+   "i": 5,
+   "t0": 368.611,
+   "t1": 370.574,
+   "text": "Thousands of tips poured in."
+  },
+  {
+   "ch": 7,
+   "i": 6,
+   "t0": 371.474,
+   "t1": 373.927,
+   "text": "But memory under shock is fragile."
+  },
+  {
+   "ch": 7,
+   "i": 7,
+   "t0": 374.347,
+   "t1": 382.689,
+   "text": "The survivors had just watched colleagues and family members collapse around them, and their recollections did not always agree."
+  },
+  {
+   "ch": 7,
+   "i": 8,
+   "t0": 383.109,
+   "t1": 391.429,
+   "text": "Over the months that followed, as they were shown photograph after photograph, their certainty would be tested again and again."
+  },
+  {
+   "ch": 8,
+   "i": 1,
+   "t0": 396.729,
+   "t1": 400.804,
+   "text": "Police soon discovered that Teigin was not the first attempt."
+  },
+  {
+   "ch": 8,
+   "i": 2,
+   "t0": 401.224,
+   "t1": 416.69,
+   "text": "In October 1947, a man had tried the same story at a branch of the Yasuda Bank, and on January 19, 1948, just a week before, at a branch of the Mitsubishi Bank."
+  },
+  {
+   "ch": 8,
+   "i": 3,
+   "t0": 417.11,
+   "t1": 421.868,
+   "text": "In both cases the staff drank harmless liquid and nobody was hurt."
+  },
+  {
+   "ch": 8,
+   "i": 4,
+   "t0": 422.768,
+   "t1": 426.16,
+   "text": "At those banks, the visitor had left business cards."
+  },
+  {
+   "ch": 8,
+   "i": 5,
+   "t0": 426.58,
+   "t1": 430.889,
+   "text": "One of them bore the name of a real doctor, Shigeru Matsui."
+  },
+  {
+   "ch": 8,
+   "i": 6,
+   "t0": 431.309,
+   "t1": 438.733,
+   "text": "Matsui had nothing to do with the crime, but he kept careful records of everyone he had exchanged cards with."
+  },
+  {
+   "ch": 8,
+   "i": 7,
+   "t0": 439.153,
+   "t1": 441.606,
+   "text": "Detectives began working through the list."
+  },
+  {
+   "ch": 9,
+   "i": 1,
+   "t0": 446.906,
+   "t1": 453.157,
+   "text": "In Japan, business cards were exchanged constantly, and they carried real social weight."
+  },
+  {
+   "ch": 9,
+   "i": 2,
+   "t0": 453.577,
+   "t1": 457.929,
+   "text": "Matsui's record turned an impossible search into a finite one."
+  },
+  {
+   "ch": 9,
+   "i": 3,
+   "t0": 458.349,
+   "t1": 464.898,
+   "text": "If the killer had used a genuine Matsui card, he must have received it from Matsui himself."
+  },
+  {
+   "ch": 9,
+   "i": 4,
+   "t0": 465.318,
+   "t1": 473.787,
+   "text": "So detectives set out to find every person on the list and ask a single question: can you show us the card you were given?"
+  },
+  {
+   "ch": 9,
+   "i": 5,
+   "t0": 474.687,
+   "t1": 475.818,
+   "text": "Most could."
+  },
+  {
+   "ch": 9,
+   "i": 6,
+   "t0": 476.238,
+   "t1": 479.673,
+   "text": "Others had lost theirs but were cleared in other ways."
+  },
+  {
+   "ch": 9,
+   "i": 7,
+   "t0": 480.093,
+   "t1": 493.917,
+   "text": "The recipients were scattered across the country, and through the spring and summer of 1948 a small team of detectives travelled by slow, crowded trains, crossing names off one at a time."
+  },
+  {
+   "ch": 9,
+   "i": 8,
+   "t0": 494.817,
+   "t1": 502.134,
+   "text": "They believed that patient police work, not theories about secret wartime programmes, would solve the case."
+  },
+  {
+   "ch": 9,
+   "i": 9,
+   "t0": 502.554,
+   "t1": 505.541,
+   "text": "Their search led them north, to Hokkaido."
+  },
+  {
+   "ch": 10,
+   "i": 1,
+   "t0": 510.841,
+   "t1": 518.244,
+   "text": "Sadamichi Hirasawa was born in 1892 and grew up partly in the port city of Otaru."
+  },
+  {
+   "ch": 10,
+   "i": 2,
+   "t0": 518.664,
+   "t1": 527.368,
+   "text": "He became a painter, and a respected one, known especially for his work in tempera, a technique using pigment bound with egg."
+  },
+  {
+   "ch": 10,
+   "i": 3,
+   "t0": 527.788,
+   "t1": 539.436,
+   "text": "His quiet landscapes and flower studies were shown at major official exhibitions, and by the 1940s his name appeared regularly in catalogues and newspapers."
+  },
+  {
+   "ch": 10,
+   "i": 4,
+   "t0": 540.336,
+   "t1": 542.832,
+   "text": "His private life was more troubled."
+  },
+  {
+   "ch": 10,
+   "i": 5,
+   "t0": 543.252,
+   "t1": 552.958,
+   "text": "In 1925 he received a course of rabies vaccinations, and his family later said his personality changed afterwards."
+  },
+  {
+   "ch": 10,
+   "i": 6,
+   "t0": 553.378,
+   "t1": 557.154,
+   "text": "He had money problems, and a record of minor fraud."
+  },
+  {
+   "ch": 10,
+   "i": 7,
+   "t0": 558.054,
+   "t1": 565.18,
+   "text": "In 1947, he had met Doctor Matsui on a ferry, and the two men exchanged cards."
+  },
+  {
+   "ch": 10,
+   "i": 8,
+   "t0": 565.6,
+   "t1": 570.57,
+   "text": "When detectives asked to see that card, Hirasawa could not produce it."
+  },
+  {
+   "ch": 10,
+   "i": 9,
+   "t0": 570.99,
+   "t1": 573.209,
+   "text": "He said his wallet had been stolen."
+  },
+  {
+   "ch": 11,
+   "i": 1,
+   "t0": 578.509,
+   "t1": 586.85,
+   "text": "One name on that list was Sadamichi Hirasawa, a 56-year-old painter who was well known in the art world."
+  },
+  {
+   "ch": 11,
+   "i": 2,
+   "t0": 587.27,
+   "t1": 593.564,
+   "text": "In August 1948, police arrested him at his home in Otaru, Hokkaido."
+  },
+  {
+   "ch": 11,
+   "i": 3,
+   "t0": 594.464,
+   "t1": 597.322,
+   "text": "The case against him looked strong on paper."
+  },
+  {
+   "ch": 11,
+   "i": 4,
+   "t0": 597.742,
+   "t1": 600.217,
+   "text": "He could not produce Matsui's card."
+  },
+  {
+   "ch": 11,
+   "i": 5,
+   "t0": 600.637,
+   "t1": 604.306,
+   "text": "He had come into a sum of money he could not explain."
+  },
+  {
+   "ch": 11,
+   "i": 6,
+   "t0": 604.726,
+   "t1": 607.116,
+   "text": "And he had a past record of fraud."
+  },
+  {
+   "ch": 11,
+   "i": 7,
+   "t0": 607.536,
+   "t1": 614.768,
+   "text": "But survivors could not firmly identify him, and no direct physical evidence connected him to the poison."
+  },
+  {
+   "ch": 12,
+   "i": 1,
+   "t0": 620.068,
+   "t1": 624.548,
+   "text": "What happened next has to be understood in the context of the time."
+  },
+  {
+   "ch": 12,
+   "i": 2,
+   "t0": 624.968,
+   "t1": 637.875,
+   "text": "Japan's new Constitution, in force since May 1947, said that forced confessions could not be used as evidence, and that no one could be convicted on a confession alone."
+  },
+  {
+   "ch": 12,
+   "i": 3,
+   "t0": 638.295,
+   "t1": 653.761,
+   "text": "But a new Code of Criminal Procedure did not take effect until January 1949, and Hirasawa's case was handled under the older system, in which a confession was treated as the strongest evidence of all."
+  },
+  {
+   "ch": 12,
+   "i": 4,
+   "t0": 654.661,
+   "t1": 665.477,
+   "text": "Suspects could be held for long periods in police cells, questioned for hours at a stretch, with little access to a lawyer and no recording of what was said."
+  },
+  {
+   "ch": 13,
+   "i": 1,
+   "t0": 670.777,
+   "t1": 673.913,
+   "text": "Hirasawa was interrogated for weeks."
+  },
+  {
+   "ch": 13,
+   "i": 2,
+   "t0": 674.333,
+   "t1": 676.594,
+   "text": "At first he denied everything."
+  },
+  {
+   "ch": 13,
+   "i": 3,
+   "t0": 677.014,
+   "t1": 680.62,
+   "text": "Then, after more than a month in custody, he confessed."
+  },
+  {
+   "ch": 13,
+   "i": 4,
+   "t0": 681.04,
+   "t1": 687.909,
+   "text": "Soon afterwards, he took it back, saying the confession had been forced out of him under intense pressure."
+  },
+  {
+   "ch": 13,
+   "i": 5,
+   "t0": 688.809,
+   "t1": 691.668,
+   "text": "His supporters also pointed to his health."
+  },
+  {
+   "ch": 13,
+   "i": 6,
+   "t0": 692.088,
+   "t1": 701.816,
+   "text": "Years earlier, a rabies vaccination had reportedly left him with a neurological condition that could cause confusion and false memories."
+  },
+  {
+   "ch": 13,
+   "i": 7,
+   "t0": 702.236,
+   "t1": 709.596,
+   "text": "They argued that a man in that state, under relentless questioning, could be led to confess to almost anything."
+  },
+  {
+   "ch": 14,
+   "i": 1,
+   "t0": 714.896,
+   "t1": 720.933,
+   "text": "At his trial in the Tokyo District Court, Hirasawa denied the crime completely."
+  },
+  {
+   "ch": 14,
+   "i": 2,
+   "t0": 721.353,
+   "t1": 738.697,
+   "text": "His lawyers argued that the confession was coerced and unreliable, that the identification evidence was weak, and that the prosecution had never explained how a painter could have obtained a fast-acting poison, or learned to handle it with such confidence."
+  },
+  {
+   "ch": 14,
+   "i": 3,
+   "t0": 739.597,
+   "t1": 746.445,
+   "text": "The prosecution relied on the confession, the missing card, the unexplained money and his past."
+  },
+  {
+   "ch": 14,
+   "i": 4,
+   "t0": 746.865,
+   "t1": 753.201,
+   "text": "The gap at the centre of the case, the poison, pointed in a direction the court did not follow."
+  },
+  {
+   "ch": 15,
+   "i": 1,
+   "t0": 758.501,
+   "t1": 764.496,
+   "text": "Many people believed the police had the wrong man from the start, and there was a reason why."
+  },
+  {
+   "ch": 15,
+   "i": 2,
+   "t0": 765.396,
+   "t1": 767.977,
+   "text": "The killer had handled the poison with skill."
+  },
+  {
+   "ch": 15,
+   "i": 3,
+   "t0": 768.397,
+   "t1": 776.12,
+   "text": "He measured doses precisely, used a two-stage method, and knew how to make the poison act with a short delay."
+  },
+  {
+   "ch": 15,
+   "i": 4,
+   "t0": 776.54,
+   "t1": 783.068,
+   "text": "Early in the investigation, detectives suspected someone with military training in poisons."
+  },
+  {
+   "ch": 15,
+   "i": 5,
+   "t0": 783.488,
+   "t1": 799.168,
+   "text": "They questioned former members of the Imperial Army's Noborito research institute and of Unit 731, the secret unit that had carried out biological-warfare research and lethal experiments on prisoners during the war."
+  },
+  {
+   "ch": 15,
+   "i": 6,
+   "t0": 800.068,
+   "t1": 802.585,
+   "text": "That line of inquiry was then dropped."
+  },
+  {
+   "ch": 15,
+   "i": 7,
+   "t0": 803.005,
+   "t1": 813.416,
+   "text": "At the time, the United States had quietly granted Unit 731's leaders immunity from prosecution in exchange for their research data."
+  },
+  {
+   "ch": 15,
+   "i": 8,
+   "t0": 813.836,
+   "t1": 821.302,
+   "text": "Many researchers believe the occupation authorities did not want the investigation to expose those men."
+  },
+  {
+   "ch": 15,
+   "i": 9,
+   "t0": 821.722,
+   "t1": 827.546,
+   "text": "This has never been proven, but it remains the most persistent theory about the case."
+  },
+  {
+   "ch": 16,
+   "i": 1,
+   "t0": 832.846,
+   "t1": 841.038,
+   "text": "Unit 731 was based near Harbin, in occupied north-east China, under the command of Shirō Ishii."
+  },
+  {
+   "ch": 16,
+   "i": 2,
+   "t0": 841.458,
+   "t1": 849.373,
+   "text": "Its prisoners, most of them Chinese, were used in experiments that are remembered among the gravest crimes of the war."
+  },
+  {
+   "ch": 16,
+   "i": 3,
+   "t0": 850.273,
+   "t1": 855.222,
+   "text": "After the surrender, American officials questioned Ishii and his colleagues."
+  },
+  {
+   "ch": 16,
+   "i": 4,
+   "t0": 855.642,
+   "t1": 862.575,
+   "text": "The outcome was that the unit's leaders were never put on trial, and their research passed to the United States."
+  },
+  {
+   "ch": 16,
+   "i": 5,
+   "t0": 862.995,
+   "t1": 866.345,
+   "text": "For decades the arrangement stayed largely hidden."
+  },
+  {
+   "ch": 16,
+   "i": 6,
+   "t0": 866.765,
+   "t1": 876.727,
+   "text": "It came to public attention through journalists and historians in the 1970s and 1980s, long after Hirasawa had been convicted."
+  },
+  {
+   "ch": 16,
+   "i": 7,
+   "t0": 877.627,
+   "t1": 890.875,
+   "text": "Notes kept by one of the Teigin detectives, published years later, show that former members of these units were interviewed in 1948, and that some described methods resembling the crime."
+  },
+  {
+   "ch": 16,
+   "i": 8,
+   "t0": 891.295,
+   "t1": 896.458,
+   "text": "No document has been found showing that GHQ ordered the inquiry stopped."
+  },
+  {
+   "ch": 16,
+   "i": 9,
+   "t0": 896.878,
+   "t1": 899.054,
+   "text": "The connection remains a theory."
+  },
+  {
+   "ch": 17,
+   "i": 1,
+   "t0": 904.354,
+   "t1": 908.258,
+   "text": "In 1950, Hirasawa was sentenced to death."
+  },
+  {
+   "ch": 17,
+   "i": 2,
+   "t0": 908.678,
+   "t1": 913.457,
+   "text": "Japan's Supreme Court upheld the sentence in 1955."
+  },
+  {
+   "ch": 17,
+   "i": 3,
+   "t0": 914.357,
+   "t1": 916.853,
+   "text": "But the sentence was never carried out."
+  },
+  {
+   "ch": 17,
+   "i": 4,
+   "t0": 917.273,
+   "t1": 925.358,
+   "text": "In Japan, an execution needs the justice minister's signature, and minister after minister refused to sign."
+  },
+  {
+   "ch": 17,
+   "i": 5,
+   "t0": 925.778,
+   "t1": 930.493,
+   "text": "Hirasawa's lawyers filed request after request for a retrial."
+  },
+  {
+   "ch": 17,
+   "i": 6,
+   "t0": 930.913,
+   "t1": 932.705,
+   "text": "All of them were rejected."
+  },
+  {
+   "ch": 18,
+   "i": 1,
+   "t0": 938.005,
+   "t1": 944.704,
+   "text": "Governments rose and fell, and with each new cabinet a new justice minister was handed the file."
+  },
+  {
+   "ch": 18,
+   "i": 2,
+   "t0": 945.124,
+   "t1": 946.574,
+   "text": "None of them signed."
+  },
+  {
+   "ch": 18,
+   "i": 3,
+   "t0": 946.994,
+   "t1": 952.136,
+   "text": "They rarely explained why in public, but the hesitation spoke for itself."
+  },
+  {
+   "ch": 18,
+   "i": 4,
+   "t0": 952.556,
+   "t1": 961.046,
+   "text": "The conviction rested on a retracted confession, and doubts about the poison and the identification had never gone away."
+  },
+  {
+   "ch": 18,
+   "i": 5,
+   "t0": 961.946,
+   "t1": 964.101,
+   "text": "The result was a strange limbo."
+  },
+  {
+   "ch": 18,
+   "i": 6,
+   "t0": 964.521,
+   "t1": 968.126,
+   "text": "Hirasawa was neither freed nor executed."
+  },
+  {
+   "ch": 18,
+   "i": 7,
+   "t0": 968.546,
+   "t1": 979.576,
+   "text": "In an era when condemned prisoners were usually given little or no warning of their execution, he lived with that uncertainty not for months, but for decades."
+  },
+  {
+   "ch": 19,
+   "i": 1,
+   "t0": 984.876,
+   "t1": 988.225,
+   "text": "Outside the prison, the case never went quiet."
+  },
+  {
+   "ch": 19,
+   "i": 2,
+   "t0": 988.645,
+   "t1": 996.667,
+   "text": "In the early 1960s, the writer Tetsurō Morikawa founded an association to win Hirasawa's release."
+  },
+  {
+   "ch": 19,
+   "i": 3,
+   "t0": 997.087,
+   "t1": 1009.567,
+   "text": "The crime novelist Seichō Matsumoto wrote about the case and the possibility of a cover-up, and in 1964 the director Kei Kumai made a feature film about it."
+  },
+  {
+   "ch": 19,
+   "i": 4,
+   "t0": 1009.987,
+   "t1": 1015.981,
+   "text": "In English, William Triplett published a book-length investigation in 1985."
+  },
+  {
+   "ch": 19,
+   "i": 5,
+   "t0": 1016.881,
+   "t1": 1023.601,
+   "text": "Through it all, Hirasawa kept painting in his cell, and his supporters exhibited the work outside."
+  },
+  {
+   "ch": 19,
+   "i": 6,
+   "t0": 1024.021,
+   "t1": 1029.163,
+   "text": "To them, it was proof that the man was still present, still working, still waiting."
+  },
+  {
+   "ch": 20,
+   "i": 1,
+   "t0": 1034.463,
+   "t1": 1042.399,
+   "text": "Sadamichi Hirasawa spent almost 39 years in prison, more than 32 of them on death row."
+  },
+  {
+   "ch": 20,
+   "i": 2,
+   "t0": 1042.819,
+   "t1": 1044.611,
+   "text": "He kept painting throughout."
+  },
+  {
+   "ch": 20,
+   "i": 3,
+   "t0": 1045.031,
+   "t1": 1055.847,
+   "text": "On May 10, 1987, he died of pneumonia in a prison hospital at the age of 95, still insisting he was innocent."
+  },
+  {
+   "ch": 21,
+   "i": 1,
+   "t0": 1061.147,
+   "t1": 1063.92,
+   "text": "The Teigin Incident left a long shadow."
+  },
+  {
+   "ch": 21,
+   "i": 2,
+   "t0": 1064.34,
+   "t1": 1075.732,
+   "text": "It was one of the deadliest robberies in Japanese history, carried out not with weapons but with an armband, a story and the trust of ordinary people."
+  },
+  {
+   "ch": 21,
+   "i": 3,
+   "t0": 1076.632,
+   "t1": 1080.152,
+   "text": "It also became a case about justice itself."
+  },
+  {
+   "ch": 21,
+   "i": 4,
+   "t0": 1080.572,
+   "t1": 1094.61,
+   "text": "In the 1980s, several Japanese death-row prisoners were exonerated at retrial after decades behind bars, their convictions found to rest on confessions that could not be trusted."
+  },
+  {
+   "ch": 21,
+   "i": 5,
+   "t0": 1095.03,
+   "t1": 1107.531,
+   "text": "Each of those cases revived the questions about Hirasawa, and the debate over long interrogations and the weight given to confessions continues in Japan today."
+  },
+  {
+   "ch": 21,
+   "i": 6,
+   "t0": 1108.431,
+   "t1": 1123.94,
+   "text": "And at the centre of it all are the twelve people who died in Shiinamachi: clerks and a caretaker's family, at the end of an ordinary working day, who did what they were told by a man they had every reason to believe."
+  },
+  {
+   "ch": 22,
+   "i": 1,
+   "t0": 1129.24,
+   "t1": 1138.968,
+   "text": "His adopted son continued the fight to clear his name, and supporters have kept pressing for a retrial even after both men's deaths."
+  },
+  {
+   "ch": 22,
+   "i": 2,
+   "t0": 1139.388,
+   "t1": 1141.607,
+   "text": "Officially, the case is closed."
+  },
+  {
+   "ch": 22,
+   "i": 3,
+   "t0": 1142.027,
+   "t1": 1143.776,
+   "text": "But the questions remain."
+  },
+  {
+   "ch": 22,
+   "i": 4,
+   "t0": 1144.196,
+   "t1": 1155.588,
+   "text": "Who was the man at the bank door, where did he learn to handle poison like that, and why did the investigation turn away from the people best equipped to commit the crime?"
+  }
+ ]
+}

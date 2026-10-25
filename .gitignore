@@ -3,3 +3,5 @@ build/
 __pycache__/
 *.wav
 *.zip
+film/out/
+film/voice/lines/
